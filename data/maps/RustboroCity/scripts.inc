@@ -915,278 +915,258 @@ RustboroCity_EventScript_Boy1::
 	end
 
 RustboroCity_Text_WeShortenItToDevon:
-	.string "The DEVON CORPORATION…\n"
-	.string "We all just shorten it to DEVON.\p"
-	.string "That company makes all sorts of\n"
-	.string "convenient products.$"
+	.string "DEVON CORPORATION...\n"
+	.string "Wij noemen het gewoon DEVON.\p"
+	.string "Ze maken allerlei handige spullen.$"
 
 RustboroCity_Text_SneakyLookingManWentAroundCorner:
-	.string "Hm? A sneaky-looking man?\p"
-	.string "Come to think of it, yes, a shady-\n"
-	.string "looking guy went around the corner.$"
+	.string "Hmm? Een verdachte man?\p"
+	.string "Ja, ik zag iemand die er verdacht\n"
+	.string "uitzag om de hoek gaan.$"
 
 RustboroCity_Text_HaveYouChallengedGym:
-	.string "Have you taken the POKéMON GYM\n"
-	.string "challenge?\p"
-	.string "When you get that shiny GYM BADGE\n"
-	.string "in hand, I guess TRAINERS begin to\l"
-	.string "realize what is required of them.$"
+	.string "Heb je de GYM al uitgedaagd?\p"
+	.string "Als je die glimmende BADGE krijgt,\n"
+	.string "voel je pas echt wat het betekent\l"
+	.string "om trainer te zijn.$"
 
 RustboroCity_Text_HeyThatsRustborosGymBadge:
-	.string "Hey, that's RUSTBORO's GYM BADGE!\p"
-	.string "Out of all the POKéMON GYM BADGES,\n"
-	.string "RUSTBORO's is the coolest, I'd say.$"
+	.string "He, dat is de BADGE van RUSTBORO!\p"
+	.string "Ik vind die de mooiste van allemaal.$"
 
 RustboroCity_Text_YoureNewAroundHere:
-	.string "Oh? Who might you be?\n"
-	.string "You're a new face around these parts.\p"
-	.string "Have you just transferred into the\n"
-	.string "POKéMON TRAINER'S SCHOOL?$"
+	.string "O? Wie ben jij?\n"
+	.string "Ik heb je hier nog nooit gezien.\p"
+	.string "Ben je nieuw op de trainersschool?$"
 
 RustboroCity_Text_GymLeaderIsntEasyWithFire:
-	.string "I challenged the GYM LEADER, but…\p"
-	.string "It's not going to be easy winning with\n"
-	.string "my FIRE-type POKéMON…\p"
-	.string "FIRE-type POKéMON don't match up\n"
-	.string "well against ROCK-type POKéMON…$"
+	.string "Ik daagde de GYM LEADER uit, maar...\p"
+	.string "Met mijn FIRE-type Pokémon\n"
+	.string "wordt winnen lastig.\p"
+	.string "ROCK-type Pokémon zijn sterk\n"
+	.string "tegen FIRE-type Pokémon.$"
 
 RustboroCity_Text_MrBrineyWalksInTheTunnel:
-	.string "The old sailor MR. BRINEY lives in\n"
-	.string "a cottage by the sea.\p"
-	.string "He goes for walks in the tunnel every\n"
-	.string "so often.$"
+	.string "De oude zeeman meneer BRINEY\n"
+	.string "woont in een huisje aan zee.\p"
+	.string "Hij wandelt soms door de tunnel.$"
 
 RustboroCity_Text_MrBrineyLovesPeeko:
-	.string "The old sailor MR. BRINEY lives in\n"
-	.string "a cottage by the sea.\p"
-	.string "He said he was going shopping in\n"
-	.string "SLATEPORT for his pet, PEEKO.\p"
-	.string "That old sea dog, he must really love\n"
-	.string "that PEEKO.$"
+	.string "De oude zeeman meneer BRINEY\n"
+	.string "woont in een huisje aan zee.\p"
+	.string "Hij ging naar SLATEPORT om iets\n"
+	.string "voor zijn PEEKO te kopen.\p"
+	.string "Die oude zeeman is dol op PEEKO!$"
 
 RustboroCity_Text_WowYouHavePokemon:
-	.string "Wow, you have POKéMON with you, too.\p"
-	.string "When I get bigger, I'm going to go\n"
-	.string "places with POKéMON, too.$"
+	.string "Wauw, jij hebt ook Pokémon!\p"
+	.string "Als ik groot ben, ga ik ook\n"
+	.string "met Pokémon op reis.$"
 
 RustboroCity_Text_CatchRarePokemonIfIGoToSchool:
-	.string "POKéMON TRAINER'S SCHOOL!\p"
-	.string "If I go to this school, will I be able\n"
-	.string "to catch rare POKéMON easily?$"
+	.string "Een Pokémon-trainersschool!\p"
+	.string "Kan ik daar leren hoe ik\n"
+	.string "zeldzame Pokémon vang?$"
 
 RustboroCity_Text_PokemonCanChangeLookFromExp:
-	.string "If a POKéMON gains experience in\n"
-	.string "battles, it can sometimes change in\l"
-	.string "the way it looks.$"
+	.string "Als Pokémon XP krijgen door\n"
+	.string "gevechten, kunnen ze soms\l"
+	.string "van uiterlijk veranderen.$"
 
 RustboroCity_Text_PokemonChangeShape:
-	.string "A POKéMON changes shape?\n"
-	.string "If one did that, I would be shocked!$"
+	.string "Een Pokémon die van vorm verandert?\n"
+	.string "Daar zou ik van schrikken!$"
 
 RustboroCity_Text_TradePokemonGrowFast:
-	.string "A POKéMON you get in a trade from\n"
-	.string "someone grows fast.\p"
-	.string "But if you don't have certain GYM\n"
-	.string "BADGES, it may not obey you…$"
+	.string "Een geruilde Pokémon groeit snel.\p"
+	.string "Maar zonder de juiste GYM BADGES\n"
+	.string "luistert hij misschien niet naar je.$"
 
 RustboroCity_Text_OutOfTheWay:
-	.string "Get out!\n"
-	.string "Out of the way!$"
+	.string "Aan de kant!\n"
+	.string "Laat me erdoor!$"
 
 RustboroCity_Text_WaitDontTakeMyGoods:
-	.string "Wait! Pleeeaaase!\p"
-	.string "Don't take my GOODS!$"
+	.string "Wacht! Alsjeblieft!\p"
+	.string "Neem mijn spullen niet mee!$"
 
 RustboroCity_Text_HelpMeIWasRobbed:
-	.string "Oh, it's you!\p"
-	.string "You're that fantastic TRAINER who\n"
-	.string "helped me in PETALBURG WOODS!\p"
-	.string "Help me! I was robbed by TEAM AQUA!\n"
-	.string "I have to get the DEVON GOODS back!\p"
-	.string "If I don't…\n"
-	.string "I'm going to be in serious trouble.$"
+	.string "O, jij bent het!\p"
+	.string "Jij hielp me in PETALBURG WOODS!\p"
+	.string "Help! TEAM AQUA heeft me beroofd!\n"
+	.string "Ik moet de DEVON GOODS terug!\p"
+	.string "Anders krijg ik grote problemen.$"
 
 RustboroCity_Text_ShadyCharacterTookOffTowardsTunnel:
-	.string "That shady character, I think he took\n"
-	.string "off towards the tunnel over there.$"
+	.string "Die verdachte man ging volgens mij\n"
+	.string "naar de tunnel daar verderop.$"
 
 RustboroCity_Text_YouGotItThankYou:
-	.string "Oh! How did it go?\n"
-	.string "The DEVON GOODS?\p"
-	.string "You did!\n"
-	.string "You got them back!\p"
-	.string "You really are a great TRAINER!\p"
-	.string "I know! As my thanks, I'll give you\n"
-	.string "another GREAT BALL!$"
+	.string "O! Is het gelukt?\n"
+	.string "De DEVON GOODS?\p"
+	.string "Je hebt ze terug!\n"
+	.string "Jij bent echt een geweldige trainer!\p"
+	.string "Als dank krijg je nog\n"
+	.string "een GREAT BALL!$"
 
 RustboroCity_Text_YoureLoadedWithItems:
-	.string "You're loaded with items.\n"
-	.string "I can't give you this GREAT BALL.$"
+	.string "Je tas zit helemaal vol.\n"
+	.string "Ik kan je de GREAT BALL niet geven.$"
 
 RustboroCity_Text_PleaseComeWithMe:
-	.string "Excuse me, please!\n"
-	.string "Please come with me!$"
+	.string "Pardon!\n"
+	.string "Kom alsjeblieft met me mee!$"
 
 RustboroCity_Text_MayHiLetsRegister:
-	.string "MAY: Oh, hi, {PLAYER}{KUN}!\p"
-	.string "You had a MATCH CALL feature put\n"
-	.string "on your POKéNAV!\p"
-	.string "Let's register each other so we can\n"
-	.string "contact one another anytime!\p"
-	.string "… … … … … …$"
+	.string "MAY: He, {PLAYER}!\p"
+	.string "Je hebt MATCH CALL op je POKéNAV!\p"
+	.string "Laten we elkaar toevoegen.\n"
+	.string "Dan kunnen we altijd bellen!\p"
+	.string "... ... ...$"
 
 RustboroCity_Text_RegisteredMay:
-	.string "Registered MAY\n"
-	.string "in the POKéNAV.$"
+	.string "MAY is toegevoegd\n"
+	.string "aan de POKéNAV.$"
 
 RustboroCity_Text_MayPassedBrineyWantToBattle:
-	.string "MAY: Oh, by the way, I passed\n"
-	.string "MR. BRINEY in PETALBURG WOODS.\p"
-	.string "I guess he's on his way home to his\n"
-	.string "cottage by the sea.\p"
-	.string "How's your POKéDEX coming along,\n"
-	.string "{PLAYER}{KUN}? Mine's looking pretty decent!\p"
-	.string "So…\n"
-	.string "How about a little battle?$"
+	.string "MAY: Ik kwam meneer BRINEY tegen\n"
+	.string "in PETALBURG WOODS.\p"
+	.string "Hij ging vast naar zijn huisje\n"
+	.string "aan zee.\p"
+	.string "Hoe gaat je POKéDEX, {PLAYER}?\n"
+	.string "Die van mij gaat best goed!\p"
+	.string "Zullen we eens vechten?$"
 
 RustboroCity_Text_MayOhHaventRaisedPokemonEnough:
-	.string "MAY: Oh, what's the matter?\p"
-	.string "Haven't you caught or raised your\n"
-	.string "POKéMON very much?\p"
-	.string "That's not very good for a TRAINER!$"
+	.string "MAY: Wat is er?\p"
+	.string "Heb je nog niet veel Pokémon\n"
+	.string "gevangen of getraind?\p"
+	.string "Dat is niet zo goed voor een trainer!$"
 
 RustboroCity_Text_MayWantToBattle:
-	.string "MAY: So, what do you think?\n"
-	.string "How about a little battle here?$"
+	.string "MAY: Wat denk je?\n"
+	.string "Zullen we hier vechten?$"
 
 RustboroCity_Text_MayImNotGoingToLose:
-	.string "MAY: You just became a TRAINER,\n"
-	.string "{PLAYER}{KUN}. I'm not going to lose!$"
+	.string "MAY: Je bent pas trainer geworden,\n"
+	.string "{PLAYER}. Ik ga niet verliezen!$"
 
 RustboroCity_Text_MayDefeat:
-	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.string "Oei! Jij bent beter dan ik dacht!$"
 
 RustboroCity_Text_MayMrBrineyHint:
-	.string "MAY: Oh, by the way, MR. BRINEY, who\n"
-	.string "I just passed…\p"
-	.string "{PLAYER}{KUN}, you just moved here so you\n"
-	.string "might not know this, but MR. BRINEY\l"
-	.string "was once a revered seafarer.$"
+	.string "MAY: Over meneer BRINEY gesproken...\p"
+	.string "Je woont hier pas, dus misschien\n"
+	.string "weet je het nog niet.\p"
+	.string "Hij was vroeger een beroemde zeeman.$"
 
 RustboroCity_Text_BrendanHiLetsRegister:
-	.string "BRENDAN: Oh, hey, {PLAYER}!\p"
-	.string "You had a MATCH CALL feature put\n"
-	.string "on your POKéNAV! Cool!\p"
-	.string "Let's register each other so we can\n"
-	.string "get in touch anytime!\p"
-	.string "… … … … … …$"
+	.string "BRENDAN: He, {PLAYER}!\p"
+	.string "Je hebt MATCH CALL op je POKéNAV!\n"
+	.string "Cool!\p"
+	.string "Laten we elkaar toevoegen.\n"
+	.string "Dan kunnen we altijd bellen!\p"
+	.string "... ... ...$"
 
 RustboroCity_Text_RegisteredBrendan:
-	.string "Registered BRENDAN\n"
-	.string "in the POKéNAV.$"
+	.string "BRENDAN is toegevoegd\n"
+	.string "aan de POKéNAV.$"
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle:
-	.string "BRENDAN: By the way, {PLAYER}, I walked\n"
-	.string "by MR. BRINEY in PETALBURG WOODS.\p"
-	.string "I bet he was on his way home to his\n"
-	.string "cottage by the sea.\p"
-	.string "{PLAYER}, how's your POKéDEX?\n"
-	.string "Have you filled in any pages yet?\p"
-	.string "Mine rules.\p"
-	.string "Want to have a battle to test how\n"
-	.string "far you've progressed?$"
+	.string "BRENDAN: Ik kwam meneer BRINEY tegen\n"
+	.string "in PETALBURG WOODS.\p"
+	.string "Hij ging vast naar zijn huisje\n"
+	.string "aan zee.\p"
+	.string "Hoe gaat je POKéDEX, {PLAYER}?\n"
+	.string "Heb je al wat pagina's gevuld?\p"
+	.string "Die van mij is geweldig!\p"
+	.string "Zullen we eens vechten om te zien\n"
+	.string "hoe ver je bent?$"
 
 RustboroCity_Text_BrendanNoConfidenceInPokemon:
-	.string "BRENDAN: What's the matter? Don't have\n"
-	.string "any confidence in your POKéMON?$"
+	.string "BRENDAN: Wat is er? Vertrouw je\n"
+	.string "je Pokémon niet?$"
 
 RustboroCity_Text_BrendanWantToBattle:
-	.string "BRENDAN: What's up?\n"
-	.string "Want to have a battle with me?$"
+	.string "BRENDAN: Hoe gaat het?\n"
+	.string "Wil je tegen me vechten?$"
 
 RustboroCity_Text_BrendanIWontGoEasy:
-	.string "BRENDAN: I know you just became\n"
-	.string "a TRAINER, but I won't go easy!$"
+	.string "BRENDAN: Je bent pas trainer,\n"
+	.string "maar ik doe niet rustig aan!$"
 
 RustboroCity_Text_BrendanDefeat:
-	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.string "Hmm... Jij bent best goed.$"
 
 RustboroCity_Text_BrendanMrBrineyHint:
-	.string "BRENDAN: By the way, you know\n"
-	.string "MR. BRINEY? The guy I just passed?\p"
-	.string "I bet you didn't know this, since you\n"
-	.string "just moved here, {PLAYER}, but\l"
-	.string "MR. BRINEY was once a great sailor.$"
+	.string "BRENDAN: Ken je meneer BRINEY?\n"
+	.string "Ik kwam hem net tegen.\p"
+	.string "Je woont hier pas, {PLAYER},\n"
+	.string "dus misschien weet je het niet.\p"
+	.string "Hij was vroeger een geweldige zeeman.$"
 
 RustboroCity_Text_TunnelNearingCompletion:
-	.string "“Timesaving tunnel nearing\n"
-	.string "completion!”\p"
-	.string "…Is what it says on the sign, but\n"
-	.string "there's also a big “X” splashed\l"
-	.string "across it in red paint…$"
+	.string "De nieuwe tunnel is bijna klaar!\p"
+	.string "Dat staat op het bord, maar\n"
+	.string "er is een groot rood kruis\l"
+	.string "overheen geschilderd...$"
 
 RustboroCity_Text_DevonCorpSign:
 	.string "DEVON CORPORATION\p"
-	.string "“For all your living needs, we make\n"
-	.string "it all.”$"
+	.string "Wij maken alles wat je nodig hebt!$"
 
 RustboroCity_Text_GymSign:
 	.string "RUSTBORO CITY POKéMON GYM\n"
 	.string "LEADER: ROXANNE\p"
-	.string "“The ROCK-loving honors student!”$"
+	.string "De slimme leerling die van ROCK houdt!$"
 
 RustboroCity_Text_DevonCorpBranchOfficeSign:
-	.string "DEVON CORP. BRANCH OFFICE\p"
-	.string "“Access limited to DEVON employees\n"
-	.string "and authorized personnel.”$"
+	.string "DEVON CORP. KANTOOR\p"
+	.string "Alleen toegang voor medewerkers\n"
+	.string "en mensen met toestemming.$"
 
 RustboroCity_Text_CitySign:
 	.string "RUSTBORO CITY\p"
-	.string "“The city probing the integration of\n"
-	.string "nature and science.”$"
+	.string "Waar natuur en wetenschap\n"
+	.string "samenkomen.$"
 
 RustboroCity_Text_TrainersSchoolSign:
-	.string "POKéMON TRAINER'S SCHOOL\p"
-	.string "“We'll teach you anything about\n"
-	.string "POKéMON!”$"
+	.string "POKéMON-TRAINERSSCHOOL\p"
+	.string "Wij leren je alles over Pokémon!$"
 
 RustboroCity_Text_CuttersHouse:
-	.string "CUTTER'S HOUSE$"
+	.string "HUIS VAN DE CUT-MEESTER$"
 
 RustboroCity_Text_DevelopedNewPokenavFeature:
-	.string "I've been developing an added feature\n"
-	.string "for the POKéNAV…\p"
-	.string "And it turned out great!\p"
-	.string "{PLAYER}, may I see that POKéNAV?\n"
-	.string "The one our PRESIDENT gave you?$"
+	.string "Ik heb iets nieuws gemaakt\n"
+	.string "voor de POKéNAV.\p"
+	.string "Het werkt geweldig!\p"
+	.string "{PLAYER}, mag ik je POKéNAV zien?\n"
+	.string "Die je van onze directeur kreeg?$"
 
 RustboroCity_Text_AddedMatchCallPleaseCallMrStone:
-	.string "There you go, {PLAYER}!\p"
-	.string "I added a new feature named\n"
-	.string "MATCH CALL to your POKéNAV.\p"
-	.string "Using the MATCH CALL feature,\n"
-	.string "you can chat with people who have\l"
-	.string "been registered in your POKéNAV.\p"
-	.string "{PLAYER}, our PRESIDENT STONE should\n"
-	.string "be registered in your POKéNAV.\p"
-	.string "Test it out.\n"
-	.string "Please give our PRESIDENT a call.$"
+	.string "Alsjeblieft, {PLAYER}!\p"
+	.string "Ik heb MATCH CALL toegevoegd\n"
+	.string "aan je POKéNAV.\p"
+	.string "Daarmee kun je mensen bellen\n"
+	.string "die in je POKéNAV staan.\p"
+	.string "Directeur STONE staat er al in.\p"
+	.string "Probeer het maar!\n"
+	.string "Bel onze directeur eens.$"
 
 RustboroCity_Text_PleaseSelectPokenav:
-	.string "Please select the POKéNAV.$"
+	.string "Kies de POKéNAV.$"
 
 RustboroCity_Text_IdBetterGetBackToWork:
-	.string "Okay, I'd better get back to work.\n"
-	.string "Please take care, {PLAYER}!$"
+	.string "Ik moet weer aan het werk.\n"
+	.string "Pas goed op jezelf, {PLAYER}!$"
 
 RustboroCity_Text_YouCanHave2On2Battle:
-	.string "Did you know this?\p"
-	.string "You can have a 2-on-2 battle even\n"
-	.string "if you're not with another TRAINER.\p"
-	.string "If you catch the eyes of two TRAINERS\n"
-	.string "when you have two or more POKéMON,\l"
-	.string "they'll both challenge you.\p"
-	.string "Don't you think it'd be cool if you\n"
-	.string "could beat two TRAINERS by yourself?$"
+	.string "Wist je dit?\p"
+	.string "Je kunt ook een DOUBLE BATTLE\n"
+	.string "doen zonder een tweede trainer.\p"
+	.string "Als twee trainers je zien en je\n"
+	.string "hebt minstens twee Pokémon,\l"
+	.string "dagen ze je allebei uit.\p"
+	.string "Cool toch, twee trainers tegelijk\n"
+	.string "verslaan?$"
