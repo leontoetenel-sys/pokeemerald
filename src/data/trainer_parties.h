@@ -6653,13 +6653,13 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Conor[] = {
 static const struct TrainerMonNoItemDefaultMoves sParty_Edwin1[] = {
     {
     .iv = 0,
-    .lvl = 14,
-    .species = SPECIES_LOMBRE,
+    .lvl = 13,
+    .species = SPECIES_CHIKORITA,
     },
     {
     .iv = 0,
-    .lvl = 14,
-    .species = SPECIES_NUZLEAF,
+    .lvl = 13,
+    .species = SPECIES_BULBASAUR,
     }
 };
 
@@ -6697,13 +6697,13 @@ static const struct TrainerMonNoItemDefaultMoves sParty_TabithaMossdeep[] = {
 static const struct TrainerMonNoItemDefaultMoves sParty_Edwin2[] = {
     {
     .iv = 0,
-    .lvl = 26,
-    .species = SPECIES_LOMBRE,
+    .lvl = 25,
+    .species = SPECIES_BAYLEEF,
     },
     {
     .iv = 0,
-    .lvl = 26,
-    .species = SPECIES_NUZLEAF,
+    .lvl = 25,
+    .species = SPECIES_IVYSAUR,
     }
 };
 
@@ -6711,12 +6711,12 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Edwin3[] = {
     {
     .iv = 0,
     .lvl = 29,
-    .species = SPECIES_LOMBRE,
+    .species = SPECIES_BAYLEEF,
     },
     {
     .iv = 0,
     .lvl = 29,
-    .species = SPECIES_NUZLEAF,
+    .species = SPECIES_IVYSAUR,
     }
 };
 
@@ -6724,25 +6724,25 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Edwin4[] = {
     {
     .iv = 0,
     .lvl = 32,
-    .species = SPECIES_LOMBRE,
+    .species = SPECIES_MEGANIUM,
     },
     {
     .iv = 0,
     .lvl = 32,
-    .species = SPECIES_NUZLEAF,
+    .species = SPECIES_VENUSAUR,
     }
 };
 
 static const struct TrainerMonNoItemDefaultMoves sParty_Edwin5[] = {
     {
     .iv = 0,
-    .lvl = 35,
-    .species = SPECIES_LUDICOLO,
+    .lvl = 38,
+    .species = SPECIES_MEGANIUM,
     },
     {
     .iv = 0,
-    .lvl = 35,
-    .species = SPECIES_SHIFTRY,
+    .lvl = 38,
+    .species = SPECIES_VENUSAUR,
     }
 };
 
