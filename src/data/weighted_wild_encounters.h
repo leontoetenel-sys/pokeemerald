@@ -120,13 +120,14 @@ static const struct WeightedWildPokemon sWeighted_ROUTE118_land_mons[] = {
 };
 static const struct WeightedWildPokemon sWeighted_PETALBURG_WOODS_land_mons[] = {
     {{5, 6, SPECIES_POOCHYENA}, 25},
-    {{5, 6, SPECIES_WURMPLE}, 25},
+    {{5, 6, SPECIES_WURMPLE}, 23},
     {{5, 6, SPECIES_SHROOMISH}, 15},
     {{5, 5, SPECIES_SILCOON}, 10},
     {{5, 5, SPECIES_CASCOON}, 10},
     {{5, 6, SPECIES_TAILLOW}, 5},
     {{5, 6, SPECIES_SLAKOTH}, 5},
     {{5, 6, SPECIES_CHIKORITA}, 5},
+    {{5, 6, SPECIES_BULBASAUR}, 2},
 };
 static const struct WeightedWildPokemon sWeighted_RUSTURF_TUNNEL_land_mons[] = {
     {{5, 8, SPECIES_WHISMUR}, 85},
@@ -247,9 +248,11 @@ static const struct WeightedWildPokemon sWeighted_ROUTE105_water_mons[] = {
     {{25, 30, SPECIES_PELIPPER}, 5},
 };
 static const struct WeightedWildPokemon sWeighted_ROUTE115_water_mons[] = {
-    {{5, 35, SPECIES_TENTACOOL}, 60},
+    {{5, 35, SPECIES_TENTACOOL}, 55},
     {{10, 30, SPECIES_MANTINE}, 35},
     {{25, 30, SPECIES_PELIPPER}, 5},
+    {{15, 20, SPECIES_DRATINI}, 3},
+    {{20, 25, SPECIES_LAPRAS}, 2},
 };
 static const struct WeightedWildPokemon sWeighted_ROUTE119_water_mons[] = {
     {{5, 35, SPECIES_TENTACOOL}, 60},
@@ -357,7 +360,26 @@ static const struct WeightedWildPokemon sWeighted_EVER_GRANDE_CITY_water_mons[] 
     {{10, 30, SPECIES_MANTINE}, 35},
     {{25, 30, SPECIES_PELIPPER}, 5},
 };
+static const struct WeightedWildPokemon sWeighted_NEW_MAUVILLE_INSIDE_land_mons[] = {
+    {{22, 26, SPECIES_VOLTORB}, 46},
+    {{22, 26, SPECIES_MAGNEMITE}, 46},
+    {{26, 26, SPECIES_ELECTRODE}, 1},
+    {{26, 26, SPECIES_MAGNETON}, 1},
+    {{24, 27, SPECIES_PIKACHU}, 2},
+    {{24, 27, SPECIES_MUK}, 4},
+};
+static const struct WeightedWildPokemon sWeighted_ROUTE119_land_mons[] = {
+    {{25, 27, SPECIES_ZIGZAGOON}, 25},
+    {{25, 27, SPECIES_LINOONE}, 25},
+    {{24, 27, SPECIES_ODDISH}, 30},
+    {{25, 27, SPECIES_TROPIUS}, 9},
+    {{25, 25, SPECIES_KECLEON}, 1},
+    {{23, 29, SPECIES_SCYTHER}, 5},
+    {{23, 29, SPECIES_PINSIR}, 5},
+};
 static const struct WeightedWildTable sWeightedWildTables[] = {
+    {32, WILD_AREA_LAND, ARRAY_COUNT(sWeighted_NEW_MAUVILLE_INSIDE_land_mons), sWeighted_NEW_MAUVILLE_INSIDE_land_mons},
+    {33, WILD_AREA_LAND, ARRAY_COUNT(sWeighted_ROUTE119_land_mons), sWeighted_ROUTE119_land_mons},
     {0, WILD_AREA_LAND, ARRAY_COUNT(sWeighted_ROUTE101_land_mons), sWeighted_ROUTE101_land_mons},
     {1, WILD_AREA_LAND, ARRAY_COUNT(sWeighted_ROUTE102_land_mons), sWeighted_ROUTE102_land_mons},
     {2, WILD_AREA_LAND, ARRAY_COUNT(sWeighted_ROUTE103_land_mons), sWeighted_ROUTE103_land_mons},
