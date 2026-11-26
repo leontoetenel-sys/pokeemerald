@@ -2344,241 +2344,243 @@ Route116_Text_JohnsonPostBattle:
 	.string "me company?$"
 
 Route117_Text_IsaacIntro:
-	.string "Listen, could I get you to battle\n"
-	.string "the POKéMON I'm raising?$"
+	.string "Wil je vechten tegen de\n"
+	.string "Pokémon die ik grootbreng?$"
 
 Route117_Text_IsaacDefeat:
-	.string "You've raised yours superbly…$"
+	.string "Jij hebt ze geweldig opgevoed!$"
 
 Route117_Text_IsaacPostBattle:
-	.string "POKéMON isn't all about power.\p"
-	.string "Polishing a unique aspect of one's\n"
-	.string "character is another way of enjoying\l"
-	.string "POKéMON.$"
+	.string "Bij Pokémon draait het niet\n"
+	.string "alleen om kracht.\p"
+	.string "Je kunt ook plezier hebben\n"
+	.string "door hun unieke karakter\l"
+	.string "te ontwikkelen.$"
 
 Route117_Text_IsaacRegister:
-	.string "I'm going to redouble my training.\n"
-	.string "Would you come look in on us?$"
+	.string "Ik ga nog harder trainen.\n"
+	.string "Kom je nog eens kijken?$"
 
 Route117_Text_IsaacRematchIntro:
-	.string "The POKéMON I've been raising are\n"
-	.string "looking good, just like before.$"
+	.string "Mijn Pokémon zien er weer\n"
+	.string "helemaal fit uit!$"
 
 Route117_Text_IsaacRematchDefeat:
-	.string "You know how to raise them properly.\n"
-	.string "You might have DAY CARE skills…$"
+	.string "Jij weet hoe je ze opvoedt.\n"
+	.string "Je zou bij de DAY CARE passen!$"
 
 Route117_Text_IsaacPostRematch:
-	.string "Your POKéMON are growing good!\n"
-	.string "You should enter them in CONTESTS.$"
+	.string "Je Pokémon groeien goed!\n"
+	.string "Doe eens mee aan CONTESTS.$"
 
 Route117_Text_LydiaIntro:
-	.string "Please, allow me to evaluate if you\n"
-	.string "have raised your POKéMON properly.$"
+	.string "Mag ik eens kijken of jij je\n"
+	.string "Pokémon goed hebt opgevoed?$"
 
 Route117_Text_LydiaDefeat:
-	.string "Yes, they are growing properly.$"
+	.string "Ja, ze groeien goed!$"
 
 Route117_Text_LydiaPostBattle:
-	.string "Try raising POKéMON with more\n"
-	.string "attention to their character traits.$"
+	.string "Let bij het opvoeden ook eens\n"
+	.string "op het karakter van je Pokémon.$"
 
 Route117_Text_LydiaRegister:
-	.string "I'm glad I met a superb TRAINER in you.\n"
-	.string "I hope to see you again.$"
+	.string "Wat fijn dat ik zo'n goede\n"
+	.string "trainer heb ontmoet!\p"
+	.string "Tot de volgende keer!$"
 
 Route117_Text_LydiaRematchIntro:
-	.string "Allow me to reevaluate if you have\n"
-	.string "raised your POKéMON properly.$"
+	.string "Mag ik weer eens kijken hoe\n"
+	.string "je Pokémon zijn gegroeid?$"
 
 Route117_Text_LydiaRematchDefeat:
-	.string "They are growing admirably.$"
+	.string "Ze groeien geweldig!$"
 
 Route117_Text_LydiaPostRematch:
-	.string "POKéMON seem to like different kinds\n"
-	.string "of {POKEBLOCK}S, depending on their nature.$"
+	.string "Welke {POKEBLOCK}S Pokémon lekker\n"
+	.string "vinden, hangt af van hun karakter.$"
 
 Route117_Text_DylanIntro:
-	.string "I'm in the middle of a triathlon, but,\n"
-	.string "whatever, let's have a battle!$"
+	.string "Ik ben bezig met een triatlon.\n"
+	.string "Ach, tijd voor een duel!$"
 
 Route117_Text_DylanDefeat:
-	.string "I ran out of energy!$"
+	.string "Mijn energie is op!$"
 
 Route117_Text_DylanPostBattle:
-	.string "I may have blown it…\p"
-	.string "I might have dropped to last during\n"
-	.string "that battle…$"
+	.string "O nee, dit gaat niet goed...\p"
+	.string "Misschien lig ik nu wel\n"
+	.string "helemaal achteraan!$"
 
 Route117_Text_DylanRegister:
-	.string "POKéMON have to be strong, too?\n"
-	.string "I'd like you to train me!$"
+	.string "Moeten Pokémon ook sterk zijn?\n"
+	.string "Wil jij mij trainen?$"
 
 Route117_Text_DylanRematchIntro:
-	.string "I'm smack in the middle of a triathlon,\n"
-	.string "but I'm comfortably ahead.\l"
-	.string "Let's make this a quick battle!$"
+	.string "Ik doe mee aan een triatlon,\n"
+	.string "maar ik lig ruim voor.\p"
+	.string "Een snel duel dan maar!$"
 
 Route117_Text_DylanRematchDefeat:
-	.string "I ran out of energy again!$"
+	.string "Mijn energie is alweer op!$"
 
 Route117_Text_DylanPostRematch:
-	.string "I was tops in swimming and cycling,\n"
-	.string "but I'm not quite that confident with\l"
-	.string "POKéMON yet.$"
+	.string "Ik was de beste in zwemmen\n"
+	.string "en fietsen.\p"
+	.string "Maar met Pokémon ben ik\n"
+	.string "nog niet zo zeker van mezelf.$"
 
 Route117_Text_MariaIntro:
-	.string "I do my triathlon training with POKéMON,\n"
-	.string "so I'm pretty confident about my speed.$"
+	.string "Ik train voor de triatlon\n"
+	.string "samen met mijn Pokémon.\p"
+	.string "Ik ben dus behoorlijk snel!$"
 
 Route117_Text_MariaDefeat:
-	.string "I need to get more practices in,\n"
-	.string "I guess.$"
+	.string "Ik moet nog wat vaker oefenen.$"
 
 Route117_Text_MariaPostBattle:
-	.string "Training is meaningful only if you\n"
-	.string "keep it up regularly.\p"
-	.string "Okay! I'll resume my training!\n"
-	.string "Tomorrow!$"
+	.string "Trainen helpt alleen als je\n"
+	.string "het regelmatig doet.\p"
+	.string "Goed! Ik ga weer trainen!\n"
+	.string "Morgen dan...$"
 
 Route117_Text_MariaRegister:
-	.string "You appear to be training properly…\n"
-	.string "If you'd like, I'll battle you later!$"
+	.string "Jij traint zo te zien goed!\n"
+	.string "Zullen we later weer vechten?$"
 
 Route117_Text_MariaRematchIntro:
-	.string "Are you keeping up with your training?\n"
-	.string "I sure am!\l"
-	.string "Let me show you the evidence!$"
+	.string "Ben je nog steeds aan het trainen?\n"
+	.string "Ik wel!\p"
+	.string "Ik zal het je laten zien!$"
 
 Route117_Text_MariaRematchDefeat:
-	.string "I need to get more practices in,\n"
-	.string "I guess.$"
+	.string "Ik moet nog wat vaker oefenen.$"
 
 Route117_Text_MariaPostRematch:
-	.string "I'll resume training tomorrow.\n"
-	.string "Let's battle again sometime!$"
+	.string "Morgen ga ik weer trainen.\n"
+	.string "Tot ons volgende duel!$"
 
 Route117_Text_DerekIntro:
-	.string "Once a BUG CATCHER!\n"
-	.string "And now a BUG MANIAC!\p"
-	.string "But my love for POKéMON remains\n"
-	.string "unchanged!$"
+	.string "Vroeger was ik VERZAMELAAR.\n"
+	.string "Nu ben ik INSECTENFAN!\p"
+	.string "Mijn liefde voor Pokémon\n"
+	.string "is nooit veranderd!$"
 
 Route117_Text_DerekDefeat:
-	.string "My ineptitude also remains\n"
-	.string "unchanged…$"
+	.string "Helaas ben ik ook nog steeds\n"
+	.string "net zo slecht in vechten...$"
 
 Route117_Text_DerekPostBattle:
-	.string "All I did was follow my heart, and now\n"
-	.string "they call me a BUG MANIAC…\p"
-	.string "Still, I am an expert on BUG POKéMON,\n"
-	.string "so it's only natural that they call me\l"
-	.string "a BUG MANIAC.$"
+	.string "Ik volgde gewoon mijn hart.\n"
+	.string "Nu noemen ze me INSECTENFAN.\p"
+	.string "Ik weet alles over BUG-type\n"
+	.string "Pokémon, dus dat klopt wel!$"
 
 Route117_Text_AnnaIntro:
-	.string "ANNA: I'm with my pretty junior student\n"
-	.string "partner. I have to do good!$"
+	.string "ANNA: Ik ben met mijn lieve\n"
+	.string "jongere schoolmaatje.\p"
+	.string "Ik moet goed mijn best doen!$"
 
 Route117_Text_AnnaDefeat:
-	.string "ANNA: I'm with my pretty junior student\n"
-	.string "partner! Let me win!$"
+	.string "ANNA: Mijn schoolmaatje kijkt!\n"
+	.string "Laat me toch winnen!$"
 
 Route117_Text_AnnaPostBattle:
-	.string "ANNA: Your POKéMON have some good\n"
-	.string "combinations.\p"
-	.string "I'd say you're second only to us!$"
+	.string "ANNA: Jouw Pokémon werken\n"
+	.string "goed samen.\p"
+	.string "Bijna net zo goed als wij!$"
 
 Route117_Text_AnnaAndMegRegister:
-	.string "ANNA: We can't take this lying down!\n"
-	.string "You will come back, won't you?$"
+	.string "ANNA: Dit laten we niet zitten!\n"
+	.string "Je komt toch nog eens terug?$"
 
 Route117_Text_AnnaNotEnoughMons:
-	.string "ANNA: If you want to battle us,\n"
-	.string "bring two POKéMON with you.$"
+	.string "ANNA: Neem twee Pokémon mee\n"
+	.string "als je tegen ons wilt vechten.$"
 
 Route117_Text_MegIntro:
-	.string "MEG: I'm going to tag up with my super\n"
-	.string "senior student partner and beat you!$"
+	.string "MEG: Samen met mijn geweldige\n"
+	.string "oudere schoolmaatje win ik!$"
 
 Route117_Text_MegDefeat:
-	.string "MEG: Oh, no!\n"
-	.string "I'm sorry, ANNA! I let you down…$"
+	.string "MEG: O nee! Sorry, ANNA!\n"
+	.string "Ik heb je teleurgesteld...$"
 
 Route117_Text_MegPostBattle:
-	.string "MEG: I dragged ANNA down…\n"
-	.string "If I didn't, she would have won!$"
+	.string "MEG: Door mij verloor ANNA...\n"
+	.string "Anders had ze gewonnen!$"
 
 Route117_Text_MegNotEnoughMons:
-	.string "MEG: Do you only have one POKéMON?\n"
-	.string "We can't battle with you, then.\p"
-	.string "We want to have a 2-on-2 battle.$"
+	.string "MEG: Heb je maar één Pokémon?\n"
+	.string "Dan kunnen we niet vechten.\p"
+	.string "We willen twee tegen twee!$"
 
 Route117_Text_AnnaRematchIntro:
-	.string "ANNA: I can't keep losing in front of\n"
-	.string "my junior partner, right?$"
+	.string "ANNA: Ik kan toch niet steeds\n"
+	.string "verliezen waar MEG bij is?$"
 
 Route117_Text_AnnaRematchDefeat:
-	.string "ANNA: I couldn't get into the groove.$"
+	.string "ANNA: Ik kwam er niet lekker in.$"
 
 Route117_Text_AnnaPostRematch:
-	.string "ANNA: Your POKéMON have some good\n"
-	.string "combinations.\p"
-	.string "I'd say you're second only to us!$"
+	.string "ANNA: Jouw Pokémon werken\n"
+	.string "goed samen.\p"
+	.string "Bijna net zo goed als wij!$"
 
 Route117_Text_AnnaRematchNotEnoughMons:
-	.string "ANNA: If you want to battle us,\n"
-	.string "bring two POKéMON with you.$"
+	.string "ANNA: Neem twee Pokémon mee\n"
+	.string "als je tegen ons wilt vechten.$"
 
 Route117_Text_MegRematchIntro:
-	.string "MEG: I'm going to tag up with my\n"
-	.string "senior partner and win this time!$"
+	.string "MEG: Samen met mijn oudere\n"
+	.string "maatje ga ik deze keer winnen!$"
 
 Route117_Text_MegRematchDefeat:
-	.string "MEG: Too strong!$"
+	.string "MEG: Veel te sterk!$"
 
 Route117_Text_MegPostRematch:
-	.string "MEG: I battled together with my\n"
-	.string "senior partner, but we lost…\p"
-	.string "That's so discouraging…$"
+	.string "MEG: Ik vocht samen met mijn\n"
+	.string "oudere maatje, maar we verloren.\p"
+	.string "Wat jammer nou...$"
 
 Route117_Text_MegRematchNotEnoughMons:
-	.string "MEG: Do you only have one POKéMON?\n"
-	.string "We can't battle with you, then.\p"
-	.string "We want to have a 2-on-2 battle.$"
+	.string "MEG: Heb je maar één Pokémon?\n"
+	.string "Dan kunnen we niet vechten.\p"
+	.string "We willen twee tegen twee!$"
 
 Route117_Text_MelinaIntro:
-	.string "Isn't it nice? To battle while looking\n"
-	.string "at pretty flowers?$"
+	.string "Heerlijk toch, een duel tussen\n"
+	.string "al die mooie bloemen?$"
 
 Route117_Text_MelinaDefeat:
-	.string "Oh, that's quite impressive!$"
+	.string "O, dat is knap gedaan!$"
 
 Route117_Text_MelinaPostBattle:
-	.string "It feels wonderful to go for a jog\n"
-	.string "while looking at flowers.$"
+	.string "Het is heerlijk om hard te lopen\n"
+	.string "tussen de bloemen.$"
 
 Route117_Text_BrandiIntro:
-	.string "Let me demonstrate the power\n"
-	.string "hidden within a PSYCHIC POKéMON!$"
+	.string "Ik laat je de verborgen kracht\n"
+	.string "van PSYCHIC Pokémon zien!$"
 
 Route117_Text_BrandiDefeat:
-	.string "Astonishing!$"
+	.string "Verbazingwekkend!$"
 
 Route117_Text_BrandiPostBattle:
-	.string "PSYCHIC POKéMON are complex.\n"
-	.string "You should try catching some.$"
+	.string "PSYCHIC Pokémon zijn ingewikkeld.\n"
+	.string "Probeer er eens een te vangen.$"
 
 Route117_Text_AishaIntro:
-	.string "Concentrate on getting the win.\n"
-	.string "That's how I battle!$"
+	.string "Ik denk alleen aan winnen.\n"
+	.string "Zo vecht ik!$"
 
 Route117_Text_AishaDefeat:
-	.string "I don't waste any time being angry\n"
-	.string "over a loss--I would rather train.$"
+	.string "Ik word niet boos als ik verlies.\n"
+	.string "Ik ga liever trainen.$"
 
 Route117_Text_AishaPostBattle:
-	.string "I think that if you worry about losing,\n"
-	.string "you're more likely to lose.$"
+	.string "Als je bang bent om te verliezen,\n"
+	.string "verlies je volgens mij sneller.$"
 
 Route118_Text_RoseIntro:
 	.string "The aroma of flowers has a magical\n"
