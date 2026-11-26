@@ -23,10 +23,10 @@ MauvilleCity_PokemonCenter_2F_EventScript_Youngster::
 	end
 
 MauvilleCity_PokemonCenter_2F_Text_Youngster:
-	.string "Did you know that you can link battle\n"
-	.string "at the COLOSSEUM here?\p"
-	.string "They put up your record on the wall\n"
-	.string "for everyone to see.\p"
-	.string "It's embarrassing if you lose more\n"
-	.string "often than you win…$"
+	.string "Wist je dat je in het COLOSSEUM\n"
+	.string "met vrienden kunt vechten?\p"
+	.string "Je resultaten hangen aan de muur\n"
+	.string "zodat iedereen ze kan zien.\p"
+	.string "Best gênant als je vaker\n"
+	.string "verliest dan wint...$"
 
