@@ -1843,7 +1843,6 @@ static void Cmd_healthbarupdate(void)
 // Update the active battler's HP and various HP trackers (Substitute, Bide, etc.)
 static void Cmd_datahpupdate(void)
 {
-    u32 moveType;
 
     if (gBattleControllerExecFlags)
         return;
@@ -8902,7 +8901,7 @@ static void Cmd_hiddenpowercalc(void)
     gBattleStruct->dynamicMoveType = ((NUMBER_OF_MON_TYPES - 3) * typeBits) / 63 + 1;
     if (gBattleStruct->dynamicMoveType >= TYPE_MYSTERY)
         gBattleStruct->dynamicMoveType++;
-    gBattleStruct->dynamicMoveType |= F_DYNAMIC_TYPE_IGNORE_PHYSICALITY | F_DYNAMIC_TYPE_SET;
+    gBattleStruct->dynamicMoveType |= F_DYNAMIC_TYPE_SET;
 
     gBattlescriptCurrInstr++;
 }
