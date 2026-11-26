@@ -6282,16 +6282,12 @@ static const struct TrainerMonNoItemDefaultMoves sParty_GinaAndMia1[] = {
 };
 
 static const struct TrainerMonNoItemDefaultMoves sParty_MiuAndYuki[] = {
-    {
-    .iv = 0,
-    .lvl = 26,
-    .species = SPECIES_BEAUTIFLY,
-    },
-    {
-    .iv = 0,
-    .lvl = 26,
-    .species = SPECIES_DUSTOX,
-    }
+    { .iv = 0, .lvl = 25, .species = SPECIES_MIGHTYENA },
+    { .iv = 0, .lvl = 25, .species = SPECIES_GYARADOS },
+    { .iv = 0, .lvl = 25, .species = SPECIES_BEAUTIFLY },
+    { .iv = 0, .lvl = 25, .species = SPECIES_DUSTOX },
+    { .iv = 0, .lvl = 27, .species = SPECIES_HAUNTER },
+    { .iv = 0, .lvl = 27, .species = SPECIES_BAYLEEF },
 };
 
 static const struct TrainerMonNoItemDefaultMoves sParty_AmyAndLiv3[] = {
