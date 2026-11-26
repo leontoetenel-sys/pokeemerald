@@ -70,180 +70,180 @@ Route102_Text_TianaPostBattle:
 	.string "I have to catch more POKéMON.$"
 
 Route103_Text_DaisyIntro:
-	.string "Did you feel the tug of our\n"
-	.string "soul-soothing fragrance?$"
+	.string "Voelde je ook hoe rustig je\n"
+	.string "wordt van onze heerlijke geur?$"
 
 Route103_Text_DaisyDefeated:
-	.string "You weren't led astray by our aroma…$"
+	.string "Onze geur leidde je niet af...$"
 
 Route103_Text_DaisyPostBattle:
-	.string "Aromatherapy is a form of mental\n"
-	.string "healing that works with fragrances.$"
+	.string "Aromatherapie gebruikt geuren\n"
+	.string "om je geest tot rust te brengen.$"
 
 Route103_Text_AmyIntro:
-	.string "AMY: I'm AMY.\n"
-	.string "And this is my little sister LIV.\l"
-	.string "We battle together!$"
+	.string "AMY: Ik ben AMY.\n"
+	.string "Dit is mijn zusje LIV.\l"
+	.string "Wij vechten samen!$"
 
 Route103_Text_AmyDefeated:
-	.string "AMY: Uh-oh, we lost.$"
+	.string "AMY: O nee, we hebben verloren.$"
 
 Route103_Text_AmyPostBattle:
-	.string "AMY: You have to think about all\n"
-	.string "kinds of things when you're battling\l"
-	.string "against two TRAINERS.$"
+	.string "AMY: Tegen twee trainers moet\n"
+	.string "je op heel veel dingen tegelijk\l"
+	.string "letten.$"
 
 Route103_Text_AmyNotEnoughPokemon:
-	.string "AMY: Uh-oh, you have only one\n"
-	.string "POKéMON with you.\l"
-	.string "You can't battle us like that.$"
+	.string "AMY: O nee, je hebt maar één\n"
+	.string "Pokémon bij je.\l"
+	.string "Zo kun je niet tegen ons vechten.$"
 
 Route103_Text_LivIntro:
-	.string "LIV: We battle together as one\n"
-	.string "team.$"
+	.string "LIV: Wij vechten samen\n"
+	.string "als één team!$"
 
 Route103_Text_LivDefeated:
-	.string "LIV: Oh, we lost, big sister…$"
+	.string "LIV: O, we hebben verloren, zus...$"
 
 Route103_Text_LivPostBattle:
-	.string "LIV: We work perfectly together,\n"
-	.string "me and my big sister…\p"
-	.string "But we still lost…$"
+	.string "LIV: Mijn grote zus en ik\n"
+	.string "werken perfect samen...\p"
+	.string "En toch hebben we verloren...$"
 
 Route103_Text_AmyLivRegister:
-	.string "LIV: Really, we're a lot better…\n"
-	.string "It's true! We'll show you next time!$"
+	.string "LIV: Echt, we zijn veel beter!\n"
+	.string "Dat laten we volgende keer zien!$"
 
 Route103_Text_LivNotEnoughPokemon:
-	.string "LIV: If you want to battle us,\n"
-	.string "you have to have two POKéMON!\l"
-	.string "It's not fair if you don't!$"
+	.string "LIV: Je hebt twee Pokémon nodig\n"
+	.string "om tegen ons te vechten!\l"
+	.string "Anders is het niet eerlijk!$"
 
 Route103_Text_AmyRematchIntro:
-	.string "AMY: I'm AMY.\n"
-	.string "And this is my little sister LIV.\l"
-	.string "We battle together!$"
+	.string "AMY: Ik ben AMY.\n"
+	.string "Dit is mijn zusje LIV.\l"
+	.string "Wij vechten samen!$"
 
 Route103_Text_AmyRematchDefeated:
-	.string "AMY: Aww, boo!\n"
-	.string "We couldn't win again…$"
+	.string "AMY: Balen!\n"
+	.string "We konden weer niet winnen...$"
 
 Route103_Text_AmyRematchPostBattle:
-	.string "AMY: You have to think about all\n"
-	.string "kinds of things when you're battling\l"
-	.string "against two TRAINERS.$"
+	.string "AMY: Tegen twee trainers moet\n"
+	.string "je op heel veel dingen tegelijk\l"
+	.string "letten.$"
 
 Route103_Text_AmyRematchNotEnoughPokemon:
-	.string "AMY: Uh-oh, you have only one\n"
-	.string "POKéMON with you.\l"
-	.string "You can't battle us like that.$"
+	.string "AMY: O nee, je hebt maar één\n"
+	.string "Pokémon bij je.\l"
+	.string "Zo kun je niet tegen ons vechten.$"
 
 Route103_Text_LivRematchIntro:
-	.string "LIV: We battle together as one\n"
-	.string "team.$"
+	.string "LIV: Wij vechten samen\n"
+	.string "als één team!$"
 
 Route103_Text_LivRematchDefeated:
-	.string "LIV: Awww, we lost again…\n"
-	.string "Big sister…$"
+	.string "LIV: O nee, alweer verloren...\n"
+	.string "Grote zus...$"
 
 Route103_Text_LivRematchPostBattle:
-	.string "LIV: We work perfectly together,\n"
-	.string "me and my big sister…\p"
-	.string "But why did we lose again?$"
+	.string "LIV: Mijn grote zus en ik\n"
+	.string "werken perfect samen...\p"
+	.string "Waarom verliezen we dan weer?$"
 
 Route103_Text_LivRematchNotEnoughPokemon:
-	.string "LIV: If you want to battle us, you\n"
-	.string "have to have two POKéMON!\l"
-	.string "It's not fair if you don't!$"
+	.string "LIV: Je hebt twee Pokémon nodig\n"
+	.string "om tegen ons te vechten!\l"
+	.string "Anders is het niet eerlijk!$"
 
 Route103_Text_AndrewIntro:
-	.string "Gah! My fishing line's all snarled up!\n"
-	.string "I'm getting frustrated and mean!\l"
-	.string "That's it! Battle me!$"
+	.string "Argh! Mijn vislijn zit helemaal\n"
+	.string "in de knoop! Ik word er gek van!\p"
+	.string "Kom op, vecht tegen me!$"
 
 Route103_Text_AndrewDefeated:
-	.string "Gah! Lost it!\n"
-	.string "I'm even more annoyed now!$"
+	.string "Argh! Verloren!\n"
+	.string "Nu ben ik nog bozer!$"
 
 Route103_Text_AndrewPostBattle:
-	.string "Gah, I'm still boiling mad…\n"
-	.string "Grrrrr…$"
+	.string "Ik kook nog steeds van woede...\n"
+	.string "Grrrrr...$"
 
 Route103_Text_MiguelIntro:
-	.string "My POKéMON is delightfully adorable!\n"
-	.string "Don't be shy--I'll show you!$"
+	.string "Mijn Pokémon is zo ontzettend\n"
+	.string "schattig! Kijk maar eens!$"
 
 Route103_Text_MiguelDefeated:
-	.string "Oh, my gosh!\n"
-	.string "My darling POKéMON!$"
+	.string "O, lieve hemel!\n"
+	.string "Mijn lieve Pokémon!$"
 
 Route103_Text_MiguelPostBattle:
-	.string "My delightful POKéMON looks darling\n"
-	.string "even when it's fainted!$"
+	.string "Zelfs als mijn Pokémon flauwvalt,\n"
+	.string "ziet hij er nog schattig uit!$"
 
 Route103_Text_MiguelRegister:
-	.string "I'll get you to come out and look in\n"
-	.string "on my delightful POKéMON again!$"
+	.string "Ik nodig je nog eens uit om\n"
+	.string "mijn lieve Pokémon te bewonderen!$"
 
 Route103_Text_MiguelRematchIntro:
-	.string "Hi, you! My delightfully adorable\n"
-	.string "POKéMON has become more darling!$"
+	.string "Hé, jij daar! Mijn schattige\n"
+	.string "Pokémon is nóg liever geworden!$"
 
 Route103_Text_MiguelRematchDefeated:
-	.string "Oh!\n"
-	.string "My darling POKéMON!$"
+	.string "O!\n"
+	.string "Mijn lieve Pokémon!$"
 
 Route103_Text_MiguelRematchPostBattle:
-	.string "The more I spend time with it,\n"
-	.string "the more adorable my POKéMON becomes.$"
+	.string "Hoe meer tijd ik met hem doorbreng,\n"
+	.string "hoe schattiger mijn Pokémon wordt.$"
 
 Route103_Text_PeteIntro:
-	.string "This sort of distance…\n"
-	.string "You should just swim it!$"
+	.string "Zo'n klein stukje?\n"
+	.string "Dat kun je toch gewoon zwemmen!$"
 
 Route103_Text_PeteDefeated:
-	.string "Oh, that's good going!$"
+	.string "O, dat deed je goed!$"
 
 Route103_Text_PetePostBattle:
-	.string "Oh, I understand where you're coming\n"
-	.string "from now.\p"
-	.string "If I had a POKéMON that trusty,\n"
-	.string "I'd want to SURF on it, too!$"
+	.string "O, nu begrijp ik je.\p"
+	.string "Met zo'n betrouwbare Pokémon\n"
+	.string "zou ik ook willen SURFEN!$"
 
 Route103_Text_IsabelleIntro:
-	.string "Watch where you're going!\n"
-	.string "We're going to crash!$"
+	.string "Kijk uit waar je zwemt!\n"
+	.string "We botsen bijna!$"
 
 Route103_Text_IsabelleDefeated:
-	.string "Groan…$"
+	.string "Kreun...$"
 
 Route103_Text_IsabellePostBattle:
-	.string "I'm a poor swimmer so I was practicing…\n"
-	.string "Sorry for almost crashing into you.$"
+	.string "Ik kan niet zo goed zwemmen.\n"
+	.string "Ik was aan het oefenen.\p"
+	.string "Sorry dat ik bijna tegen je botste!$"
 
 Route103_Text_RhettIntro:
-	.string "Whoa!\n"
-	.string "How'd you get into a space this small?$"
+	.string "Wauw! Hoe ben jij op zo'n\n"
+	.string "krap plekje terechtgekomen?$"
 
 Route103_Text_RhettDefeated:
-	.string "Whoa!\n"
-	.string "The kid can rock!$"
+	.string "Wauw! Jij kunt echt knallen!$"
 
 Route103_Text_RhettPostBattle:
-	.string "Do you like cramped quarters\n"
-	.string "like this?$"
+	.string "Hou jij ook van zulke\n"
+	.string "krappe plekjes?$"
 
 Route103_Text_MarcosIntro:
-	.string "Did my guitar's wailing draw you in?$"
+	.string "Kwam je op mijn gitaarspel af?$"
 
 Route103_Text_MarcosDefeated:
-	.string "My one-man show is ruined…$"
+	.string "Mijn solo-optreden is verpest...$"
 
 Route103_Text_MarcosPostBattle:
-	.string "I was playing my guitar where few\n"
-	.string "people were around, but a lot of fans\l"
-	.string "have gathered.\p"
-	.string "Heh, maybe I should turn pro.$"
+	.string "Ik speelde gitaar op een rustig\n"
+	.string "plekje, maar nu komen er steeds\l"
+	.string "meer fans kijken.\p"
+	.string "Misschien moet ik beroepsmuzikant\n"
+	.string "worden!$"
 
 Route104_Text_GinaIntro:
 	.string "GINA: Okay, let's battle with our\n"
