@@ -940,17 +940,6 @@ AI_CV_DefenseUp_ScoreDown2:
 AI_CV_DefenseUp_End:
 	end
 
-AI_CV_DefenseUp_PhysicalTypes:
-	.byte TYPE_NORMAL
-	.byte TYPE_FIGHTING
-	.byte TYPE_POISON
-	.byte TYPE_GROUND
-	.byte TYPE_FLYING
-	.byte TYPE_ROCK
-	.byte TYPE_BUG
-	.byte TYPE_GHOST
-	.byte TYPE_STEEL
-	.byte -1
 
 AI_CV_SpeedUp:
 	if_target_faster AI_CV_SpeedUp2
@@ -1010,17 +999,6 @@ AI_CV_SpDefUp_ScoreDown2:
 AI_CV_SpDefUp_End:
 	end
 
-AI_CV_SpDefUp_PhysicalTypes:
-	.byte TYPE_NORMAL
-	.byte TYPE_FIGHTING
-	.byte TYPE_POISON
-	.byte TYPE_GROUND
-	.byte TYPE_FLYING
-	.byte TYPE_ROCK
-	.byte TYPE_BUG
-	.byte TYPE_GHOST
-	.byte TYPE_STEEL
-	.byte -1
 
 AI_CV_AccuracyUp:
 	if_stat_level_less_than AI_USER, STAT_ACC, 9, AI_CV_AccuracyUp2
@@ -1109,14 +1087,6 @@ AI_CV_AttackDown_End:
 @ If the target is not of any type in this list then using the move may be discouraged.
 @ It seems likely this was meant to be "discourage reducing the target's attack if they're
 @ not a physical type", but they've left out Flying, Poison, and Ghost.
-AI_CV_AttackDown_PhysicalTypeList:
-	.byte TYPE_NORMAL
-	.byte TYPE_FIGHTING
-	.byte TYPE_GROUND
-	.byte TYPE_ROCK
-	.byte TYPE_BUG
-	.byte TYPE_STEEL
-	.byte -1
 
 AI_CV_DefenseDown:
 	if_hp_less_than AI_USER, 70, AI_CV_DefenseDown2
@@ -1168,16 +1138,6 @@ AI_CV_SpAtkDown4:
 AI_CV_SpAtkDown_End:
 	end
 
-AI_CV_SpAtkDown_SpecialTypeList:
-	.byte TYPE_FIRE
-	.byte TYPE_WATER
-	.byte TYPE_GRASS
-	.byte TYPE_ELECTRIC
-	.byte TYPE_PSYCHIC
-	.byte TYPE_ICE
-	.byte TYPE_DRAGON
-	.byte TYPE_DARK
-	.byte -1
 
 AI_CV_SpDefDown:
 	if_hp_less_than AI_USER, 70, AI_CV_SpDefDown2
@@ -1377,16 +1337,6 @@ AI_CV_LightScreen_ScoreDown2:
 AI_CV_LightScreen_End:
 	end
 
-AI_CV_LightScreen_SpecialTypeList:
-	.byte TYPE_FIRE
-	.byte TYPE_WATER
-	.byte TYPE_GRASS
-	.byte TYPE_ELECTRIC
-	.byte TYPE_PSYCHIC
-	.byte TYPE_ICE
-	.byte TYPE_DRAGON
-	.byte TYPE_DARK
-	.byte -1
 
 AI_CV_Rest:
 	if_target_faster AI_CV_Rest4
@@ -1495,17 +1445,6 @@ AI_CV_Reflect_ScoreDown2:
 AI_CV_Reflect_End:
 	end
 
-AI_CV_Reflect_PhysicalTypeList:
-	.byte TYPE_NORMAL
-	.byte TYPE_FIGHTING
-	.byte TYPE_FLYING
-	.byte TYPE_POISON
-	.byte TYPE_GROUND
-	.byte TYPE_ROCK
-	.byte TYPE_BUG
-	.byte TYPE_GHOST
-	.byte TYPE_STEEL
-	.byte -1
 
 AI_CV_Poison:
 	if_hp_less_than AI_USER, 50, AI_CV_Poison_ScoreDown1
@@ -1656,17 +1595,6 @@ AI_CV_Counter_ScoreDown1:
 AI_CV_Counter_End:
 	end
 
-AI_CV_Counter_PhysicalTypeList:
-	.byte TYPE_NORMAL
-	.byte TYPE_FIGHTING
-	.byte TYPE_FLYING
-	.byte TYPE_POISON
-	.byte TYPE_GROUND
-	.byte TYPE_ROCK
-	.byte TYPE_BUG
-	.byte TYPE_GHOST
-	.byte TYPE_STEEL
-	.byte -1
 
 AI_CV_Encore:
 	if_any_move_disabled AI_TARGET, AI_CV_Encore2
@@ -2144,16 +2072,6 @@ AI_CV_MirrorCoat_ScoreDown1:
 AI_CV_MirrorCoat_End:
 	end
 
-AI_CV_MirrorCoat_SpecialTypeList:
-	.byte TYPE_FIRE
-	.byte TYPE_WATER
-	.byte TYPE_GRASS
-	.byte TYPE_ELECTRIC
-	.byte TYPE_PSYCHIC
-	.byte TYPE_ICE
-	.byte TYPE_DRAGON
-	.byte TYPE_DARK
-	.byte -1
 
 AI_CV_ChargeUpMove:
 	if_type_effectiveness AI_EFFECTIVENESS_x0_25, AI_CV_ChargeUpMove_ScoreDown2

@@ -1111,14 +1111,12 @@ static void Cmd_accuracycheck(void)
     }
     else
     {
-        u8 type, moveAcc, holdEffect, param;
+        u8 moveAcc, holdEffect, param;
         s8 buff;
         u16 calc;
 
         if (move == ACC_CURR_MOVE)
             move = gCurrentMove;
-
-        GET_MOVE_TYPE(move, type);
 
         if (JumpIfMoveAffectedByProtect(move))
             return;
@@ -1922,8 +1920,7 @@ static void Cmd_datahpupdate(void)
                     gSpecialStatuses[gActiveBattler].shellBellDmg = gHpDealt;
 
                 // Note: While physicalDmg/specialDmg below are only distinguished between for Counter/Mirror Coat, they are
-                //       used in combination as general damage trackers for other purposes. specialDmg is additionally used
-                //       to help determine if a fire move should defrost the target.
+                //       used in combination as general damage trackers, including Fire-type defrosting.
                 if (IS_MOVE_PHYSICAL(gCurrentMove) && !(gHitMarker & HITMARKER_PASSIVE_HP_UPDATE) && gCurrentMove != MOVE_PAIN_SPLIT)
                 {
                     // Record physical damage/attacker for Counter
