@@ -33,14 +33,14 @@ SlateportCity_Mart_EventScript_Man::
 	end
 
 SlateportCity_Mart_Text_SomeItemsOnlyAtMart:
-	.string "The MARKET does have some interesting\n"
-	.string "merchandise.\p"
-	.string "But there are some items you can only\n"
-	.string "get at a POKéMON MART.$"
+	.string "Op de markt verkopen ze\n"
+	.string "allerlei leuke spullen.\p"
+	.string "Maar sommige items vind je alleen\n"
+	.string "in een POKéMON MART.$"
 
 SlateportCity_Mart_Text_GreatBallIsBetter:
-	.string "A GREAT BALL is better than a POKé BALL\n"
-	.string "at catching POKéMON.\p"
-	.string "With this, I should be able to get that\n"
-	.string "elusive POKéMON…$"
+	.string "Met een GREAT BALL vang je\n"
+	.string "makkelijker dan met een POKé BALL.\p"
+	.string "Nu kan ik die zeldzame POKéMON\n"
+	.string "misschien eindelijk vangen!$"
 
