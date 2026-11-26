@@ -1,10 +1,10 @@
 gText_HowMayIServeYou::
-	.string "Welcome!\p"
-	.string "How may I serve you?$"
+	.string "Welkom!\p"
+	.string "Waar kan ik je mee helpen?$"
 
 gText_PleaseComeAgain::
-	.string "Please come again!$"
+	.string "Graag tot ziens!$"
 
 gText_PlayerWhatCanIDoForYou::
-	.string "{PLAYER}{KUN}, welcome!\p"
-	.string "What can I do for you?$"
+	.string "Welkom, {PLAYER}!\p"
+	.string "Waar kan ik je mee helpen?$"

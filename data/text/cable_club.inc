@@ -1,114 +1,109 @@
 CableClub_Text_WelcomeWhichCableClubService:
-	.string "Welcome to the POKéMON CABLE\n"
-	.string "CLUB.\p"
-	.string "Which of our services do you wish\n"
-	.string "to use?$"
+	.string "Welkom bij de POKéMON CABLE CLUB.\p"
+	.string "Wat wil je graag doen?$"
 
 CableClub_Text_WhichService:
-	.string "Which of our services do you wish\n"
-	.string "to use?$"
+	.string "Wat wil je graag doen?$"
 
 CableClub_Text_TradeUsingLinkCable::
-	.string "Trade POKéMON with another player\n"
-	.string "using a GBA Game Link cable.$"
+	.string "Ruil POKéMON met een andere speler\n"
+	.string "via een GBA Game Link kabel.$"
 
 CableClub_Text_BattleUsingLinkCable::
-	.string "You may battle another TRAINER\n"
-	.string "using a GBA Game Link cable.$"
+	.string "Vecht tegen een andere trainer\n"
+	.string "via een GBA Game Link kabel.$"
 
 CableClub_Text_RecordCornerUsingLinkCable::
-	.string "You can use the RECORD CORNER with\n"
-	.string "others using a GBA Game Link cable.$"
+	.string "Deel records met andere spelers\n"
+	.string "via een GBA Game Link kabel.$"
 
 @ Unused
 CableClub_Text_CloseThisMenu:
-	.string "Close this menu.$"
+	.string "Sluit dit menu.$"
 
 CableClub_Text_NeedTwoMonsForDoubleBattle:
-	.string "For a DOUBLE BATTLE, you must\n"
-	.string "have at least two POKéMON.$"
+	.string "Voor een DOUBLE BATTLE heb je\n"
+	.string "minstens twee POKéMON nodig.$"
 
 CableClub_Text_NeedTwoMonsToTrade:
-	.string "For trading, you must have at\n"
-	.string "least two POKéMON with you.$"
+	.string "Om te ruilen heb je minstens\n"
+	.string "twee POKéMON nodig.$"
 
 CableClub_Text_CantTradeEnigmaBerry:
-	.string "A POKéMON holding the {STR_VAR_1}\n"
-	.string "BERRY can't be traded.$"
+	.string "Een POKéMON met de {STR_VAR_1}\n"
+	.string "BERRY kun je niet ruilen.$"
 
 gText_PleaseWaitForLink::
-	.string "Please wait.\n"
-	.string "… … B Button: Cancel$"
+	.string "Even wachten...\n"
+	.string "B: Annuleren$"
 
 gText_ConfirmLinkWhenPlayersReady::
-	.string "When all players are ready…\n"
-	.string "A Button: Confirm\l"
-	.string "B Button: Cancel$"
+	.string "Als iedereen klaar is...\n"
+	.string "A: Bevestigen\l"
+	.string "B: Annuleren$"
 
 gText_ConfirmStartLinkWithXPlayers::
-	.string "Start link with {STR_VAR_1} players.\n"
-	.string "A Button: Confirm\l"
-	.string "B Button: Cancel$"
+	.string "Verbinden met {STR_VAR_1} spelers.\n"
+	.string "A: Bevestigen\l"
+	.string "B: Annuleren$"
 
 gText_AwaitingLinkup::
-	.string "Awaiting linkup…\n"
-	.string "… … B Button: Cancel$"
+	.string "Wachten op verbinding...\n"
+	.string "B: Annuleren$"
 
 @ Unused
 CableClub_Text_OkayToSaveProgress::
-	.string "Your progress must be saved before\n"
-	.string "linking. Is it okay to save?$"
+	.string "Je moet eerst je spel opslaan.\n"
+	.string "Wil je dat doen?$"
 
 CableClub_Text_PleaseEnter:
-	.string "Please enter.$"
+	.string "Kom maar binnen.$"
 
 CableClub_Text_DirectYouToYourRoom:
-	.string "I'll direct you to your room now.$"
+	.string "Ik breng je naar je kamer.$"
 
 Text_SomeoneIsNotReadyToLink:
-	.string "Someone is not ready to link.\p"
-	.string "Please come back after everyone\n"
-	.string "has made preparations.$"
+	.string "Iemand is nog niet klaar.\p"
+	.string "Kom terug als iedereen klaar is.$"
 
 Text_LinkErrorPleaseReset:
-	.string "Sorry, we have a link error…\n"
-	.string "Please reset and try again.$"
+	.string "Oei, de verbinding is mislukt.\n"
+	.string "Start opnieuw en probeer het nog eens.$"
 
 Text_PlayersMadeDifferentSelections:
-	.string "The link partners appear to have\n"
-	.string "made different selections.$"
+	.string "De spelers hebben niet\n"
+	.string "hetzelfde gekozen.$"
 
 CableClub_Text_PleaseVisitAgain:
-	.string "Please do visit again.$"
+	.string "Graag tot ziens!$"
 
 CableClub_Text_IncorrectNumberOfParticipants:
-	.string "The number of participants is\n"
-	.string "incorrect.$"
+	.string "Het aantal spelers klopt niet.$"
 
 CableClub_Text_CantSingleBattleWithXPlayers:
-	.string "The SINGLE BATTLE Mode can't be\n"
-	.string "played by {STR_VAR_1} players.$"
+	.string "SINGLE BATTLE kan niet\n"
+	.string "met {STR_VAR_1} spelers.$"
 
 CableClub_Text_CantDoubleBattleWithXPlayers:
-	.string "The DOUBLE BATTLE Mode can't be\n"
-	.string "played by {STR_VAR_1} players.$"
+	.string "DOUBLE BATTLE kan niet\n"
+	.string "met {STR_VAR_1} spelers.$"
 
 CableClub_Text_NeedFourPlayers:
-	.string "There must be four players to play\n"
-	.string "this Battle Mode.$"
+	.string "Voor dit gevecht heb je\n"
+	.string "vier spelers nodig.$"
 
 CableClub_Text_PleaseConfirmNumberAndRestart:
-	.string "Please confirm the number of\n"
-	.string "players and start again.$"
+	.string "Controleer het aantal spelers\n"
+	.string "en begin opnieuw.$"
 
 Text_TerminateLinkConfirmation:
-	.string "The link will be terminated if you\n"
-	.string "leave the room. Is that okay?$"
+	.string "Als je weggaat stopt de verbinding.\n"
+	.string "Vind je dat goed?$"
 
 Text_TerminateLinkPleaseWait:
-	.string "Terminating link…\n"
-	.string "You will be escorted out of\l"
-	.string "the room. Please wait.$"
+	.string "Verbinding wordt gestopt.\n"
+	.string "Je wordt naar buiten gebracht.\l"
+	.string "Even wachten.$"
 
 CableClub_Text_TooBusyToNotice:
 	.string "This TRAINER is too busy to\n"
@@ -124,22 +119,21 @@ CableClub_Text_GotToLookAtColoredTrainerCard:
 	.string "It's a {STR_VAR_2} card!$"
 
 BattleColosseum_2P_Text_TakePlaceStartBattle:
-	.string "Please take your place and start\n"
-	.string "your battle.$"
+	.string "Ga op je plek staan\n"
+	.string "en begin het gevecht.$"
 
 TradeCenter_Text_TakeSeatStartTrade:
-	.string "Please take your seat and start\n"
-	.string "your trade.$"
+	.string "Ga zitten en begin met ruilen.$"
 
 RecordCorner_Text_ThanksForComing:
-	.string "Thanks for coming.$"
+	.string "Bedankt voor je bezoek.$"
 
 CableClub_Text_TrainerCardDataOverwritten:
 	.string "The TRAINER CARD data will\n"
 	.string "be overwritten.$"
 
 CableClub_Text_HopeToSeeYouAgain:
-	.string "I hope to see you again!$"
+	.string "Graag tot ziens!$"
 
 CableClub_Text_NotSetUpForFarAwayRegion:
 	.string "I'm awfully sorry.\p"
@@ -148,11 +142,11 @@ CableClub_Text_NotSetUpForFarAwayRegion:
 	.string "region yet…$"
 
 CableClub_Text_OtherTrainerNotReady:
-	.string "The other TRAINER is not ready.$"
+	.string "De andere trainer is nog niet klaar.$"
 
 CableClub_Text_YouHaveAMonThatCantBeTaken:
-	.string "You have at least one POKéMON\n"
-	.string "that can't be taken.$"
+	.string "Je hebt een POKéMON\n"
+	.string "die niet mee mag.$"
 
 RecordCorner_Text_TakeSeatAndWait:
 	.string "Please take your seat and wait.$"
@@ -170,12 +164,11 @@ CableClub_Text_CantMixWithJapaneseGame:
 	.string "or Sapphire games at the same time.$"
 
 CableClub_Text_AdapterNotConnected:
-	.string "The Wireless Adapter is not\n"
-	.string "connected properly.$"
+	.string "De Wireless Adapter is\n"
+	.string "niet goed aangesloten.$"
 
 CableClub_Text_ParticipantsStepUpToCounter:
-	.string "Participants are asked to step up\n"
-	.string "to the reception counter.$"
+	.string "Alle spelers mogen naar de balie.$"
 
 @ Unused
 CableClub_Text_Hello:
@@ -186,20 +179,20 @@ CableClub_Text_PleaseWait:
 	.string "Please wait.$"
 
 CableClub_Text_YouMayTradeHere::
-	.string "You may trade your POKéMON here\n"
-	.string "with another TRAINER.$"
+	.string "Hier kun je POKéMON ruilen\n"
+	.string "met een andere trainer.$"
 
 CableClub_Text_YouMayBattleHere::
-	.string "You may battle with your friends\n"
-	.string "here.$"
+	.string "Hier kun je tegen je vrienden\n"
+	.string "vechten.$"
 
 CableClub_Text_CanMakeBerryPowder::
-	.string "Two to five TRAINERS can make\n"
-	.string "BERRY POWDER together.$"
+	.string "Twee tot vijf trainers kunnen\n"
+	.string "samen BERRY POWDER maken.$"
 
 CableClub_Text_CanMixRecords::
-	.string "The records of two to four players\n"
-	.string "can be mixed together.$"
+	.string "Twee tot vier spelers kunnen\n"
+	.string "hun records delen.$"
 
 @ Unused
 CableClub_Text_GuideToVariousServices:
@@ -207,7 +200,7 @@ CableClub_Text_GuideToVariousServices:
 	.string "various services.$"
 
 CableClub_Text_CancelSelectedItem::
-	.string "Cancels the selected MENU item.$"
+	.string "Annuleert je keuze.$"
 
 @ Unused
 CableClub_Text_WhichBattleMode:
@@ -218,23 +211,22 @@ CableClub_Text_ReturnsToPreviousStep:
 	.string "Returns to the previous step.$"
 
 CableClub_Text_NeedBerryForBerryCrush:
-	.string "To use the BERRY CRUSH service,\n"
-	.string "you must have at least one BERRY.$"
+	.string "Voor BERRY CRUSH heb je\n"
+	.string "minstens een BERRY nodig.$"
 
 CableClub_Text_NeedTwoMonsForUnionRoom:
-	.string "To enter the UNION ROOM, you must\n"
-	.string "have at least two POKéMON.$"
+	.string "Voor de UNION ROOM heb je\n"
+	.string "minstens twee POKéMON nodig.$"
 
 CableClub_Text_NoEnigmaBerryInUnionRoom:
-	.string "No POKéMON holding the {STR_VAR_1}\n"
-	.string "BERRY may enter the UNION ROOM.$"
+	.string "Een POKéMON met de {STR_VAR_1}\n"
+	.string "BERRY mag niet naar de UNION ROOM.$"
 
 CableClub_Text_UnionRoomAdapterNotConnected:
-	.string "This is the POKéMON WIRELESS CLUB\n"
-	.string "UNION ROOM.\p"
-	.string "Unfortunately, your Wireless\n"
-	.string "Adapter is not connected properly.\p"
-	.string "Please do come again.$"
+	.string "Welkom in de UNION ROOM.\p"
+	.string "Je Wireless Adapter is helaas\n"
+	.string "niet goed aangesloten.\p"
+	.string "Graag tot ziens!$"
 
 @ Unused
 CableClub_Text_OhExcuseMe:
@@ -332,68 +324,50 @@ MossdeepCity_GameCorner_1F_Text_RetryPlease:
 	.string "again, please?$"
 
 CableClub_Text_WelcomeWhichDirectCornerRoom:
-	.string "Welcome to the POKéMON WIRELESS\n"
-	.string "CLUB DIRECT CORNER.\p"
-	.string "You may interact directly with\n"
-	.string "your friends here.\p"
-	.string "Which room would you like to\n"
-	.string "enter?$"
+	.string "Welkom in de DIRECT CORNER.\p"
+	.string "Hier kun je met je vrienden spelen.\p"
+	.string "Welke kamer wil je bezoeken?$"
 
 CableClub_Text_TradePokemon:
-	.string "Would you like to trade POKéMON?$"
+	.string "Wil je POKéMON ruilen?$"
 
 CableClub_Text_PlayWhichBattleMode:
-	.string "Which Battle Mode would you like\n"
-	.string "to play?$"
+	.string "Welk soort gevecht wil je spelen?$"
 
 CableClub_Text_AccessRecordCorner:
-	.string "Would you like to access\n"
-	.string "the RECORD CORNER?$"
+	.string "Wil je naar de RECORD CORNER?$"
 
 CableClub_Text_UseBerryCrush:
-	.string "Would you like to use the\n"
-	.string "BERRY CRUSH System?$"
+	.string "Wil je BERRY CRUSH gebruiken?$"
 
 CableClub_Text_ExplainBattleModes:
-	.string "There are three Battle Modes.\p"
-	.string "SINGLE BATTLE is for two TRAINERS\n"
-	.string "with one or more POKéMON each.\p"
-	.string "Each TRAINER can have one POKéMON\n"
-	.string "in battle at a time.\p"
-	.string "DOUBLE BATTLE is for two TRAINERS\n"
-	.string "with two or more POKéMON each.\p"
-	.string "Each TRAINER will send out two\n"
-	.string "POKéMON in battle at a time.\p"
-	.string "MULTI BATTLE is for four TRAINERS\n"
-	.string "with one or more POKéMON each.\p"
-	.string "Each TRAINER can have one POKéMON\n"
-	.string "in battle at a time.$"
+	.string "Er zijn drie soorten gevechten.\p"
+	.string "SINGLE BATTLE: twee trainers,\n"
+	.string "ieder een POKéMON tegelijk.\p"
+	.string "DOUBLE BATTLE: twee trainers,\n"
+	.string "ieder twee POKéMON tegelijk.\p"
+	.string "MULTI BATTLE: vier trainers,\n"
+	.string "ieder een POKéMON tegelijk.$"
 
 CableClub_Text_ChooseGroupLeaderOfTwo:
-	.string "Please decide which of you two\n"
-	.string "will become the LEADER.\p"
-	.string "The other player must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "Kies wie van jullie twee\n"
+	.string "de LEADER wordt.\p"
+	.string "De andere speler kiest JOIN GROUP.$"
 
 CableClub_Text_ChooseGroupLeaderOfFour:
-	.string "Please decide which of you four\n"
-	.string "will become the GROUP LEADER.\p"
-	.string "The other players must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "Kies wie van jullie vier\n"
+	.string "de GROUP LEADER wordt.\p"
+	.string "De andere spelers kiezen JOIN GROUP.$"
 
 CableClub_Text_ChooseGroupLeader:
-	.string "Please decide which of you will\n"
-	.string "become the GROUP LEADER.\p"
-	.string "The other players must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "Kies wie de GROUP LEADER wordt.\p"
+	.string "De andere spelers kiezen JOIN GROUP.$"
 
 CableClub_Text_WelcomeUnionRoomEnter:
-	.string "Welcome to the POKéMON WIRELESS\n"
-	.string "CLUB UNION ROOM.\p"
-	.string "You may interact directly with\n"
-	.string "other TRAINERS here, some of\l"
-	.string "whom you may not even know.\p"
-	.string "Would you like to enter the ROOM?$"
+	.string "Welkom in de UNION ROOM.\p"
+	.string "Hier kun je met andere trainers\n"
+	.string "spelen.\p"
+	.string "Wil je naar binnen?$"
 
 CableClub_Text_UnionRoomInfo:
 	.string "The TRAINERS in the UNION ROOM\n"
@@ -410,78 +384,43 @@ CableClub_Text_UnionRoomInfo:
 	.string "Would you like to enter the ROOM?$"
 
 CableClub_Text_EnjoyUnionRoom:
-	.string "I hope you enjoy your time in\n"
-	.string "the UNION ROOM.$"
+	.string "Veel plezier in de UNION ROOM!$"
 
 CableClub_Text_FirstTimeRightThisWay:
-	.string "Hello!\n"
-	.string "My name is TEALA.\p"
-	.string "This must be your first time\n"
-	.string "up here.\p"
-	.string "I'll show you how the Wireless\n"
-	.string "Communication System works.\p"
-	.string "First, I need to show you this\n"
-	.string "floor of our POKéMON CENTER.\p"
-	.string "Right this way, please.$"
+	.string "Hallo! Ik ben TEALA.\p"
+	.string "Je bent hier vast voor het eerst.\p"
+	.string "Ik laat je zien hoe je met\n"
+	.string "andere spelers kunt verbinden.\p"
+	.string "Loop maar met me mee!$"
 
 CableClub_Text_ExplainWirelessClubFirstTime:
-	.string "On the top floor, there are two\n"
-	.string "rooms.\p"
-	.string "First, the room on the left.\n"
-	.string "It's the UNION ROOM.\p"
-	.string "You may link up with TRAINERS\n"
-	.string "around you who have also entered\l"
-	.string "the UNION ROOM.\p"
-	.string "With them, you may do things like\n"
-	.string "chat, battle, and trade.\p"
-	.string "Second, the room on the right is\n"
-	.string "the DIRECT CORNER.\p"
-	.string "You may trade or battle POKéMON\n"
-	.string "with your friends in this room.\p"
-	.string "If the Wireless Adapter isn't\n"
-	.string "connected, you may still link up\l"
-	.string "using a GBA Game Link cable.\p"
-	.string "If that is the case, you must go\n"
-	.string "to the DIRECT CORNER.\p"
-	.string "I hope you enjoy the Wireless \n"
-	.string "Communication System.$"
+	.string "Boven zijn twee kamers.\p"
+	.string "Links is de UNION ROOM.\n"
+	.string "Daar kun je praten, vechten en ruilen.\p"
+	.string "Rechts is de DIRECT CORNER.\n"
+	.string "Daar speel je met je vrienden.\p"
+	.string "Zonder Wireless Adapter kun je\n"
+	.string "een GBA Game Link kabel gebruiken.\p"
+	.string "Ga daarvoor naar de DIRECT CORNER.\n"
+	.string "Veel plezier!$"
 
 CableClub_Text_AskAboutLinking:
-	.string "Hello, {PLAYER}!\p"
-	.string "It's me, TEALA, the POKéMON\n"
-	.string "CENTER 2F attendant.\p"
-	.string "Is there something you needed to\n"
-	.string "ask me about linking?$"
+	.string "Hallo, {PLAYER}! Ik ben TEALA.\p"
+	.string "Wil je iets weten over\n"
+	.string "verbinden met andere spelers?$"
 
 CableClub_Text_ExplainWirelessClub:
-	.string "Let me explain how the POKéMON\n"
-	.string "WIRELESS CLUB works.\p"
-	.string "On this, the top floor, there are\n"
-	.string "two rooms.\p"
-	.string "First, the room on the left.\n"
-	.string "It's the UNION ROOM.\p"
-	.string "You may link up with TRAINERS\n"
-	.string "around you who have also entered\l"
-	.string "the UNION ROOM.\p"
-	.string "With them, you may do things like\n"
-	.string "chat, battle, and trade.\p"
-	.string "Second, the room on the right is\n"
-	.string "the DIRECT CORNER.\p"
-	.string "You may trade or battle POKéMON\n"
-	.string "with your friends in this room.\p"
-	.string "Sometimes, you may not be able to\n"
-	.string "find your friends in the UNION ROOM\l"
-	.string "or the DIRECT CORNER.\p"
-	.string "In that case, please move closer\n"
-	.string "to your friends.\p"
-	.string "If the Wireless Adapter isn't\n"
-	.string "connected, you may still link up\l"
-	.string "using a GBA Game Link cable.\p"
-	.string "If that is the case, you must go\n"
-	.string "to the DIRECT CORNER.\p"
-	.string "I hope you enjoy the Wireless \n"
-	.string "Communication System.$"
+	.string "Boven zijn twee kamers.\p"
+	.string "Links is de UNION ROOM.\n"
+	.string "Daar kun je praten, vechten en ruilen.\p"
+	.string "Rechts is de DIRECT CORNER.\n"
+	.string "Daar speel je met je vrienden.\p"
+	.string "Kun je je vrienden niet vinden?\n"
+	.string "Ga dan dichter bij elkaar zitten.\p"
+	.string "Zonder Wireless Adapter kun je\n"
+	.string "een GBA Game Link kabel gebruiken.\p"
+	.string "Ga daarvoor naar de DIRECT CORNER.\n"
+	.string "Veel plezier!$"
 
 CableClub_Text_HopeYouEnjoyWirelessSystem:
-	.string "I hope you enjoy the Wireless\n"
-	.string "Communication System.$"
+	.string "Veel plezier met samen spelen!$"
