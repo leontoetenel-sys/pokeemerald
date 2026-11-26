@@ -463,6 +463,13 @@ STATIC_ASSERT(sizeof(((struct BattleStruct *)0)->palaceFlags) * 8 >= MAX_BATTLER
         typeArg = gBattleMoves[move].type;                            \
 }
 
+#define MOVE_CATEGORY_PHYSICAL 0
+#define MOVE_CATEGORY_SPECIAL 1
+#define MOVE_CATEGORY_STATUS 2
+extern const u8 gMoveCategories[];
+#define IS_MOVE_PHYSICAL(move) (gMoveCategories[(move)] == MOVE_CATEGORY_PHYSICAL)
+#define IS_MOVE_SPECIAL(move) (gMoveCategories[(move)] == MOVE_CATEGORY_SPECIAL)
+
 #define IS_TYPE_PHYSICAL(moveType) (moveType < TYPE_MYSTERY)
 #define IS_TYPE_SPECIAL(moveType) (moveType > TYPE_MYSTERY)
 
