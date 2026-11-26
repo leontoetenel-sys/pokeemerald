@@ -134,16 +134,16 @@ Route113_EventScript_Wyatt::
 	end
 
 Route113_Text_AshCanBeFashionedIntoGlass:
-	.string "Wahahaha! Today's technology is a\n"
-	.string "wondrous thing!\p"
-	.string "Take this volcanic ash here.\n"
-	.string "It can be fashioned into glass.$"
+	.string "Wahahaha! Wat kunnen we toch\n"
+	.string "bijzondere dingen tegenwoordig!\p"
+	.string "Van deze vulkanische as kun\n"
+	.string "je bijvoorbeeld glas maken.$"
 
 Route113_Text_FunWalkingThroughAsh:
-	.string "It's fun walking through the volcano's\n"
-	.string "ashes on the ground and grass.\p"
-	.string "You can see where you walked--it's\n"
-	.string "really neat!$"
+	.string "Het is leuk om door de as\n"
+	.string "op de grond en het gras te lopen.\p"
+	.string "Je kunt precies zien waar je\n"
+	.string "hebt gelopen!$"
 
 Route113_Text_RouteSign111:
 	.string "ROUTE 113\n"
@@ -154,13 +154,13 @@ Route113_Text_RouteSignFallarbor:
 	.string "{LEFT_ARROW} FALLARBOR TOWN$"
 
 Route113_Text_TrainerTipsRegisterKeyItems:
-	.string "TRAINER TIPS\p"
-	.string "You may register one of the KEY ITEMS\n"
-	.string "in your BAG as SELECT.\p"
-	.string "Simply press SELECT to use\n"
-	.string "the registered item conveniently.$"
+	.string "TRAINERTIPS\p"
+	.string "Je kunt een KEY ITEM uit je\n"
+	.string "BAG koppelen aan SELECT.\p"
+	.string "Druk op SELECT om dat\n"
+	.string "voorwerp meteen te gebruiken.$"
 
 Route113_Text_GlassWorkshopSign:
-	.string "GLASS WORKSHOP\n"
-	.string "“Turning Volcanic Ash into Glass Items”$"
+	.string "GLASWERKPLAATS\n"
+	.string "Van vulkanische as naar glas!$"
 

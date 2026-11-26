@@ -1607,180 +1607,180 @@ Route112_Text_ShaylaPostBattle:
 	.string "niet erg.$"
 
 Route113_Text_JaylenIntro:
-	.string "Can you guess why it's so cool\n"
-	.string "around here?$"
+	.string "Weet jij waarom het hier\n"
+	.string "zo lekker koel is?$"
 
 Route113_Text_JaylenDefeat:
-	.string "Peeuuw!\n"
-	.string "That stinks!$"
+	.string "Bah!\n"
+	.string "Dat is balen!$"
 
 Route113_Text_JaylenPostBattle:
-	.string "The volcanic ash blocks the sun,\n"
-	.string "so it doesn't get very warm.\p"
-	.string "That's good for me--I can't stand heat!$"
+	.string "De vulkanische as houdt de\n"
+	.string "zon tegen, dus het blijft koel.\p"
+	.string "Gelukkig! Ik kan niet tegen hitte!$"
 
 Route113_Text_DillonIntro:
-	.string "The volcano's eruption is proof that\n"
-	.string "the earth is alive.$"
+	.string "De uitbarsting van de vulkaan\n"
+	.string "bewijst dat de aarde leeft.$"
 
 Route113_Text_DillonDefeat:
-	.string "You're some kind of strong!$"
+	.string "Wat ben jij ontzettend sterk!$"
 
 Route113_Text_DillonPostBattle:
-	.string "Ouch! Owww! I can't see!\n"
-	.string "I got ashes in my eyelashes!\p"
-	.string "Get it? Ashes and eyelashes?\p"
-	.string "Okay, that was bad, sorry…$"
+	.string "Au! Ik zie niks meer!\n"
+	.string "Ik heb as in mijn wimpers!\p"
+	.string "Nu ben ik een echte as-kijker!\p"
+	.string "Oké, slechte grap. Sorry...$"
 
 Route113_Text_MadelineIntro:
-	.string "I use this parasol to ward off this\n"
-	.string "filthy, yucky volcanic ash from\l"
-	.string "my dear NUMEL.$"
+	.string "Met mijn parasol bescherm ik\n"
+	.string "mijn lieve NUMEL tegen die\l"
+	.string "vieze vulkanische as.$"
 
 Route113_Text_MadelineDefeat:
-	.string "Huff, huff…\n"
-	.string "I am exhausted…$"
+	.string "Puf, puf...\n"
+	.string "Ik ben uitgeput...$"
 
 Route113_Text_MadelinePostBattle:
-	.string "You're very good at this.\n"
-	.string "I must say I'm impressed!$"
+	.string "Jij bent hier erg goed in.\n"
+	.string "Ik ben onder de indruk!$"
 
 Route113_Text_MadelineRegister:
-	.string "Here, slide under my parasol.\n"
-	.string "Let me register you in my POKéNAV.$"
+	.string "Kom maar onder mijn parasol.\n"
+	.string "Ik registreer je in mijn PokéNav.$"
 
 Route113_Text_MadelineRematchIntro:
-	.string "Oh, hello, hasn't it been a while?\n"
-	.string "May I invite you to battle?$"
+	.string "O, hallo! Lang niet gezien.\n"
+	.string "Mag ik je uitdagen?$"
 
 Route113_Text_MadelineRematchDefeat:
-	.string "Oh, how super!$"
+	.string "O, wat geweldig!$"
 
 Route113_Text_MadelinePostRematch:
-	.string "You've remained very good at this.\n"
-	.string "I must say I'm impressed!$"
+	.string "Je bent hier nog steeds goed in.\n"
+	.string "Ik ben onder de indruk!$"
 
 Route113_Text_LaoIntro:
-	.string "From out of the ashes I leap! Hiyah!\n"
-	.string "I challenge thee!$"
+	.string "Uit de as spring ik tevoorschijn!\n"
+	.string "Hiyah! Ik daag u uit!$"
 
 Route113_Text_LaoDefeat:
-	.string "With honor I admit defeat!$"
+	.string "Vol eer geef ik mijn nederlaag toe!$"
 
 Route113_Text_LaoPostBattle:
-	.string "I must refine the art of concealment.\n"
-	.string "I bid thee farewell.$"
+	.string "Ik moet beter leren verstoppen.\n"
+	.string "Ik groet u.$"
 
 Route113_Text_LaoRegister:
-	.string "Yiiyaah! Witness the ancient ninja\n"
-	.string "technique of POKéNAV registration!$"
+	.string "Hiyah! Aanschouw de oude\n"
+	.string "ninjatechniek: PokéNav-registratie!$"
 
 Route113_Text_LaoRematchIntro:
-	.string "From out of the ashes I leap! Hiyah!\n"
-	.string "I challenge thee!$"
+	.string "Uit de as spring ik tevoorschijn!\n"
+	.string "Hiyah! Ik daag u uit!$"
 
 Route113_Text_LaoRematchDefeat:
-	.string "With honor I admit defeat!$"
+	.string "Vol eer geef ik mijn nederlaag toe!$"
 
 Route113_Text_LaoPostRematch:
-	.string "My flawless concealment was let down\n"
-	.string "by my immature battle skills…\p"
-	.string "I bid thee farewell.$"
+	.string "Ik kon me perfect verstoppen,\n"
+	.string "maar mijn vechtkunst schoot tekort.\p"
+	.string "Ik groet u.$"
 
 Route113_Text_LungIntro:
-	.string "Thanks for finding me!\n"
-	.string "But we still have to battle!$"
+	.string "Bedankt dat je me gevonden hebt!\n"
+	.string "Maar we moeten nog vechten!$"
 
 Route113_Text_LungDefeat:
-	.string "I'll use my ninjutsu on you…\n"
-	.string "“VOLCANIC ASH SWIRL CLOAK”!\p"
-	.string "…What?\n"
-	.string "It's already over?$"
+	.string "Ik gebruik mijn ninjutsu!\n"
+	.string "DE WERVELENDE AS-MANTEL!\p"
+	.string "Hè? Is het al voorbij?$"
 
 Route113_Text_LungPostBattle:
-	.string "You know what's crummy about hiding?\n"
-	.string "It's lonely if no one comes along.$"
+	.string "Weet je wat stom is aan verstoppen?\n"
+	.string "Het is eenzaam als niemand langskomt.$"
 
 Route113_Text_ToriIntro:
-	.string "TORI: Both of us, we collect ashes.\n"
-	.string "We battle POKéMON, too.$"
+	.string "TORI: Wij verzamelen allebei as.\n"
+	.string "En we vechten met Pokémon!$"
 
 Route113_Text_ToriDefeat:
-	.string "TORI: We lost… It's boring, so I'm going\n"
-	.string "to get some more ashes.$"
+	.string "TORI: We verloren... Saai!\n"
+	.string "Ik ga nog wat as verzamelen.$"
 
 Route113_Text_ToriPostBattle:
-	.string "TORI: How much ash do we have?\n"
-	.string "Enough for a WHITE FLUTE, I hope.$"
+	.string "TORI: Hoeveel as hebben we?\n"
+	.string "Hopelijk genoeg voor een WHITE FLUTE.$"
 
 Route113_Text_ToriNotEnoughMons:
-	.string "TORI: We want to battle 2-on-2.\n"
-	.string "If we didn't, we would lose!$"
+	.string "TORI: We willen twee tegen twee.\n"
+	.string "Anders verliezen we!$"
 
 Route113_Text_TiaIntro:
-	.string "TIA: Both of us, we collect ashes.\n"
-	.string "We battle POKéMON, too.$"
+	.string "TIA: Wij verzamelen allebei as.\n"
+	.string "En we vechten met Pokémon!$"
 
 Route113_Text_TiaDefeat:
-	.string "TIA: We couldn't win… It's boring,\n"
-	.string "so I'm getting some more ashes.$"
+	.string "TIA: We konden niet winnen... Saai!\n"
+	.string "Ik ga nog wat as verzamelen.$"
 
 Route113_Text_TiaPostBattle:
-	.string "TIA: We have a lot of ashes!\n"
-	.string "I think enough for a WHITE FLUTE!$"
+	.string "TIA: We hebben heel veel as!\n"
+	.string "Vast genoeg voor een WHITE FLUTE!$"
 
 Route113_Text_TiaNotEnoughMons:
-	.string "TIA: We want to battle 2-on-2.\n"
-	.string "If we don't, we won't win!$"
+	.string "TIA: We willen twee tegen twee.\n"
+	.string "Anders winnen we niet!$"
 
 Route113_Text_CobyIntro:
-	.string "Pfft, with these wings I can\n"
-	.string "flick you away!$"
+	.string "Pff, met deze vleugels\n"
+	.string "blaas ik je zo weg!$"
 
 Route113_Text_CobyDefeat:
-	.string "A… What?$"
+	.string "Een... Wat?$"
 
 Route113_Text_CobyPostBattle:
-	.string "I don't know what to say when I get\n"
-	.string "beaten so easily…$"
+	.string "Ik weet niet wat ik moet zeggen\n"
+	.string "als ik zo makkelijk verlies...$"
 
 Route113_Text_SophieIntro:
-	.string "The warmth here is making me drowsy.\n"
-	.string "Battle with me so I can stay awake.$"
+	.string "Van die warmte word ik slaperig.\n"
+	.string "Vecht met me, dan blijf ik wakker.$"
 
 Route113_Text_SophieDefeat:
-	.string "This is a dream.\n"
-	.string "I'm sure of it…$"
+	.string "Dit is een droom.\n"
+	.string "Dat weet ik zeker...$"
 
 Route113_Text_SophiePostBattle:
-	.string "Losing burns me up…\n"
-	.string "I'm just going to sleep right here!\l"
+	.string "Ik baal van mijn nederlaag...\n"
+	.string "Ik ga hier gewoon slapen!\l"
 	.string "Zzz!$"
 
 Route113_Text_LawrenceIntro:
-	.string "Were you maybe in the middle\n"
-	.string "of gathering volcanic ashes?$"
+	.string "Was jij misschien vulkanische\n"
+	.string "as aan het verzamelen?$"
 
 Route113_Text_LawrenceDefeat:
-	.string "Ehehe.\n"
-	.string "We got beaten cleanly.$"
+	.string "Hihi.\n"
+	.string "We zijn flink verslagen.$"
 
 Route113_Text_LawrencePostBattle:
-	.string "I ought to hide under the ashes, too.$"
+	.string "Ik moet me ook maar eens\n"
+	.string "onder de as verstoppen.$"
 
 Route113_Text_WyattIntro:
-	.string "Y-you want to battle with me?\n"
-	.string "Even though I just caught my POKéMON?$"
+	.string "W-wil je tegen me vechten?\n"
+	.string "Ik heb mijn Pokémon net gevangen!$"
 
 Route113_Text_WyattDefeat:
-	.string "Y-you're all happy to win?\n"
-	.string "Even though it's only me?$"
+	.string "B-ben je blij dat je wint?\n"
+	.string "Zelfs van mij?$"
 
 Route113_Text_WyattPostBattle:
-	.string "Oh, so now you want to say a word to\n"
-	.string "the loser?\p"
-	.string "Aren't you just the coolest?\n"
-	.string "Humph!$"
+	.string "O, nu wil je nog iets zeggen\n"
+	.string "tegen de verliezer?\p"
+	.string "Wat ben jij toch stoer!\n"
+	.string "Puh!$"
 
 Route114_Text_LennyIntro:
 	.string "Yodelayhihoo!\p"
