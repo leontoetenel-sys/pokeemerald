@@ -531,8 +531,25 @@ static u16 GenerateFishingWildMon(const struct WildPokemonInfo *wildMonInfo, u8 
     u8 wildMonIndex = ChooseWildMonIndex_Fishing(rod);
     u8 level = ChooseWildMonLevel(&wildMonInfo->wildPokemon[wildMonIndex]);
 
-    CreateWildMon(wildMonInfo->wildPokemon[wildMonIndex].species, level);
-    return wildMonInfo->wildPokemon[wildMonIndex].species;
+    u16 headerId = GetCurrentMapWildMonHeaderId();
+    u16 species = wildMonInfo->wildPokemon[wildMonIndex].species;
+    u8 roll;
+
+    // Reserve 5% each for the two rare starters on these three routes.
+    // The remaining 90% retains the original rod encounter distribution.
+    if ((headerId == 5 || headerId == 11 || headerId == 12)
+        && (rod == OLD_ROD || rod == GOOD_ROD || rod == SUPER_ROD))
+    {
+        roll = Random() % 100;
+        if (roll < 10)
+        {
+            species = roll < 5 ? SPECIES_MUDKIP : SPECIES_SQUIRTLE;
+            level = rod == OLD_ROD ? 5 : (rod == GOOD_ROD ? 10 : 15);
+        }
+    }
+
+    CreateWildMon(species, level);
+    return species;
 }
 
 static bool8 SetUpMassOutbreakEncounter(u8 flags)

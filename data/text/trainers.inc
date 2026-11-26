@@ -1150,8 +1150,10 @@ Route110_Text_DalePostBattle:
 	.string "Ik ving Mudkip en Squirtle\n"
 	.string "hier in het water van ROUTE 110.\p"
 	.string "Ze zijn ontzettend zeldzaam!\n"
-	.string "Je hebt wel SURF nodig\l"
-	.string "om ze te vinden.$"
+	.string "Met SURF kun je ze vinden.\p"
+	.string "Misschien lukt het ook met\n"
+	.string "een hengel, maar dan moet je\l"
+	.string "wel heel veel geduld hebben!$"
 
 Route110_Text_IsabelIntro:
 	.string "Hahaha! Ik laat mijn prachtige\n"
@@ -1520,21 +1522,20 @@ Route112_Text_BricePostBattle:
 	.string "Hahahaha-hatchoo!$"
 
 Route112_Text_TrentIntro:
-	.string "My legs are solid from pounding up\n"
-	.string "and down the mountains.\p"
-	.string "They're not going to buckle easily,\n"
-	.string "friend!$"
+	.string "Ik ben dol op de hitte!\n"
+	.string "Mijn Pokémon voelen zich\l"
+	.string "hier helemaal thuis!$"
 
 Route112_Text_TrentDefeat:
-	.string "Ouch! My legs cramped up!$"
+	.string "Oei! Dat werd me iets te heet!$"
 
 Route112_Text_TrentPostBattle:
-	.string "Try hiking, and I mean really\n"
-	.string "pounding, on these mountain trails\l"
-	.string "with a heavy pack weighing dozens of\l"
-	.string "pounds.\p"
-	.string "That, my friend, will get your body\n"
-	.string "into serious shape.$"
+	.string "Mijn Pokémon komen uit\n"
+	.string "FIERY PATH, die grot hier vlakbij.\p"
+	.string "Vooral Charmander is\n"
+	.string "ontzettend zeldzaam.\p"
+	.string "Maar als je lang genoeg zoekt,\n"
+	.string "vind je er misschien eentje!$"
 
 Route112_Text_TrentRegister:
 	.string "Ow, my legs have cramped up.\n"
