@@ -1508,17 +1508,17 @@ Route111_Text_BiancaPostBattle:
 
 Route112_Text_BriceIntro:
 	.string "Hahahaha!\n"
-	.string "How about we have a battle?\l"
-	.string "You and me!\l"
+	.string "Zullen we een duel houden?\l"
+	.string "Jij tegen mij!\l"
 	.string "Hahahaha!$"
 
 Route112_Text_BriceDefeat:
-	.string "I lost!\n"
+	.string "Ik heb verloren!\n"
 	.string "Hahahaha!$"
 
 Route112_Text_BricePostBattle:
-	.string "Hahahahaha! Something flew up my nose!\n"
-	.string "Hahahaha-hatchoo!$"
+	.string "Hahaha! Er vloog iets in mijn neus!\n"
+	.string "Hahaha-hatsjoe!$"
 
 Route112_Text_TrentIntro:
 	.string "Ik ben dol op de hitte!\n"
@@ -1537,74 +1537,74 @@ Route112_Text_TrentPostBattle:
 	.string "vind je er misschien eentje!$"
 
 Route112_Text_TrentRegister:
-	.string "Ow, my legs have cramped up.\n"
-	.string "Can you grab me some bandages from\l"
-	.string "my backpack?\p"
-	.string "No, that's my POKéNAV!\n"
-	.string "Oh, fine, I'll register you.$"
+	.string "Au, ik heb kramp in mijn benen.\p"
+	.string "Pak je wat verband uit mijn tas?\p"
+	.string "Nee, dat is mijn PokéNav!\n"
+	.string "Ach, ik registreer je wel.$"
 
 Route112_Text_TrentRematchIntro:
-	.string "I've been keeping fit by hiking.\n"
-	.string "Power, I have in spades!$"
+	.string "Ik blijf fit door veel te wandelen.\n"
+	.string "Ik zit boordevol kracht!$"
 
 Route112_Text_TrentRematchDefeat:
-	.string "I got trumped in power?$"
+	.string "Ben ik verslagen op kracht?$"
 
 Route112_Text_TrentRematchPostBattle:
-	.string "I hear there are some seriously tough\n"
-	.string "TRAINERS on top of MT. CHIMNEY.\p"
-	.string "I intend to get up there and give them\n"
-	.string "a challenge!$"
+	.string "Op de top van MT. CHIMNEY\n"
+	.string "zitten naar verluidt sterke\l"
+	.string "trainers.\p"
+	.string "Ik ga ze daar uitdagen!$"
 
 Route112_Text_LarryIntro:
-	.string "I'm strong.\n"
-	.string "I won't cry if I lose.$"
+	.string "Ik ben sterk.\n"
+	.string "Ik ga niet huilen als ik verlies.$"
 
 Route112_Text_LarryDefeat:
-	.string "Waaaah!$"
+	.string "Waaaaah!$"
 
 Route112_Text_LarryPostBattle:
-	.string "I'm not crying because I miss my mommy!\n"
-	.string "Snivel…$"
+	.string "Ik huil niet omdat ik mama mis!\n"
+	.string "Snif...$"
 
 Route112_Text_CarolIntro:
-	.string "When you're out on a picnic, why,\n"
-	.string "you simply have to sing!\l"
-	.string "Come on, sing with me!$"
+	.string "Bij een picknick hoort zingen!\n"
+	.string "Kom op, zing met me mee!$"
 
 Route112_Text_CarolDefeat:
-	.string "Oh, you're so strong!$"
+	.string "O, wat ben jij sterk!$"
 
 Route112_Text_CarolPostBattle:
-	.string "It doesn't matter if you're good or bad\n"
-	.string "at singing or POKéMON.\p"
-	.string "If you have the most fun, you win!$"
+	.string "Het maakt niet uit of je goed\n"
+	.string "bent in zingen of Pokémon.\p"
+	.string "Wie het meeste plezier heeft,\n"
+	.string "wint!$"
 
 Route112_Text_BryantIntro:
-	.string "I caught hot POKéMON in FIERY PATH!\n"
-	.string "Take a look!$"
+	.string "Ik ving hete Pokémon in\n"
+	.string "FIERY PATH! Kijk maar!$"
 
 Route112_Text_BryantDefeat:
-	.string "What a bumpy ride that was!$"
+	.string "Dat was een wilde rit!$"
 
 Route112_Text_BryantPostBattle:
-	.string "I like the way you battle.\n"
-	.string "It has a certain flair to it.$"
+	.string "Ik vind jouw manier van vechten\n"
+	.string "wel mooi. Je hebt stijl!$"
 
 Route112_Text_ShaylaIntro:
-	.string "Oh, aren't you an adorable TRAINER!\n"
-	.string "Please, I need a romantic battle!\l"
-	.string "I'm somewhat decent!$"
+	.string "O, wat een lieve trainer!\p"
+	.string "Zullen we een romantisch duel\n"
+	.string "houden? Ik kan best goed vechten!$"
 
 Route112_Text_ShaylaDefeat:
-	.string "Oh, how strong you are!\n"
-	.string "You've given me quite a shock!$"
+	.string "O, wat ben jij sterk!\n"
+	.string "Daar schrik ik van!$"
 
 Route112_Text_ShaylaPostBattle:
-	.string "Are you busy right now?\n"
-	.string "I was thinking that maybe we can have\l"
-	.string "a rematch right now…\l"
-	.string "But it's all right if you're busy.$"
+	.string "Heb je het druk?\p"
+	.string "Ik dacht dat we misschien nog\n"
+	.string "een keer konden vechten...\p"
+	.string "Maar als je druk bent, is dat\n"
+	.string "niet erg.$"
 
 Route113_Text_JaylenIntro:
 	.string "Can you guess why it's so cool\n"
