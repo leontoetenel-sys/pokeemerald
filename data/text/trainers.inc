@@ -1139,14 +1139,19 @@ Route110_Text_EdwinRematchPostBattle:
 	.string "Pokémon verzamelen!$"
 
 Route110_Text_DaleIntro:
-	.string "He! Besluip me niet zo!$"
+	.string "Kijk eens wat ik hier\n"
+	.string "in het water heb gevangen!\p"
+	.string "Wil je tegen ze vechten?$"
 
 Route110_Text_DaleDefeated:
-	.string "Verloren! Bah!$"
+	.string "Wauw! Jij bent sterk!$"
 
 Route110_Text_DalePostBattle:
-	.string "Bij vissen moet je goed opletten.\n"
-	.string "Blijf naar je dobber kijken.$"
+	.string "Ik ving Mudkip en Squirtle\n"
+	.string "hier in het water van ROUTE 110.\p"
+	.string "Ze zijn ontzettend zeldzaam!\n"
+	.string "Je hebt wel SURF nodig\l"
+	.string "om ze te vinden.$"
 
 Route110_Text_IsabelIntro:
 	.string "Hahaha! Ik laat mijn prachtige\n"
