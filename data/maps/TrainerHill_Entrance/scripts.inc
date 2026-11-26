@@ -281,164 +281,165 @@ TrainerHill_Entrance_Pokemart_Expanded:
 	pokemartlistend
 
 TrainerHill_Entrance_Text_StillGettingReady:
-	.string "This is the TRAINER HILL where\n"
-	.string "you may enjoy tag battles with many\l"
-	.string "TRAINERS.\p"
-	.string "Unfortunately, we're still getting\n"
-	.string "things ready. Please come back later!$"
+	.string "Dit is TRAINER HILL. Hier kun\n"
+	.string "je dubbele duels houden tegen\l"
+	.string "allerlei trainers.\p"
+	.string "Helaas zijn we nog bezig met\n"
+	.string "de voorbereidingen.\l"
+	.string "Kom later nog eens terug!$"
 
 TrainerHill_Entrance_Text_WelcomeToTrainerHill:
-	.string "Welcome!\p"
-	.string "This is the TRAINER HILL where\n"
-	.string "you may enjoy tag battles with many\l"
-	.string "TRAINERS!$"
+	.string "Welkom!\p"
+	.string "Dit is TRAINER HILL. Hier kun\n"
+	.string "je dubbele duels houden tegen\l"
+	.string "allerlei trainers!$"
 
 TrainerHill_Entrance_Text_SaveGameBeforeEnter:
-	.string "Is this your first visit here?\p"
-	.string "Before you enter, please save\n"
-	.string "your game.$"
+	.string "Ben je hier voor het eerst?\p"
+	.string "Sla je spel op voordat je\n"
+	.string "naar binnen gaat.$"
 
 TrainerHill_Entrance_Text_TrainersUpToFloorX:
-	.string "Let's see…\n"
-	.string "The TRAINERS here now are…\p"
-	.string "Up to floor no. {STR_VAR_1}.$"
+	.string "Even kijken...\n"
+	.string "De trainers staan klaar...\p"
+	.string "Tot en met verdieping {STR_VAR_1}.$"
 
 TrainerHill_Entrance_Text_TrainersInEveryRoom:
-	.string "Let's see…\n"
-	.string "The TRAINERS here now are…\p"
-	.string "There appear to be TRAINERS gathered\n"
-	.string "in every room.$"
+	.string "Even kijken...\n"
+	.string "De trainers staan klaar...\p"
+	.string "Er zijn trainers in elke kamer.$"
 
 TrainerHill_Entrance_Text_LikeToChallengeTrainers:
-	.string "Would you like to challenge the\n"
-	.string "waiting TRAINERS?$"
+	.string "Wil je de wachtende trainers\n"
+	.string "uitdagen?$"
 
 TrainerHill_Entrance_Text_TimeProgessGetSetGo:
-	.string "I will time your progress.\n"
-	.string "Best of luck!\p"
-	.string "On your marks…\p"
-	.string "Get set…\p"
-	.string "Go!$"
+	.string "Ik houd je tijd bij.\n"
+	.string "Veel succes!\p"
+	.string "Op je plaatsen...\p"
+	.string "Klaar...\p"
+	.string "Start!$"
 
 TrainerHill_Entrance_Text_PleaseVisitUsAgain:
-	.string "Please do visit us again!$"
+	.string "Kom gerust nog eens terug!$"
 
 TrainerHill_Entrance_Text_TooBadTremendousEffort:
-	.string "That was too bad.\p"
-	.string "I think you put in a tremendous\n"
-	.string "effort in your battling.\p"
-	.string "Please come back and try again!$"
+	.string "Wat jammer!\p"
+	.string "Je hebt ontzettend goed\n"
+	.string "je best gedaan.\p"
+	.string "Kom terug en probeer het\n"
+	.string "nog eens!$"
 
 TrainerHill_Entrance_Text_HopeYouGiveItYourBest:
-	.string "I hope you give it your best.$"
+	.string "Doe je best!$"
 
 TrainerHill_Entrance_Text_MovedReceptionHereForSwitch:
-	.string "When the TRAINERS switch places,\n"
-	.string "the movement can be hectic.\p"
-	.string "To avoid the stampede, we moved\n"
-	.string "the reception counter here.\p"
-	.string "I'm sorry for the inconvenience.$"
+	.string "Als de trainers van plek\n"
+	.string "wisselen, wordt het erg druk.\p"
+	.string "Daarom hebben we de balie\n"
+	.string "naar deze plek verplaatst.\p"
+	.string "Sorry voor het ongemak.$"
 
 TrainerHill_Entrance_Text_ThankYouForPlaying:
-	.string "Thank you for playing!$"
+	.string "Bedankt voor het spelen!$"
 
 TrainerHill_Entrance_Text_ExplainTrainerHill:
-	.string "Here at the TRAINER HILL, we conduct\n"
-	.string "an event called the Time Attack.\p"
-	.string "It is a race that measures how long\n"
-	.string "you take to reach our owner on\l"
-	.string "the rooftop from this counter.\p"
-	.string "The fastest times are posted on\n"
-	.string "the Time Board--try competing with\l"
-	.string "your friends.\p"
-	.string "In TRAINER battles along the way,\n"
-	.string "neither Exp. Points nor money will\l"
-	.string "be awarded.$"
+	.string "Hier in TRAINER HILL houden\n"
+	.string "we een wedstrijd: Time Attack.\p"
+	.string "We meten hoe lang je erover\n"
+	.string "doet om vanaf deze balie bij\l"
+	.string "de eigenaar op het dak te komen.\p"
+	.string "De snelste tijden staan op\n"
+	.string "het tijdenbord. Probeer je\l"
+	.string "vrienden te verslaan!\p"
+	.string "Je krijgt onderweg geen XP\n"
+	.string "of geld voor de duels.$"
 
 @ Unused
 TrainerHill_Entrance_Text_NeedAtLeastTwoPokemon:
-	.string "Oh, I'm sorry, but you appear to have\n"
-	.string "only one POKéMON with you.\p"
-	.string "You will need at least two POKéMON\n"
-	.string "to enter this event.$"
+	.string "O, sorry. Je hebt maar één\n"
+	.string "Pokémon bij je.\p"
+	.string "Je hebt minstens twee Pokémon\n"
+	.string "nodig om mee te doen.$"
 
 TrainerHill_Roof_Text_YouFinallyCameBravo:
 	.string "Hm! Hm!\p"
-	.string "You finally came!\n"
-	.string "Yes, you have arrived!\p"
-	.string "Wait! Don't say it!\n"
-	.string "I know why you came all the way\l"
-	.string "here by yourself!\p"
-	.string "You wanted to see me, the owner\n"
-	.string "of the TRAINER HILL, because…\p"
-	.string "You want to form a tag team with me!\n"
-	.string "Wa-hoo!\p"
-	.string "…Uh?\n"
-	.string "That's not it?\p"
-	.string "Anyway, I watched you on your way up.\n"
-	.string "Marvelous battling! Bravo, indeed!$"
+	.string "Eindelijk ben je er!\n"
+	.string "Ja, je hebt het gehaald!\p"
+	.string "Wacht! Zeg maar niets!\n"
+	.string "Ik weet waarom je helemaal\l"
+	.string "alleen hierheen bent gekomen!\p"
+	.string "Je wilde mij, de eigenaar van\n"
+	.string "TRAINER HILL, ontmoeten omdat...\p"
+	.string "Je samen met mij een team\n"
+	.string "wilt vormen! Joepie!\p"
+	.string "...Eh?\n"
+	.string "Is dat het niet?\p"
+	.string "Ik heb je onderweg bekeken.\n"
+	.string "Geweldig gevochten! Bravo!$"
 
 TrainerHill_Roof_Text_HaveTheMostMarvelousGift:
-	.string "For a marvelous someone like you,\n"
-	.string "I have the most marvelous gift!$"
+	.string "Voor iemand die zo geweldig\n"
+	.string "is, heb ik een geweldig cadeau!$"
 
 TrainerHill_Roof_Text_FullUpBeBackLaterForThis:
-	.string "Oh, no, full up with things!\n"
-	.string "You'll be back later for this!$"
+	.string "O nee, je hebt geen plek meer!\n"
+	.string "Kom later terug voor je cadeau!$"
 
 TrainerHill_Roof_Text_GotHereMarvelouslyQuickly:
-	.string "Oh, hold on here! Did you possibly get\n"
-	.string "here marvelously quickly?\p"
-	.string "How splendid! You needn't have\n"
-	.string "hurried so to see me!\p"
-	.string "That is so delightful. I'll have the Time\n"
-	.string "Board at the reception updated!$"
+	.string "O, wacht eens! Ben je hier\n"
+	.string "soms ontzettend snel gekomen?\p"
+	.string "Wat geweldig! Je hoefde je\n"
+	.string "niet zo te haasten voor mij!\p"
+	.string "Ik ben zo blij! Ik laat het\n"
+	.string "tijdenbord bij de balie aanpassen!$"
 
 TrainerHill_Roof_Text_YouWerentVeryQuick:
-	.string "But, oh…\n"
-	.string "You weren't very quick getting here.$"
+	.string "Maar, o...\n"
+	.string "Je was niet erg snel.$"
 
 TrainerHill_Roof_Text_ArriveZippierNextTime:
-	.string "Perhaps it would please me more if you\n"
-	.string "arrived zippier next time.\p"
-	.string "Then, I should be pleased to form\n"
-	.string "a tag team with you!\p"
-	.string "Until we meet again, amigo!$"
+	.string "Misschien maak je me blijer\n"
+	.string "als je de volgende keer\l"
+	.string "wat sneller bent.\p"
+	.string "Dan vorm ik graag een team\n"
+	.string "met jou!\p"
+	.string "Tot de volgende keer, vriend!$"
 
 @ Unused
 TrainerHill_Roof_Text_BuiltTrainerHillToFindPartner:
-	.string "I had the TRAINER HILL built for but\n"
-	.string "one reason and one only!\p"
-	.string "To find the most suitable partner\n"
-	.string "with whom I may form a tag team!$"
+	.string "Ik heb TRAINER HILL om maar\n"
+	.string "één reden laten bouwen!\p"
+	.string "Om de allerbeste partner\n"
+	.string "te vinden voor dubbele duels!$"
 
 TrainerHill_Entrance_Text_ChallengeTime:
 	.string "{STR_VAR_1} min. {STR_VAR_2}.{STR_VAR_3} sec.$"
 
 TrainerHill_Entrance_Text_WhatSortOfTrainersAreAhead:
-	.string "Who knows what sort of TRAINERS\n"
-	.string "and POKéMON combos are ahead?\p"
-	.string "All I know is that I'll knock aside\n"
-	.string "anyone that stands in my way!$"
+	.string "Wie weet welke trainers en\n"
+	.string "Pokémon ons te wachten staan?\p"
+	.string "Ik weet één ding: ik versla\n"
+	.string "iedereen die me in de weg staat!$"
 
 TrainerHill_Entrance_Text_CantWaitToTestTheWaters:
-	.string "I heard tough TRAINERS come to this\n"
-	.string "TRAINER HILL from all over.\p"
-	.string "I can't wait to test the waters!\p"
-	.string "I'll knock aside anyone that stands\n"
-	.string "in my way!$"
+	.string "Ik hoorde dat sterke trainers\n"
+	.string "van overal naar TRAINER HILL\l"
+	.string "komen.\p"
+	.string "Ik kan niet wachten om het\n"
+	.string "zelf te proberen!\p"
+	.string "Ik versla iedereen die me\n"
+	.string "in de weg staat!$"
 
 TrainerHill_Entrance_Text_FriendsTryingToReachTimeBoardTop:
-	.string "Do you see the Time Board over there?\p"
-	.string "My friends and I are trying to see who\n"
-	.string "can reach the top in the least time.$"
+	.string "Zie je dat tijdenbord daar?\p"
+	.string "Mijn vrienden en ik proberen\n"
+	.string "zo snel mogelijk boven te komen.$"
 
 TrainerHill_Entrance_Text_DoYouKnowWhenTheyOpen:
-	.string "Do you know when they're opening\n"
-	.string "this place up?\p"
-	.string "I'm waiting here to be the first\n"
-	.string "challenger ever!$"
+	.string "Weet jij wanneer ze opengaan?\p"
+	.string "Ik wacht hier om de allereerste\n"
+	.string "uitdager te zijn!$"
 
 TrainerHill_Elevator_Text_ReturnToReception:
-	.string "Would you like to return to\n"
-	.string "the reception counter?$"
+	.string "Wil je terug naar de balie?$"
