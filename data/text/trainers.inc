@@ -2583,109 +2583,113 @@ Route117_Text_AishaPostBattle:
 	.string "verlies je volgens mij sneller.$"
 
 Route118_Text_RoseIntro:
-	.string "The aroma of flowers has a magical\n"
-	.string "power. It cleanses us body and soul.$"
+	.string "De geur van bloemen heeft\n"
+	.string "een magische kracht.\p"
+	.string "Je lichaam en geest worden\n"
+	.string "er helemaal rustig van.$"
 
 Route118_Text_RoseDefeat:
-	.string "Oh, dear me.\n"
-	.string "I seem to have lost.$"
+	.string "O jee, wat jammer.\n"
+	.string "Ik heb blijkbaar verloren.$"
 
 Route118_Text_RosePostBattle:
-	.string "Flowers, POKéMON…\n"
-	.string "I love whatever smells nice.\p"
-	.string "Stinky things…\n"
-	.string "I'll pass.$"
+	.string "Bloemen, Pokémon...\n"
+	.string "Ik hou van alles wat lekker ruikt.\p"
+	.string "Maar dingen die stinken?\n"
+	.string "Nee, bedankt!$"
 
 Route118_Text_RoseRegister:
-	.string "Sniff… That odor--it's a POKéNAV!\n"
-	.string "We must register each other!$"
+	.string "Snif... Die geur! Een PokéNav!\n"
+	.string "We moeten elkaar registreren!$"
 
 Route118_Text_RoseRematchIntro:
-	.string "Were you drawn here by the sweet\n"
-	.string "aroma?$"
+	.string "Ben je op de heerlijke geur\n"
+	.string "afgekomen?$"
 
 Route118_Text_RoseRematchDefeat:
-	.string "The power of aroma…\n"
-	.string "It didn't seem to do much.$"
+	.string "De kracht van geuren...\n"
+	.string "Die hielp niet echt.$"
 
 Route118_Text_RosePostRematch:
-	.string "If you use a sweet aroma properly,\n"
-	.string "POKéMON will be attracted by it.$"
+	.string "Met een lekkere geur kun je\n"
+	.string "Pokémon naar je toe lokken.$"
 
 Route118_Text_PerryIntro:
-	.string "BIRD POKéMON that FLY elegantly in\n"
-	.string "the sky… They're the best!$"
+	.string "Vogel-Pokémon die sierlijk\n"
+	.string "door de lucht vliegen...\p"
+	.string "Die zijn het allerbeste!$"
 
 Route118_Text_PerryDefeat:
-	.string "Urgh…\n"
-	.string "I crashed…$"
+	.string "Oef... Ik ben neergestort!$"
 
 Route118_Text_PerryPostBattle:
-	.string "You've got great POKéMON.\n"
-	.string "I'll have to train mine better.$"
+	.string "Jij hebt geweldige Pokémon.\n"
+	.string "Ik moet die van mij beter trainen.$"
 
 Route118_Text_ChesterIntro:
-	.string "Take flight!\n"
-	.string "My BIRD POKéMON!$"
+	.string "Vlieg, mijn vogel-Pokémon!$"
 
 Route118_Text_ChesterDefeat:
-	.string "They did take flight…$"
+	.string "Ze zijn inderdaad weggevlogen...$"
 
 Route118_Text_ChesterPostBattle:
-	.string "If they'd get stronger, they'd be able\n"
-	.string "to fly more freely…$"
+	.string "Als ze sterker worden, kunnen\n"
+	.string "ze nog vrijer vliegen...$"
 
 Route118_Text_BarnyIntro:
-	.string "I'm a FISHERMAN, but also a TRAINER.\n"
-	.string "I'm raising the POKéMON I caught.$"
+	.string "Ik ben visser én trainer.\n"
+	.string "Ik train de Pokémon die ik vang.$"
 
 Route118_Text_BarnyDefeat:
-	.string "I thought I was doing okay in my\n"
-	.string "training…$"
+	.string "Ik dacht dat mijn training\n"
+	.string "best goed ging...$"
 
 Route118_Text_BarnyPostBattle:
-	.string "I couldn't win by training POKéMON\n"
-	.string "while I fished…\p"
-	.string "Was I doing things in half measures?$"
+	.string "Trainen tijdens het vissen\n"
+	.string "was niet genoeg om te winnen.\p"
+	.string "Heb ik het niet serieus genoeg\n"
+	.string "aangepakt?$"
 
 Route118_Text_WadeIntro:
-	.string "For FISHERMEN, equipment is the key.\p"
-	.string "But for TRAINERS, the key ingredients\n"
-	.string "are POKéMON and heart, of course!$"
+	.string "Voor een visser is goed\n"
+	.string "visgerei heel belangrijk.\p"
+	.string "Maar voor trainers draait het\n"
+	.string "om Pokémon en een groot hart!$"
 
 Route118_Text_WadeDefeat:
-	.string "I was beaten in heart?$"
+	.string "Heb ik verloren op wilskracht?$"
 
 Route118_Text_WadePostBattle:
-	.string "Come to think of it, fishing is a battle\n"
-	.string "between a FISHERMAN and a POKéMON.$"
+	.string "Eigenlijk is vissen ook een duel\n"
+	.string "tussen een visser en een Pokémon.$"
 
 Route118_Text_DaltonIntro:
-	.string "Let my melody rock your soul!$"
+	.string "Laat mijn muziek je raken!$"
 
 Route118_Text_DaltonDefeat:
-	.string "La-lalala…$"
+	.string "La-lalala...$"
 
 Route118_Text_DaltonPostBattle:
-	.string "An electric guitar doesn't always\n"
-	.string "have to be noisy…\p"
-	.string "It can be strummed to squeeze out\n"
-	.string "this heart-stirring melody…$"
+	.string "Een elektrische gitaar hoeft\n"
+	.string "niet altijd luid te klinken.\p"
+	.string "Je kunt er ook een prachtige,\n"
+	.string "gevoelige melodie op spelen.$"
 
 Route118_Text_DaltonRegister:
-	.string "When I compose better melodies,\n"
-	.string "you have to come listen, okay?$"
+	.string "Als ik betere liedjes schrijf,\n"
+	.string "kom je dan weer luisteren?$"
 
 Route118_Text_DaltonRematchIntro:
-	.string "A melody from my POKéMON and me…\n"
-	.string "Let us deliver it to your soul.$"
+	.string "Een melodie van mijn Pokémon\n"
+	.string "en mij...\p"
+	.string "Laat onze muziek je raken!$"
 
 Route118_Text_DaltonRematchDefeat:
-	.string "La-lalala…$"
+	.string "La-lalala...$"
 
 Route118_Text_DaltonPostRematch:
-	.string "When I play, my emotions should reach\n"
-	.string "you through my electric guitar…$"
+	.string "Als ik gitaar speel, wil ik dat\n"
+	.string "je mijn gevoelens kunt horen...$"
 
 Route118_Text_DeandreIntro:
 	.string "Mijn Pokémon zijn superlief,\n"

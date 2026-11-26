@@ -237,51 +237,50 @@ Route118_EventScript_Deandre::
 	end
 
 Route118_Text_StevenQuestions:
-	.string "STEVEN: Hi, {PLAYER}{KUN}!\p"
-	.string "It's me, STEVEN!\n"
-	.string "We met in the cave near DEWFORD.\p"
-	.string "Have you met many kinds of POKéMON\n"
-	.string "since I last saw you?\p"
-	.string "There are many, many kinds of POKéMON\n"
-	.string "in this wide world of ours.\p"
-	.string "If you wanted to raise only your\n"
-	.string "favorites, that's fine.\p"
-	.string "Perhaps you find it more fun to raise\n"
-	.string "all sorts of POKéMON.\p"
-	.string "As a TRAINER of POKéMON,\n"
-	.string "what do you think?\p"
-	.string "Of course, it's not any of my business.\p"
-	.string "It would be nice if we were to meet\n"
-	.string "again somewhere.$"
+	.string "STEVEN: Hoi, {PLAYER}!\p"
+	.string "Ik ben het, STEVEN!\n"
+	.string "We ontmoetten elkaar in de grot\l"
+	.string "bij DEWFORD.\p"
+	.string "Heb je sindsdien veel soorten\n"
+	.string "Pokémon ontmoet?\p"
+	.string "Er leven ontzettend veel soorten\n"
+	.string "Pokémon in onze grote wereld.\p"
+	.string "Wil je alleen je favorieten\n"
+	.string "trainen? Dat is prima.\p"
+	.string "Misschien vind je het leuker\n"
+	.string "om allerlei soorten te trainen.\p"
+	.string "Wat vind jij als Pokémon Trainer?\p"
+	.string "Natuurlijk is dat jouw keuze.\p"
+	.string "Het zou leuk zijn als we elkaar\n"
+	.string "ergens weer tegenkomen!$"
 
 Route118_Text_YouAgreeGoodRodIsGood:
 	.string "Hmm!\n"
-	.string "A GOOD ROD is really good!\p"
-	.string "Wouldn't you agree?$"
+	.string "Een GOOD ROD is echt geweldig!\p"
+	.string "Vind jij ook niet?$"
 
 Route118_Text_IdenticalMindsTakeThis:
 	.string "Hmm!\n"
-	.string "We're of identical minds!\p"
-	.string "Hmm!\n"
-	.string "Take this GOOD ROD!$"
+	.string "Wij denken precies hetzelfde!\p"
+	.string "Hmm! Hier, neem deze GOOD ROD!$"
 
 Route118_Text_TryYourLuckFishing:
-	.string "Wherever there's water, try your luck\n"
-	.string "at fishing.$"
+	.string "Probeer overal waar water is\n"
+	.string "je geluk met vissen!$"
 
 Route118_Text_DontYouLikeToFish:
-	.string "Don't you like to fish?$"
+	.string "Hou je niet van vissen?$"
 
 Route118_Text_TryCatchingMonWithGoodRod:
-	.string "Try catching all sorts of POKéMON\n"
-	.string "with your GOOD ROD.$"
+	.string "Probeer allerlei Pokémon te\n"
+	.string "vangen met je GOOD ROD.$"
 
 Route118_Text_CanCrossRiversWithSurf:
-	.string "Even if there isn't a boat, you can\n"
-	.string "cross rivers and the sea if you have\l"
-	.string "a POKéMON that knows SURF.\p"
-	.string "POKéMON can be counted on to do so\n"
-	.string "much!$"
+	.string "Ook zonder boot kun je rivieren\n"
+	.string "en zeeën oversteken.\p"
+	.string "Je hebt alleen een Pokémon\n"
+	.string "nodig die SURF kent.\p"
+	.string "Wat kunnen Pokémon toch veel!$"
 
 Route118_Text_RouteSignMauville:
 	.string "ROUTE 118\n"
