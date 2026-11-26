@@ -2059,31 +2059,39 @@ Route115_Text_NobPostRematch:
 	.string "I'll redouble my training!$"
 
 Route115_Text_CyndyIntro:
-	.string "This beach is my secret training spot!\n"
-	.string "Don't come butting in!$"
+	.string "Dit strand is mijn geheime\n"
+	.string "trainingsplek!\p"
+	.string "Wil je mijn bijzondere\n"
+	.string "Pokémon eens zien?$"
 
 Route115_Text_CyndyDefeat:
-	.string "I haven't trained enough!$"
+	.string "Ik moet nog harder trainen!$"
 
 Route115_Text_CyndyPostBattle:
-	.string "The sand acts as a cushion to reduce\n"
-	.string "impact and prevent injury.\l"
-	.string "This is the perfect place to train.$"
+	.string "Ik heb mijn Pokémon hier vlakbij\n"
+	.string "in zee gevangen.\p"
+	.string "Ze zijn extreem zeldzaam, maar\n"
+	.string "in deze wateren komen ze net\l"
+	.string "wat vaker voor.\p"
+	.string "Je hebt wel SURF nodig\n"
+	.string "om ze te vinden!$"
 
 Route115_Text_CyndyRegister:
-	.string "Okay, fine, you're free to come here.\n"
-	.string "In return, I'd like to battle you again.$"
+	.string "Je mag hier best komen trainen.\p"
+	.string "Maar dan wil ik nog eens\n"
+	.string "tegen je vechten!$"
 
 Route115_Text_CyndyRematchIntro:
-	.string "Okay, let's get this battle on!$"
+	.string "Kom op, tijd voor een nieuw duel!$"
 
 Route115_Text_CyndyRematchDefeat:
-	.string "I can battle but my POKéMON…$"
+	.string "Mijn Pokémon moeten nog\n"
+	.string "wat sterker worden...$"
 
 Route115_Text_CyndyPostRematch:
-	.string "Even when I lose, I still get some\n"
-	.string "enjoyment out of it.\l"
-	.string "It must be that I love POKéMON.$"
+	.string "Ook als ik verlies, vind ik\n"
+	.string "Pokémon-gevechten leuk.\p"
+	.string "Ik ben gewoon dol op Pokémon!$"
 
 Route115_Text_HectorIntro:
 	.string "I have a rare POKéMON!\n"
