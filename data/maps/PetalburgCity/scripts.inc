@@ -679,63 +679,63 @@ PetalburgCity_EventScript_GymBoy::
 	end
 
 PetalburgCity_Text_WhereIsWally:
-	.string "Where has our WALLY gone?\p"
-	.string "We have to leave for VERDANTURF TOWN\n"
-	.string "very soon…$"
+	.string "Waar is onze WALLY toch?\p"
+	.string "We moeten zo naar\n"
+	.string "VERDANTURF TOWN...$"
 
 PetalburgCity_Text_AreYouRookieTrainer:
-	.string "Hiya! Are you maybe…\n"
-	.string "A rookie TRAINER?\p"
-	.string "Do you know what POKéMON TRAINERS\n"
-	.string "do when they reach a new town?\p"
-	.string "They first check what kind of GYM\n"
-	.string "is in the town.$"
+	.string "Hoi! Ben jij soms een\n"
+	.string "beginnende trainer?\p"
+	.string "Weet je wat trainers doen\n"
+	.string "als ze in een nieuwe stad komen?\p"
+	.string "Ze kijken eerst welke GYM\n"
+	.string "er in de stad is.$"
 
 PetalburgCity_Text_ThisIsPetalburgGym:
-	.string "See? This is PETALBURG CITY's GYM.$"
+	.string "Kijk! Dit is PETALBURG GYM.$"
 
 PetalburgCity_Text_ThisIsGymSign:
-	.string "This is the GYM's sign. Look for it\n"
-	.string "whenever you're looking for a GYM.$"
+	.string "Dit is het bord van de GYM.\n"
+	.string "Zo herken je een GYM.$"
 
 PetalburgCity_Text_WaterReflection:
-	.string "My face is reflected in the water.\p"
-	.string "It's a shining grin full of hope…\p"
-	.string "Or it could be a look of somber silence\n"
-	.string "struggling with fear…\p"
-	.string "What do you see reflected in your face?$"
+	.string "Ik zie mijn gezicht in het water.\p"
+	.string "Een vrolijke lach vol hoop...\p"
+	.string "Of een ernstig gezicht\n"
+	.string "vol angst...\p"
+	.string "Wat zie jij in je spiegelbeeld?$"
 
 PetalburgCity_Text_FullPartyExplanation:
-	.string "Let's say you have six POKéMON.\n"
-	.string "If you catch another one…\p"
-	.string "It is automatically sent to a STORAGE\n"
-	.string "BOX over a PC connection.$"
+	.string "Stel, je hebt zes Pokémon.\n"
+	.string "Als je er nog eentje vangt...\p"
+	.string "Dan gaat die automatisch naar\n"
+	.string "een STORAGE BOX op de PC.$"
 
 PetalburgCity_Text_GymSign:
 	.string "PETALBURG CITY POKéMON GYM\n"
 	.string "LEADER: NORMAN\l"
-	.string "“A man in pursuit of power!”$"
+	.string "Een man op zoek naar kracht!$"
 
 PetalburgCity_Text_CitySign:
 	.string "PETALBURG CITY\n"
-	.string "“Where people mingle with nature.”$"
+	.string "Waar mens en natuur samenkomen.$"
 
 PetalburgCity_Text_WallyHouseSign:
-	.string "WALLY'S HOUSE$"
+	.string "HUIS VAN WALLY$"
 
 PetalburgCity_Text_AreYouATrainer:
-	.string "Excuse me!\p"
-	.string "Let me guess, from the way you're\n"
-	.string "dressed, are you a POKéMON TRAINER?$"
+	.string "Pardon!\p"
+	.string "Aan je kleding te zien ben je\n"
+	.string "een Pokémon-trainer, toch?$"
 
 PetalburgCity_Text_WellMaybeNot:
-	.string "… … … … … …\p"
-	.string "Well, maybe not.\n"
-	.string "Your clothes aren't all that dirty.\p"
-	.string "You're either a rookie TRAINER,\n"
-	.string "or maybe you're just an ordinary kid.$"
+	.string "... ... ... ... ...\p"
+	.string "Of misschien toch niet.\n"
+	.string "Je kleding is nog zo schoon.\p"
+	.string "Je bent vast een beginner,\n"
+	.string "of gewoon een kind.$"
 
 PetalburgCity_Text_ImLookingForTalentedTrainers:
-	.string "I'm roaming the land in search of\n"
-	.string "talented TRAINERS.\p"
-	.string "I'm sorry to have taken your time.$"
+	.string "Ik reis rond op zoek naar\n"
+	.string "getalenteerde trainers.\p"
+	.string "Sorry dat ik je ophield.$"

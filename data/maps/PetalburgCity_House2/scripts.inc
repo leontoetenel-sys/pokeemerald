@@ -10,15 +10,15 @@ PetalburgCity_House2_EventScript_SchoolKid::
 	end
 
 PetalburgCity_House2_Text_NormanBecameGymLeader:
-	.string "NORMAN became our town's new\n"
+	.string "NORMAN is onze nieuwe\n"
 	.string "GYM LEADER.\p"
-	.string "I think he called his family over from\n"
-	.string "somewhere far away.$"
+	.string "Zijn gezin is volgens mij\n"
+	.string "van ver hierheen verhuisd.$"
 
 PetalburgCity_House2_Text_BattledNormanOnce:
-	.string "I battled NORMAN once, but, whew,\n"
-	.string "he was way too strong.\p"
-	.string "How would I put it?\p"
-	.string "I just got the feeling that he\n"
-	.string "lives for POKéMON.$"
+	.string "Ik vocht eens tegen NORMAN.\n"
+	.string "Pfoe, hij was veel te sterk!\p"
+	.string "Hoe zal ik het zeggen?\p"
+	.string "Volgens mij leeft hij echt\n"
+	.string "voor Pokémon.$"
 
