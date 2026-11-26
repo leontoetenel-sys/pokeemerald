@@ -9629,22 +9629,10 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Charlotte[] = {
     }
 };
 
-static const struct TrainerMonNoItemDefaultMoves sParty_Deandre[] = {
-    {
-    .iv = 0,
-    .lvl = 14,
-    .species = SPECIES_ZIGZAGOON,
-    },
-    {
-    .iv = 0,
-    .lvl = 14,
-    .species = SPECIES_ARON,
-    },
-    {
-    .iv = 0,
-    .lvl = 14,
-    .species = SPECIES_ELECTRIKE,
-    }
+static const struct TrainerMonItemDefaultMoves sParty_Deandre[] = {
+    { .iv = 0, .lvl = 15, .species = SPECIES_EEVEE, .heldItem = ITEM_NONE },
+    { .iv = 0, .lvl = 15, .species = SPECIES_MARILL, .heldItem = ITEM_NONE },
+    { .iv = 0, .lvl = 20, .species = SPECIES_TAILLOW, .heldItem = ITEM_ORAN_BERRY },
 };
 
 static const struct TrainerMonNoItemDefaultMoves sParty_GruntMagmaHideout1[] = {
