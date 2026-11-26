@@ -1998,80 +1998,81 @@ Route114_Text_AngelinaPostBattle:
 	.string "Daar schrik je gewoon van!$"
 
 Route115_Text_TimothyIntro:
-	.string "Hm…\n"
-	.string "You seem rather capable…\l"
-	.string "Let me keep you company!$"
+	.string "Hm...\n"
+	.string "Jij lijkt me behoorlijk goed.\p"
+	.string "Zullen we samen een duel houden?$"
 
 Route115_Text_TimothyDefeat:
-	.string "You're much stronger than\n"
-	.string "I'd imagined!$"
+	.string "Je bent veel sterker\n"
+	.string "dan ik had gedacht!$"
 
 Route115_Text_TimothyPostBattle:
-	.string "There is no such thing as a born genius.\n"
-	.string "It all depends on effort!\l"
-	.string "That is what I believe…$"
+	.string "Niemand wordt als genie geboren.\p"
+	.string "Het draait allemaal om oefenen!\n"
+	.string "Dat geloof ik tenminste...$"
 
 Route115_Text_TimothyRegister:
-	.string "Hmm… A loss this thorough has been\n"
-	.string "a distant memory.\p"
-	.string "If you would allow it, I wish for\n"
-	.string "another opportunity to do battle.$"
+	.string "Hmm... Het is lang geleden\n"
+	.string "dat ik zo flink verloor.\p"
+	.string "Als je het goed vindt, wil ik\n"
+	.string "graag nog eens tegen je vechten.$"
 
 Route115_Text_TimothyRematchIntro:
-	.string "Hm… As always, your agility speaks\n"
-	.string "for itself.\l"
-	.string "Come, keep me company!$"
+	.string "Hm... Je bent nog steeds\n"
+	.string "zo snel als altijd.\p"
+	.string "Kom, laten we vechten!$"
 
 Route115_Text_TimothyRematchDefeat:
-	.string "As strong as ever!$"
+	.string "Nog net zo sterk als vroeger!$"
 
 Route115_Text_TimothyPostRematch:
-	.string "All it takes is effort!\p"
-	.string "I lost because I haven't put in enough\n"
-	.string "effort!$"
+	.string "Het draait allemaal om oefenen!\p"
+	.string "Ik verloor omdat ik niet\n"
+	.string "hard genoeg heb getraind!$"
 
 Route115_Text_KoichiIntro:
-	.string "You!\p"
-	.string "My MACHOP!\p"
-	.string "Demand a battle!$"
+	.string "Jij daar!\p"
+	.string "Mijn MACHOP!\p"
+	.string "Wij eisen een duel!$"
 
 Route115_Text_KoichiDefeat:
-	.string "Ouch, ouch, ouch!$"
+	.string "Au, au, au!$"
 
 Route115_Text_KoichiPostBattle:
-	.string "My MACHOP crew!\p"
-	.string "So long as they seek power, I will\n"
-	.string "grow strong with them!$"
+	.string "Mijn MACHOP-team!\p"
+	.string "Zolang zij sterker willen worden,\n"
+	.string "word ik samen met hen sterker!$"
 
 Route115_Text_NobIntro:
-	.string "My strongest skill is busting bricks\n"
-	.string "with my forehead!$"
+	.string "Ik ben het allerbeste in bakstenen\n"
+	.string "doorslaan met mijn voorhoofd!$"
 
 Route115_Text_NobDefeat:
-	.string "Ugwaaaah!\n"
-	.string "My head is busted!$"
+	.string "Aaaaaah!\n"
+	.string "Mijn hoofd is kapot!$"
 
 Route115_Text_NobPostBattle:
-	.string "I've been teaching my POKéMON karate.\p"
-	.string "It looks like they'll get a lot better\n"
-	.string "than me. I'm excited about that.$"
+	.string "Ik leer mijn Pokémon karate.\p"
+	.string "Ze worden vast nog beter dan ik.\n"
+	.string "Daar kijk ik naar uit!$"
 
 Route115_Text_NobRegister:
-	.string "You impress me! Give me a rematch\n"
-	.string "after I redo my training!$"
+	.string "Ik ben onder de indruk!\p"
+	.string "Daag me opnieuw uit als ik\n"
+	.string "weer flink heb getraind!$"
 
 Route115_Text_NobRematchIntro:
-	.string "After you beat me, we trained hard to\n"
-	.string "improve our skills.\l"
-	.string "Come on, give us a rematch!$"
+	.string "Na onze nederlaag hebben we\n"
+	.string "hard getraind om beter te worden.\p"
+	.string "Kom op, geef ons een rematch!$"
 
 Route115_Text_NobRematchDefeat:
-	.string "Ugwaaah!\n"
-	.string "We lost again!$"
+	.string "Aaaaaah!\n"
+	.string "We hebben alweer verloren!$"
 
 Route115_Text_NobPostRematch:
-	.string "My POKéMON will grow stronger!\n"
-	.string "I'll redouble my training!$"
+	.string "Mijn Pokémon worden sterker!\n"
+	.string "Ik ga twee keer zo hard trainen!$"
 
 Route115_Text_CyndyIntro:
 	.string "Dit strand is mijn geheime\n"
@@ -2109,76 +2110,80 @@ Route115_Text_CyndyPostRematch:
 	.string "Ik ben gewoon dol op Pokémon!$"
 
 Route115_Text_HectorIntro:
-	.string "I have a rare POKéMON!\n"
-	.string "Would you like me to show you?$"
+	.string "Ik heb een zeldzame Pokémon!\n"
+	.string "Wil je hem eens zien?$"
 
 Route115_Text_HectorDefeat:
-	.string "You…\n"
-	.string "You want my POKéMON, don't you?$"
+	.string "Jij...\n"
+	.string "Jij wilt mijn Pokémon, hè?$"
 
 Route115_Text_HectorPostBattle:
-	.string "I have this rare POKéMON.\n"
-	.string "It's enough to keep me satisfied.$"
+	.string "Ik heb deze zeldzame Pokémon.\n"
+	.string "Daar ben ik helemaal tevreden mee.$"
 
 Route115_Text_KyraIntro:
-	.string "I'll battle while I'm running!\n"
-	.string "Try to keep up with me!$"
+	.string "Ik vecht terwijl ik hardloop!\n"
+	.string "Probeer me maar bij te houden!$"
 
 Route115_Text_KyraDefeat:
-	.string "Gasp, gasp…$"
+	.string "Hijg, hijg...$"
 
 Route115_Text_KyraPostBattle:
-	.string "I made the mistake of trying to battle\n"
-	.string "while running!\p"
-	.string "I should take a run to calm down…$"
+	.string "Het was geen goed idee om\n"
+	.string "te vechten tijdens het hardlopen!\p"
+	.string "Ik ga even hardlopen om\n"
+	.string "weer rustig te worden...$"
 
 Route115_Text_JaidenIntro:
-	.string "Take that!\n"
-	.string "Ultra POKéMON ninja attack!$"
+	.string "Pak aan!\n"
+	.string "Super-Pokémon-ninja-aanval!$"
 
 Route115_Text_JaidenDefeat:
-	.string "Waaah!\n"
-	.string "Our strategy failed!$"
+	.string "Waaaaah!\n"
+	.string "Ons plan is mislukt!$"
 
 Route115_Text_JaidenPostBattle:
-	.string "But my POKéMON were ultra,\n"
-	.string "weren't they?$"
+	.string "Maar mijn Pokémon waren\n"
+	.string "wel super, toch?$"
 
 Route115_Text_HeleneIntro:
-	.string "My POKéMON have black belt-level\n"
-	.string "strength!$"
+	.string "Mijn Pokémon zijn net zo sterk\n"
+	.string "als karateka's met een zwarte band!$"
 
 Route115_Text_HeleneDefeat:
-	.string "This is too humiliating!$"
+	.string "Wat een vernedering!$"
 
 Route115_Text_HelenePostBattle:
-	.string "I rarely meet anyone who's better\n"
-	.string "than me…\p"
-	.string "I get it now!\n"
-	.string "You're a GYM LEADER, aren't you?$"
+	.string "Ik kom bijna nooit iemand\n"
+	.string "tegen die beter is dan ik...\p"
+	.string "Nu snap ik het!\n"
+	.string "Jij bent vast een Gymleider!$"
 
 Route115_Text_AlixIntro:
-	.string "Our eyes met!\n"
-	.string "There's no getting away now!$"
+	.string "Onze blikken kruisten elkaar!\n"
+	.string "Nu kun je niet meer ontsnappen!$"
 
 Route115_Text_AlixDefeat:
-	.string "Gah!\n"
-	.string "Not bad!$"
+	.string "Oef!\n"
+	.string "Niet slecht!$"
 
 Route115_Text_AlixPostBattle:
-	.string "Oh, well.\n"
-	.string "I think I will TELEPORT home.$"
+	.string "Ach ja.\n"
+	.string "Ik ga met TELEPORT naar huis.$"
 
 Route115_Text_MarleneIntro:
-	.string "You've disturbed my meditation…\n"
-	.string "You'll be punished for it.$"
+	.string "Je hebt mijn meditatie verstoord...\p"
+	.string "Daar zul je voor boeten.$"
 
 Route115_Text_MarleneDefeat:
-	.string "You've broken my concentration!$"
+	.string "Je hebt mijn concentratie\n"
+	.string "verbroken!$"
 
 Route115_Text_MarlenePostBattle:
-	.string "I was meditating with my POKéMON.\n"
-	.string "But this place isn't very peaceful…$"
+	.string "Ik was aan het mediteren\n"
+	.string "met mijn Pokémon.\p"
+	.string "Maar het is hier niet bepaald\n"
+	.string "rustig...$"
 
 Route116_Text_ClarkIntro:
 	.string "If the tunnel doesn't go through, then\n"
