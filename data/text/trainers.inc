@@ -1106,16 +1106,17 @@ Route110_Text_JaclynPostBattle:
 	.string "Denk maar niet dat je altijd wint!$"
 
 Route110_Text_EdwinIntro:
-	.string "Mag ik je Pokémon zien?\n"
-	.string "Heel even maar, alsjeblieft?$"
+	.string "Ik ben Edwin. Ik verzamel\n"
+	.string "zeldzame gras-Pokémon.$"
 
 Route110_Text_EdwinDefeated:
-	.string "Ik wilde mijn verzameling\n"
-	.string "compleet maken...$"
+	.string "Mijn verzameling is nog\n"
+	.string "niet compleet.$"
 
 Route110_Text_EdwinPostBattle:
-	.string "Een Pokémon die ik nog niet ken?\n"
-	.string "Dan wil ik hem meteen verzamelen!$"
+	.string "Waar je deze kunt vinden?\n"
+	.string "Petalburg Woods natuurlijk!\p"
+	.string "Maar ze zijn extreem zeldzaam.$"
 
 Route110_Text_EdwinRegister:
 	.string "Ik verzamel ook graag\n"
