@@ -177,26 +177,26 @@ Route114_EventScript_Kai::
 	end
 
 Route114_Text_AllMyMonDoesIsRoarTakeThis:
-	.string "All my POKéMON does is ROAR…\n"
-	.string "No one dares to come near me…\p"
-	.string "Sigh… If you would, please take\n"
-	.string "this TM away…$"
+	.string "Mijn Pokémon doet niets anders\n"
+	.string "dan ROAR gebruiken...\p"
+	.string "Niemand durft bij me te komen.\p"
+	.string "Zucht... Neem deze TM maar mee.$"
 
 Route114_Text_ExplainRoar:
-	.string "TM05 contains ROAR.\n"
-	.string "A ROAR sends POKéMON scurrying.$"
+	.string "In TM05 zit ROAR.\n"
+	.string "Daarmee jaag je Pokémon weg.$"
 
 Route114_Text_Poochyena:
-	.string "Bow! Bowwow!$"
+	.string "Waf! Waf waf!$"
 
 Route114_Text_MeteorFallsSign:
 	.string "METEOR FALLS\n"
-	.string "RUSTBORO CITY THROUGH HERE$"
+	.string "Via deze grot naar RUSTBORO CITY$"
 
 Route114_Text_FossilManiacsHouseSign:
-	.string "FOSSIL MANIAC'S HOUSE\n"
-	.string "“Fossils gratefully accepted!”$"
+	.string "HUIS VAN DE FOSSIELENFAN\n"
+	.string "Fossielen zijn altijd welkom!$"
 
 Route114_Text_LanettesHouse:
-	.string "LANETTE'S HOUSE$"
+	.string "HUIS VAN LANETTE$"
 
