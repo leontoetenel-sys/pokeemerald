@@ -419,11 +419,80 @@ static void CreateWildMon(u16 species, u8 level)
 #define TRY_GET_ABILITY_INFLUENCED_WILD_MON_INDEX(wildPokemon, type, ability, ptr, count) TryGetAbilityInfluencedWildMonIndex(wildPokemon, type, ability, ptr)
 #endif
 
+#include "data/weighted_wild_encounters.h"
+
+static const struct WildPokemon *ChooseWeightedWildMon(const struct WildPokemonInfo *info, u8 area, bool8 useAbility)
+{
+    u16 headerId = GetCurrentMapWildMonHeaderId();
+    u16 i;
+    u8 j, roll, count, ability, type;
+    const struct WeightedWildTable *table;
+    const struct WildPokemonInfo *expected;
+    for (i = 0; i < ARRAY_COUNT(sWeightedWildTables); i++)
+    {
+        table = &sWeightedWildTables[i];
+        if (table->headerId != headerId || table->area != area)
+            continue;
+        if (area == WILD_AREA_LAND)
+            expected = gWildMonHeaders[headerId].landMonsInfo;
+        else if (area == WILD_AREA_WATER)
+            expected = gWildMonHeaders[headerId].waterMonsInfo;
+        else
+            expected = gWildMonHeaders[headerId].rockSmashMonsInfo;
+        if (expected != info)
+            return NULL;
+        if (useAbility && !GetMonData(&gPlayerParty[0], MON_DATA_SANITY_IS_EGG))
+        {
+            ability = GetMonAbility(&gPlayerParty[0]);
+            if ((area == WILD_AREA_LAND && ability == ABILITY_MAGNET_PULL)
+             || (area != WILD_AREA_ROCKS && ability == ABILITY_STATIC))
+            {
+                type = ability == ABILITY_MAGNET_PULL ? TYPE_STEEL : TYPE_ELECTRIC;
+                if (Random() % 2 == 0)
+                {
+                    count = 0;
+                    for (j = 0; j < table->count; j++)
+                        if (gSpeciesInfo[table->mons[j].mon.species].types[0] == type || gSpeciesInfo[table->mons[j].mon.species].types[1] == type)
+                            count++;
+                    if (count && count != table->count)
+                    {
+                        roll = Random() % count;
+                        for (j = 0; j < table->count; j++)
+                            if (gSpeciesInfo[table->mons[j].mon.species].types[0] == type || gSpeciesInfo[table->mons[j].mon.species].types[1] == type)
+                                if (roll-- == 0)
+                                    return &table->mons[j].mon;
+                    }
+                }
+            }
+        }
+        roll = Random() % 100;
+        for (j = 0; j < table->count; j++)
+        {
+            if (roll < table->mons[j].weight)
+                return &table->mons[j].mon;
+            roll -= table->mons[j].weight;
+        }
+        return &table->mons[table->count - 1].mon;
+    }
+    return NULL;
+}
+
+static u16 ChooseLocalWildSpecies(const struct WildPokemonInfo *info, u8 area)
+{
+    const struct WildPokemon *mon = ChooseWeightedWildMon(info, area, FALSE);
+    if (mon != NULL)
+        return mon->species;
+    return info->wildPokemon[area == WILD_AREA_LAND ? ChooseWildMonIndex_Land() : ChooseWildMonIndex_WaterRock()].species;
+}
+
 static bool8 TryGenerateWildMon(const struct WildPokemonInfo *wildMonInfo, u8 area, u8 flags)
 {
     u8 wildMonIndex = 0;
     u8 level;
+    const struct WildPokemon *mon = ChooseWeightedWildMon(wildMonInfo, area, TRUE);
 
+    if (mon == NULL)
+    {
     switch (area)
     {
     case WILD_AREA_LAND:
@@ -445,13 +514,15 @@ static bool8 TryGenerateWildMon(const struct WildPokemonInfo *wildMonInfo, u8 ar
         break;
     }
 
-    level = ChooseWildMonLevel(&wildMonInfo->wildPokemon[wildMonIndex]);
+    mon = &wildMonInfo->wildPokemon[wildMonIndex];
+    }
+    level = ChooseWildMonLevel(mon);
     if (flags & WILD_CHECK_REPEL && !IsWildLevelAllowedByRepel(level))
         return FALSE;
     if (gMapHeader.mapLayoutId != LAYOUT_BATTLE_FRONTIER_BATTLE_PIKE_ROOM_WILD_MONS && flags & WILD_CHECK_KEEN_EYE && !IsAbilityAllowingEncounter(level))
         return FALSE;
 
-    CreateWildMon(wildMonInfo->wildPokemon[wildMonIndex].species, level);
+    CreateWildMon(mon->species, level);
     return TRUE;
 }
 
@@ -814,22 +885,22 @@ u16 GetLocalWildMon(bool8 *isWaterMon)
         return SPECIES_NONE;
     // Land Pokémon
     else if (landMonsInfo != NULL && waterMonsInfo == NULL)
-        return landMonsInfo->wildPokemon[ChooseWildMonIndex_Land()].species;
+        return ChooseLocalWildSpecies(landMonsInfo, WILD_AREA_LAND);
     // Water Pokémon
     else if (landMonsInfo == NULL && waterMonsInfo != NULL)
     {
         *isWaterMon = TRUE;
-        return waterMonsInfo->wildPokemon[ChooseWildMonIndex_WaterRock()].species;
+        return ChooseLocalWildSpecies(waterMonsInfo, WILD_AREA_WATER);
     }
     // Either land or water Pokémon
     if ((Random() % 100) < 80)
     {
-        return landMonsInfo->wildPokemon[ChooseWildMonIndex_Land()].species;
+        return ChooseLocalWildSpecies(landMonsInfo, WILD_AREA_LAND);
     }
     else
     {
         *isWaterMon = TRUE;
-        return waterMonsInfo->wildPokemon[ChooseWildMonIndex_WaterRock()].species;
+        return ChooseLocalWildSpecies(waterMonsInfo, WILD_AREA_WATER);
     }
 }
 
@@ -842,7 +913,7 @@ u16 GetLocalWaterMon(void)
         const struct WildPokemonInfo *waterMonsInfo = gWildMonHeaders[headerId].waterMonsInfo;
 
         if (waterMonsInfo)
-            return waterMonsInfo->wildPokemon[ChooseWildMonIndex_WaterRock()].species;
+            return ChooseLocalWildSpecies(waterMonsInfo, WILD_AREA_WATER);
     }
     return SPECIES_NONE;
 }
