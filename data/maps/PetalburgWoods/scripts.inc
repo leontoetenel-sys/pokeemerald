@@ -369,8 +369,10 @@ PetalburgWoods_Text_ICouldntWin:
 	.string "heb ik verloren...$"
 
 PetalburgWoods_Text_ImOutOfPokeBalls:
-	.string "Ik heb zoveel Pokémon gevangen\n"
-	.string "dat mijn POKé BALLS op zijn.$"
+	.string "Mijn BUG-type Pokémon zijn\n"
+	.string "opgegeten door een Bulbasaur!\p"
+	.string "Pas maar op als je hier door\n"
+	.string "het gras loopt!$"
 
 PetalburgWoods_Text_InstantlyPopularWithBugPokemon:
 	.string "Als je BUG-type Pokémon meeneemt\n"
