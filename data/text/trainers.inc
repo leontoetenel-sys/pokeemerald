@@ -1783,213 +1783,219 @@ Route113_Text_WyattPostBattle:
 	.string "Puh!$"
 
 Route114_Text_LennyIntro:
-	.string "Yodelayhihoo!\p"
-	.string "… …\p"
-	.string "You're supposed to shout\n"
-	.string "“yodelayhihoo” since it doesn't\l"
-	.string "echo here!$"
+	.string "Jodelahihóó!\p"
+	.string "... ...\p"
+	.string "Jij moet ook jodelahihóó roepen,\n"
+	.string "want hier is geen echo!$"
 
 Route114_Text_LennyDefeat:
-	.string "Yodelayhihoo!$"
+	.string "Jodelahihóó!$"
 
 Route114_Text_LennyPostBattle:
-	.string "When I was a wee tyke, I believed there\n"
-	.string "was someone copying me and shouting\l"
-	.string "back, “Yodelayhihoo.”$"
+	.string "Toen ik klein was, dacht ik\n"
+	.string "dat iemand mij nadeed en\l"
+	.string "jodelahihóó terugriep.$"
 
 Route114_Text_LucasIntro:
-	.string "If you're not prepared, you shouldn't\n"
-	.string "be up in the mountains!$"
+	.string "Ga niet de bergen in als je\n"
+	.string "niet goed voorbereid bent!$"
 
 Route114_Text_LucasDefeat:
-	.string "The mountains are unforgiving…$"
+	.string "De bergen kennen geen genade...$"
 
 Route114_Text_LucasPostBattle:
-	.string "In the winter, mountains turn deadly\n"
-	.string "with blizzards and avalanches.$"
+	.string "In de winter zijn bergen\n"
+	.string "gevaarlijk door sneeuwstormen\l"
+	.string "en lawines.$"
 
 Route114_Text_ShaneIntro:
-	.string "Camping's fun! You can fish, roast\n"
-	.string "marshmallows, and tell spooky stories!\p"
-	.string "But the best of all are the POKéMON\n"
-	.string "battles!$"
+	.string "Kamperen is leuk! Je kunt vissen,\n"
+	.string "marshmallows roosteren en\l"
+	.string "griezelverhalen vertellen!\p"
+	.string "Maar Pokémon-duels zijn\n"
+	.string "natuurlijk het allerleukst!$"
 
 Route114_Text_ShaneDefeat:
-	.string "Way too strong!$"
+	.string "Veel te sterk!$"
 
 Route114_Text_ShanePostBattle:
-	.string "I think it's great that I can go\n"
-	.string "camping with my POKéMON.$"
+	.string "Ik vind het geweldig dat ik\n"
+	.string "met mijn Pokémon kan kamperen.$"
 
 Route114_Text_NancyIntro:
-	.string "I need to exercise after a meal.\n"
-	.string "Let's have a match!$"
+	.string "Na het eten moet ik bewegen.\n"
+	.string "Zullen we vechten?$"
 
 Route114_Text_NancyDefeat:
-	.string "Oh, no!$"
+	.string "O nee!$"
 
 Route114_Text_NancyPostBattle:
-	.string "I just had a tasty meal.\n"
-	.string "I'm getting drowsy…$"
+	.string "Ik heb net heerlijk gegeten.\n"
+	.string "Nu word ik slaperig...$"
 
 Route114_Text_SteveIntro:
-	.string "Ufufufufufu…\n"
-	.string "Want to battle against my POKéMON?$"
+	.string "Hihihihi...\n"
+	.string "Wil je tegen mijn Pokémon vechten?$"
 
 Route114_Text_SteveDefeat:
-	.string "M-My POKéMON…$"
+	.string "M-mijn Pokémon...$"
 
 Route114_Text_StevePostBattle:
-	.string "A big body that's all lumpy and hard,\n"
-	.string "enormous horns, and vicious fangs…\p"
-	.string "Ufufufufu…\n"
-	.string "I wish I had a POKéMON like that…$"
+	.string "Een groot, hard lijf vol bulten,\n"
+	.string "enorme hoorns en scherpe tanden...\p"
+	.string "Hihihihi...\n"
+	.string "Had ik maar zo'n Pokémon...$"
 
 Route114_Text_SteveRegister:
-	.string "Don't forget what you've done to me!\n"
-	.string "I'll make it so you can't forget!$"
+	.string "Vergeet niet wat je me aandeed!\n"
+	.string "Ik zorg dat je me niet vergeet!$"
 
 Route114_Text_SteveRematchIntro:
-	.string "Ufufufufufu…\n"
-	.string "Come on, battle my POKéMON…$"
+	.string "Hihihihi...\n"
+	.string "Kom, vecht tegen mijn Pokémon...$"
 
 Route114_Text_SteveRematchDefeat:
-	.string "I feel so lucky getting to see your\n"
-	.string "POKéMON…$"
+	.string "Wat een geluk dat ik jouw\n"
+	.string "Pokémon mocht zien...$"
 
 Route114_Text_StevePostRematch:
-	.string "Ufufufufufu…\p"
-	.string "When I see POKéMON battling, I get all\n"
-	.string "shivery and shaky…$"
+	.string "Hihihihi...\p"
+	.string "Als ik Pokémon zie vechten,\n"
+	.string "begin ik helemaal te trillen...$"
 
 Route114_Text_BernieIntro:
-	.string "If you're lighting a campfire,\n"
-	.string "make sure you have water handy.$"
+	.string "Als je een kampvuur maakt,\n"
+	.string "zorg dan dat je water bij je hebt.$"
 
 Route114_Text_BernieDefeat:
-	.string "Thanks for dousing my fire!$"
+	.string "Bedankt dat je mijn vuur bluste!$"
 
 Route114_Text_BerniePostBattle:
-	.string "You really do have to be careful with\n"
-	.string "any sort of fire in a forest.\p"
-	.string "Don't ever underestimate the power\n"
-	.string "of fire.$"
+	.string "Wees altijd voorzichtig met\n"
+	.string "vuur in het bos.\p"
+	.string "Onderschat nooit de kracht\n"
+	.string "van vuur.$"
 
 Route114_Text_BernieRegister:
-	.string "You set my spirit on fire.\n"
-	.string "Let's register each other!$"
+	.string "Je hebt mijn enthousiasme\n"
+	.string "aangewakkerd!\p"
+	.string "Laten we elkaar registreren!$"
 
 Route114_Text_BernieRematchIntro:
-	.string "Have you learned to keep water handy\n"
-	.string "for campfires?$"
+	.string "Heb je geleerd om water bij\n"
+	.string "je kampvuur klaar te zetten?$"
 
 Route114_Text_BernieRematchDefeat:
-	.string "I got hosed down before I could\n"
-	.string "flare up, I guess.$"
+	.string "Ik werd geblust voordat ik\n"
+	.string "goed en wel kon oplaaien.$"
 
 Route114_Text_BerniePostRematch:
-	.string "You really do have to be careful with\n"
-	.string "any sort of fire in a forest.\p"
-	.string "Don't ever underestimate the power\n"
-	.string "of fire.$"
+	.string "Wees altijd voorzichtig met\n"
+	.string "vuur in het bos.\p"
+	.string "Onderschat nooit de kracht\n"
+	.string "van vuur.$"
 
 Route114_Text_ClaudeIntro:
-	.string "If we were fishing, you wouldn't stand\n"
-	.string "a chance against me.\l"
-	.string "So, bring on your POKéMON!$"
+	.string "Met vissen maak je geen kans\n"
+	.string "tegen mij!\p"
+	.string "Kom maar op met je Pokémon!$"
 
 Route114_Text_ClaudeDefeat:
-	.string "If we were fishing, I would've won…$"
+	.string "Met vissen had ik gewonnen...$"
 
 Route114_Text_ClaudePostBattle:
-	.string "I think I'll try my luck at landing\n"
-	.string "a big one at METEOR FALLS.\p"
-	.string "There has to be something in there.\n"
-	.string "I just know it.$"
+	.string "Ik ga eens proberen een grote\n"
+	.string "vis te vangen in METEOR FALLS.\p"
+	.string "Daar moet iets zitten.\n"
+	.string "Ik weet het zeker!$"
 
 Route114_Text_NolanIntro:
-	.string "I like to fish. But I also like to\n"
-	.string "battle!\p"
-	.string "If anyone challenges me, I'm there,\n"
-	.string "even if I'm fishing.$"
+	.string "Ik hou van vissen, maar ook\n"
+	.string "van Pokémon-duels!\p"
+	.string "Daagt iemand me uit? Dan doe\n"
+	.string "ik mee, zelfs als ik aan het vis.$"
 
 Route114_Text_NolanDefeat:
-	.string "I like to battle, but that doesn't\n"
-	.string "mean I'm good at it…$"
+	.string "Ik vecht graag, maar dat wil\n"
+	.string "niet zeggen dat ik goed ben...$"
 
 Route114_Text_NolanPostBattle:
-	.string "This time I'll do it!\p"
-	.string "I always think that, so I can't walk\n"
-	.string "away from fishing or POKéMON.$"
+	.string "Deze keer lukt het!\p"
+	.string "Dat denk ik altijd. Daarom\n"
+	.string "kan ik niet stoppen met vissen\l"
+	.string "of Pokémon-gevechten.$"
 
 Route114_Text_TyraIntro:
-	.string "TYRA: Well, sure.\n"
-	.string "I'm in the mood for it.\l"
-	.string "I'll teach you a little about POKéMON.$"
+	.string "TYRA: Natuurlijk, ik heb er zin in.\p"
+	.string "Ik zal je wat leren over Pokémon.$"
 
 Route114_Text_TyraDefeat:
-	.string "TYRA: What an amazing battle style!$"
+	.string "TYRA: Wat een geweldige\n"
+	.string "vechtstijl!$"
 
 Route114_Text_TyraPostBattle:
-	.string "TYRA: I was teaching my junior IVY\n"
-	.string "about POKéMON.$"
+	.string "TYRA: Ik leerde mijn jongere\n"
+	.string "medestudent IVY over Pokémon.$"
 
 Route114_Text_TyraNotEnoughMons:
-	.string "TYRA: Giggle…\n"
-	.string "If you want to battle with us, just one\l"
-	.string "POKéMON isn't enough!$"
+	.string "TYRA: Hihi...\n"
+	.string "Met één Pokémon kun je niet\l"
+	.string "tegen ons allebei vechten!$"
 
 Route114_Text_IvyIntro:
-	.string "IVY: Who taught you about POKéMON?$"
+	.string "IVY: Wie heeft jou alles over\n"
+	.string "Pokémon geleerd?$"
 
 Route114_Text_IvyDefeat:
-	.string "IVY: What an amazing battle style!$"
+	.string "IVY: Wat een geweldige\n"
+	.string "vechtstijl!$"
 
 Route114_Text_IvyPostBattle:
-	.string "IVY: I started training POKéMON\n"
-	.string "because TYRA, my student mentor,\l"
-	.string "taught me!$"
+	.string "IVY: Ik ben Pokémon gaan\n"
+	.string "trainen omdat TYRA me alles\l"
+	.string "heeft geleerd!$"
 
 Route114_Text_IvyNotEnoughMons:
-	.string "IVY: Do you only have one POKéMON?\n"
-	.string "I think it must feel lonesome.$"
+	.string "IVY: Heb je maar één Pokémon?\n"
+	.string "Die voelt zich vast eenzaam.$"
 
 Route114_Text_KaiIntro:
-	.string "I landed a big one!\n"
-	.string "A huge one, I tell you!$"
+	.string "Ik heb een grote gevangen!\n"
+	.string "Een reus, zeg ik je!$"
 
 Route114_Text_KaiDefeat:
-	.string "What was that about?\n"
-	.string "Did mine lose in size?$"
+	.string "Wat was dat nou?\n"
+	.string "Was die van mij te klein?$"
 
 Route114_Text_KaiPostBattle:
-	.string "Okay!\n"
-	.string "I'll just fish me a bigger one!$"
+	.string "Goed dan!\n"
+	.string "Ik vang gewoon een grotere!$"
 
 Route114_Text_CharlotteIntro:
-	.string "Me!\n"
-	.string "I'm not just a pretty face!$"
+	.string "Ik ben niet alleen maar mooi!\n"
+	.string "Kijk maar!$"
 
 Route114_Text_CharlotteDefeat:
-	.string "That wasn't cute in the least!$"
+	.string "Dat was helemaal niet schattig!$"
 
 Route114_Text_CharlottePostBattle:
-	.string "I don't want a POKéMON that's\n"
-	.string "just cute.\p"
-	.string "I adore cute ones that have a quirk\n"
-	.string "or two!$"
+	.string "Ik wil niet alleen een\n"
+	.string "schattige Pokémon.\p"
+	.string "Ik hou van schattige Pokémon\n"
+	.string "met een paar gekke trekjes!$"
 
 Route114_Text_AngelinaIntro:
-	.string "Have you made your POKéMON evolve\n"
-	.string "very much?$"
+	.string "Heb jij al veel Pokémon\n"
+	.string "laten evolueren?$"
 
 Route114_Text_AngelinaDefeat:
-	.string "Oh, I see.\n"
-	.string "That's good to know.$"
+	.string "O, ik snap het.\n"
+	.string "Goed om te weten.$"
 
 Route114_Text_AngelinaPostBattle:
-	.string "Some POKéMON change so much when\n"
-	.string "they evolve, it's startling!$"
+	.string "Sommige Pokémon veranderen\n"
+	.string "zo veel als ze evolueren!\p"
+	.string "Daar schrik je gewoon van!$"
 
 Route115_Text_TimothyIntro:
 	.string "Hm…\n"
