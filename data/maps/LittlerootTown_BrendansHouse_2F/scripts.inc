@@ -258,32 +258,30 @@ PlayersHouse_2F_EventScript_GameCube::
 	end
 
 PlayersHouse_2F_Text_ClockIsStopped:
-	.string "The clock is stopped…\p"
-	.string "Better set it and start it!$"
+	.string "De klok staat stil...\p"
+	.string "Je kunt hem beter goed zetten!$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
-	.string "MOM: {PLAYER}, how do you like your\n"
-	.string "new room?\p"
-	.string "Good! Everything's put away neatly!\p"
-	.string "They finished moving everything in\n"
-	.string "downstairs, too.\p"
-	.string "POKéMON movers are so convenient!\p"
-	.string "Oh, you should make sure that\n"
-	.string "everything's all there on your desk.$"
+	.string "MAMA: Hoe vind je je kamer?\p"
+	.string "Mooi! Alles is netjes opgeruimd.\p"
+	.string "Beneden zijn ze ook klaar.\p"
+	.string "Wat handig, die Pokémon!\p"
+	.string "Kijk nog even of alles\n"
+	.string "op je bureau ligt.$"
 
 PlayersHouse_2F_Text_Notebook:
-	.string "{PLAYER} flipped open the notebook.\p"
-	.string "ADVENTURE RULE NO. 1\n"
-	.string "Open the MENU with START.\p"
-	.string "ADVENTURE RULE NO. 2\n"
-	.string "Record your progress with SAVE.\p"
-	.string "The remaining pages are blank…$"
+	.string "{PLAYER} opent het schrift.\p"
+	.string "AVONTURENREGEL 1\n"
+	.string "Open het MENU met START.\p"
+	.string "AVONTURENREGEL 2\n"
+	.string "Bewaar je voortgang met SAVE.\p"
+	.string "De andere bladzijden zijn leeg...$"
 
 Common_Text_LookCloserAtMap:
-	.string "{PLAYER} took a closer look at the\n"
-	.string "HOENN region map.$"
+	.string "{PLAYER} bekijkt de kaart\n"
+	.string "van HOENN.$"
 
 PlayersHouse_2F_Text_ItsAGameCube:
-	.string "It's a Nintendo GameCube.\p"
-	.string "A Game Boy Advance is connected to\n"
-	.string "serve as the Controller.$"
+	.string "Het is een Nintendo GameCube.\p"
+	.string "Er is een Game Boy Advance\n"
+	.string "aangesloten als controller.$"
