@@ -75,100 +75,94 @@ RustboroCity_Flat1_2F_EventScript_PokeDoll::
 	end
 
 RustboroCity_Flat1_2F_Text_ComingUpWithMealsIsHard:
-	.string "Oh, it's so hard every day…\p"
-	.string "What's hard?\n"
-	.string "You need to ask?\p"
-	.string "It's trying to figure out what to\n"
-	.string "make for meals every day.\p"
-	.string "It really isn't easy coming up with\n"
-	.string "meals every day.$"
+	.string "Pfff, elke dag weer zo moeilijk...\p"
+	.string "Wat moeilijk is?\n"
+	.string "Moet je dat nog vragen?\p"
+	.string "Bedenken wat we vandaag eten!\p"
+	.string "Het is echt niet makkelijk om\n"
+	.string "elke dag iets nieuws te bedenken.$"
 
 RustboroCity_Flat1_2F_Text_HelloDoYouKnowFunnyPhrase:
-	.string "Oh, hello!\n"
-	.string "Welcome to the PEPPER household.\p"
-	.string "I have a question for you.\n"
-	.string "Have you ever baby-sat?\p"
-	.string "You see, I'm a new father, so raising\n"
-	.string "a child is all new to me.\p"
-	.string "And I have a problem. My daughter\n"
-	.string "WALDA doesn't laugh enough.\p"
-	.string "I think she'd laugh for me if I told\n"
-	.string "her something funny.\p"
-	.string "Do you know of a funny word or\n"
-	.string "phrase you can tell me?$"
+	.string "Hallo! Welkom bij de familie PEPPER.\p"
+	.string "Ik heb een vraag voor je.\n"
+	.string "Heb jij weleens opgepast?\p"
+	.string "Ik ben net vader geworden.\n"
+	.string "Een kind opvoeden is nieuw voor mij.\p"
+	.string "Mijn dochter WALDA lacht te weinig.\p"
+	.string "Misschien lacht ze als ik iets\n"
+	.string "grappigs tegen haar zeg.\p"
+	.string "Ken jij een grappig woord\n"
+	.string "of een leuke zin?$"
 
 RustboroCity_Flat1_2F_Text_BeenSayingXDoYouKnowBetterPhrase:
-	.string "I've been saying “{STR_VAR_1}”\n"
-	.string "to amuse her lately.\p"
-	.string "Do you know of a better word or\n"
-	.string "a phrase that might work?$"
+	.string "Ik zeg de laatste tijd\n"
+	.string "“{STR_VAR_1}” tegen haar.\p"
+	.string "Weet jij iets grappigers\n"
+	.string "dat misschien werkt?$"
 
 RustboroCity_Flat1_2F_Text_WonderfulLetsHearSuggestion:
-	.string "Oh, that's wonderful.\n"
-	.string "So, let's hear it, your suggestion.$"
+	.string "O, geweldig!\n"
+	.string "Vertel me jouw idee maar.$"
 
 RustboroCity_Flat1_2F_Text_OhIsThatRight:
-	.string "Oh, is that right?\p"
-	.string "Well, if you come up with a good\n"
-	.string "suggestion, I'm all ears.$"
+	.string "O, echt?\p"
+	.string "Als je iets leuks bedenkt,\n"
+	.string "wil ik het graag horen.$"
 
 RustboroCity_Flat1_2F_Text_LetsGiveItATry2:
-	.string "Ah, I see.\n"
-	.string "Well, let's give it a try, shall we?$"
+	.string "Ah, ik snap het.\n"
+	.string "Laten we het proberen!$"
 
 RustboroCity_Flat1_2F_Text_OhShesLaughing:
 	.string "{STR_VAR_1}.\n"
 	.string "{STR_VAR_1}.\p"
-	.string "Oh, yes! She's laughing!\n"
-	.string "Oh, I am as delighted as she!$"
+	.string "Ja! Ze lacht!\n"
+	.string "Ik ben net zo blij als zij!$"
 
 RustboroCity_Flat1_2F_Text_LetsGiveItATry:
-	.string "Ah, I see.\n"
-	.string "Well, let's give it a try, shall we?$"
+	.string "Ah, ik snap het.\n"
+	.string "Laten we het proberen!$"
 
 RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll:
 	.string "{STR_VAR_1}.\n"
 	.string "{STR_VAR_1}.\p"
-	.string "Hmmm… She's not smiling at all.\n"
-	.string "Maybe WALDA is one serious child…$"
+	.string "Hmm... Ze lacht helemaal niet.\n"
+	.string "WALDA is vast een serieus kind.$"
 
 RustboroCity_Flat1_2F_Text_ThinkOfMyOwnPhrase:
-	.string "Oh, so you don't know any good words.\n"
-	.string "I'd better think for myself, then.\p"
-	.string "Hmm…\n"
-	.string "How about “{STR_VAR_1}”?\l"
-	.string "Let's see if that will work.$"
+	.string "O, je weet niets grappigs.\n"
+	.string "Dan bedenk ik zelf wel iets.\p"
+	.string "Hmm... Wat dacht je van\n"
+	.string "“{STR_VAR_1}”?\p"
+	.string "Eens kijken of dat werkt.$"
 
 RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll2:
 	.string "{STR_VAR_1}.\n"
 	.string "{STR_VAR_1}.\p"
-	.string "Hmmm… She's not smiling at all.\n"
-	.string "Maybe WALDA is one serious child…$"
+	.string "Hmm... Ze lacht helemaal niet.\n"
+	.string "WALDA is vast een serieus kind.$"
 
 RustboroCity_Flat1_2F_Text_OhYouDontKnowAny:
-	.string "Oh, so you don't know any good words.\n"
-	.string "I guess I'll try to amuse her with\l"
-	.string "the saying I used before.\p"
-	.string "Anyways, if you have a good suggestion,\n"
-	.string "don't hesitate in telling me, okay?$"
+	.string "O, je weet niets grappigs.\p"
+	.string "Dan probeer ik het woord\n"
+	.string "van de vorige keer nog eens.\p"
+	.string "Als je iets leuks bedenkt,\n"
+	.string "vertel het me dan gerust!$"
 
 RustboroCity_Flat1_2F_Text_ThankYouIllGiveYouWallpaper:
-	.string "Thank you!\p"
-	.string "Thanks to you, my darling WALDA\n"
-	.string "laughed for me!\p"
-	.string "Actually, I may not look all that\n"
-	.string "special, but I'm one of DEVON\l"
-	.string "CORPORATION's top researchers.\p"
-	.string "So, how about I do something in return\n"
-	.string "for you?\p"
-	.string "I know, I'll add some new wallpaper\n"
-	.string "patterns for the BOXES in the PC\l"
-	.string "POKéMON Storage System.\p"
-	.string "In the wallpaper pattern menu,\n"
-	.string "select “FRIENDS.”\p"
-	.string "That will give you access to the new\n"
-	.string "wallpaper patterns.$"
+	.string "Bedankt!\p"
+	.string "Dankzij jou heeft mijn lieve\n"
+	.string "WALDA gelachen!\p"
+	.string "Je zou het misschien niet denken,\n"
+	.string "maar ik ben een van de beste\l"
+	.string "onderzoekers van DEVON.\p"
+	.string "Ik wil graag iets terugdoen.\p"
+	.string "Ik voeg nieuwe achtergronden\n"
+	.string "toe aan de BOXES in de PC.\p"
+	.string "Kies FRIENDS in het menu\n"
+	.string "voor achtergronden.\p"
+	.string "Daar vind je de nieuwe patronen!$"
 
 RustboroCity_Flat1_2F_Text_ItsAPokemonPlushDoll:
-	.string "It's a POKéMON plush DOLL!$"
+	.string "Het is een Pokémon-knuffel!$"
 
