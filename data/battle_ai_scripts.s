@@ -930,9 +930,8 @@ AI_CV_DefenseUp4:
 	get_last_used_bank_move AI_TARGET
 	get_move_power_from_result
 	if_equal 0, AI_CV_DefenseUp5
-	get_last_used_bank_move AI_TARGET
-	get_move_type_from_result
-	if_not_in_bytes AI_CV_DefenseUp_PhysicalTypes, AI_CV_DefenseUp_ScoreDown2
+	get_type AI_LAST_TARGET_MOVE_CATEGORY
+	if_not_equal 0, AI_CV_DefenseUp_ScoreDown2
 	if_random_less_than 60, AI_CV_DefenseUp_End
 AI_CV_DefenseUp5:
 	if_random_less_than 60, AI_CV_DefenseUp_End
@@ -1001,9 +1000,8 @@ AI_CV_SpDefUp4:
 	get_last_used_bank_move AI_TARGET
 	get_move_power_from_result
 	if_equal 0, AI_CV_SpDefUp5
-	get_last_used_bank_move AI_TARGET
-	get_move_type_from_result
-	if_in_bytes AI_CV_SpDefUp_PhysicalTypes, AI_CV_SpDefUp_ScoreDown2
+	get_type AI_LAST_TARGET_MOVE_CATEGORY
+	if_equal 0, AI_CV_SpDefUp_ScoreDown2
 	if_random_less_than 60, AI_CV_SpDefUp_End
 AI_CV_SpDefUp5:
 	if_random_less_than 60, AI_CV_SpDefUp_End
@@ -1100,10 +1098,9 @@ AI_CV_AttackDown3:
 	if_hp_more_than AI_TARGET, 70, AI_CV_AttackDown4
 	score -2
 AI_CV_AttackDown4:
-	get_target_type1
-	if_in_bytes AI_CV_AttackDown_PhysicalTypeList, AI_CV_AttackDown_End
-	get_target_type2
-	if_in_bytes AI_CV_AttackDown_PhysicalTypeList, AI_CV_AttackDown_End
+	get_type AI_LAST_TARGET_MOVE_CATEGORY
+	if_equal 0, AI_CV_AttackDown_End
+	if_equal 2, AI_CV_AttackDown_End
 	if_random_less_than 50, AI_CV_AttackDown_End
 	score -2
 AI_CV_AttackDown_End:
@@ -1163,10 +1160,9 @@ AI_CV_SpAtkDown3:
 	if_hp_more_than AI_TARGET, 70, AI_CV_SpAtkDown4
 	score -2
 AI_CV_SpAtkDown4:
-	get_target_type1
-	if_in_bytes AI_CV_SpAtkDown_SpecialTypeList, AI_CV_SpAtkDown_End
-	get_target_type2
-	if_in_bytes AI_CV_SpAtkDown_SpecialTypeList, AI_CV_SpAtkDown_End
+	get_type AI_LAST_TARGET_MOVE_CATEGORY
+	if_equal 1, AI_CV_SpAtkDown_End
+	if_equal 2, AI_CV_SpAtkDown_End
 	if_random_less_than 50, AI_CV_SpAtkDown_End
 	score -2
 AI_CV_SpAtkDown_End:
@@ -1372,10 +1368,9 @@ AI_CV_Toxic_End:
 
 AI_CV_LightScreen:
 	if_hp_less_than AI_USER, 50, AI_CV_LightScreen_ScoreDown2
-	get_target_type1
-	if_in_bytes AI_CV_LightScreen_SpecialTypeList, AI_CV_LightScreen_End
-	get_target_type2
-	if_in_bytes AI_CV_LightScreen_SpecialTypeList, AI_CV_LightScreen_End
+	get_type AI_LAST_TARGET_MOVE_CATEGORY
+	if_equal 1, AI_CV_LightScreen_End
+	if_equal 2, AI_CV_LightScreen_End
 	if_random_less_than 50, AI_CV_LightScreen_End
 AI_CV_LightScreen_ScoreDown2:
 	score -2
@@ -1491,10 +1486,9 @@ AI_CV_SwaggerHasPsychUp_End:
 
 AI_CV_Reflect:
 	if_hp_less_than AI_USER, 50, AI_CV_Reflect_ScoreDown2
-	get_target_type1
-	if_in_bytes AI_CV_Reflect_PhysicalTypeList, AI_CV_Reflect_End
-	get_target_type2
-	if_in_bytes AI_CV_Reflect_PhysicalTypeList, AI_CV_Reflect_End
+	get_type AI_LAST_TARGET_MOVE_CATEGORY
+	if_equal 0, AI_CV_Reflect_End
+	if_equal 2, AI_CV_Reflect_End
 	if_random_less_than 50, AI_CV_Reflect_End
 AI_CV_Reflect_ScoreDown2:
 	score -2
@@ -1635,9 +1629,8 @@ AI_CV_Counter3:
 	if_random_less_than 100, AI_CV_Counter4
 	score +1
 AI_CV_Counter4:
-	get_last_used_bank_move AI_TARGET
-	get_move_type_from_result
-	if_not_in_bytes AI_CV_Counter_PhysicalTypeList, AI_CV_Counter_ScoreDown1
+	get_type AI_LAST_TARGET_MOVE_CATEGORY
+	if_not_equal 0, AI_CV_Counter_ScoreDown1
 	if_random_less_than 100, AI_CV_Counter_End
 	score +1
 	goto AI_CV_Counter_End
@@ -1647,18 +1640,9 @@ AI_CV_Counter5:
 	if_random_less_than 100, AI_CV_Counter6
 	score +1
 AI_CV_Counter6:
-#ifdef BUGFIX
-	get_target_type1
-	if_in_bytes AI_CV_Counter_PhysicalTypeList, AI_CV_Counter7
-	get_target_type2
-	if_in_bytes AI_CV_Counter_PhysicalTypeList, AI_CV_Counter7
+	get_type AI_LAST_TARGET_MOVE_CATEGORY
+	if_equal 0, AI_CV_Counter7
 	goto AI_CV_Counter_End
-#else
-	get_target_type1
-	if_in_bytes AI_CV_Counter_PhysicalTypeList, AI_CV_Counter_End
-	get_target_type2
-	if_in_bytes AI_CV_Counter_PhysicalTypeList, AI_CV_Counter_End
-#endif
 AI_CV_Counter7:
 	if_random_less_than 50, AI_CV_Counter_End
 AI_CV_Counter8:
@@ -2133,9 +2117,8 @@ AI_CV_MirrorCoat3:
 	if_random_less_than 100, AI_CV_MirrorCoat4
 	score +1
 AI_CV_MirrorCoat4:
-	get_last_used_bank_move AI_TARGET
-	get_move_type_from_result
-	if_not_in_bytes AI_CV_MirrorCoat_SpecialTypeList, AI_CV_MirrorCoat_ScoreDown1
+	get_type AI_LAST_TARGET_MOVE_CATEGORY
+	if_not_equal 1, AI_CV_MirrorCoat_ScoreDown1
 	if_random_less_than 100, AI_CV_MirrorCoat_End
 	score +1
 	goto AI_CV_MirrorCoat_End
@@ -2145,18 +2128,9 @@ AI_CV_MirrorCoat5:
 	if_random_less_than 100, AI_CV_MirrorCoat6
 	score +1
 AI_CV_MirrorCoat6:
-#ifdef BUGFIX
-	get_target_type1
-	if_in_bytes AI_CV_MirrorCoat_SpecialTypeList, AI_CV_MirrorCoat7
-	get_target_type2
-	if_in_bytes AI_CV_MirrorCoat_SpecialTypeList, AI_CV_MirrorCoat7
+	get_type AI_LAST_TARGET_MOVE_CATEGORY
+	if_equal 1, AI_CV_MirrorCoat7
 	goto AI_CV_MirrorCoat_End
-#else
-	get_target_type1
-	if_in_bytes AI_CV_MirrorCoat_SpecialTypeList, AI_CV_MirrorCoat_End
-	get_target_type2
-	if_in_bytes AI_CV_MirrorCoat_SpecialTypeList, AI_CV_MirrorCoat_End
-#endif
 AI_CV_MirrorCoat7:
 	if_random_less_than 50, AI_CV_MirrorCoat_End
 AI_CV_MirrorCoat_ScoreUp4:

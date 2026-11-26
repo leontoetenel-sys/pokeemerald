@@ -1130,6 +1130,13 @@ static void Cmd_get_type(void)
     case AI_TYPE2_TARGET: // target secondary type
         AI_THINKING_STRUCT->funcResult = gBattleMons[gBattlerTarget].types[1];
         break;
+    case AI_LAST_TARGET_MOVE_CATEGORY:
+        // Use only observed moves, never the opponent's hidden moveset.
+        if (gLastMoves[gBattlerTarget] < MOVES_COUNT)
+            AI_THINKING_STRUCT->funcResult = gMoveCategories[gLastMoves[gBattlerTarget]];
+        else
+            AI_THINKING_STRUCT->funcResult = MOVE_CATEGORY_STATUS;
+        break;
     case AI_TYPE_MOVE: // type of move being pointed to
         AI_THINKING_STRUCT->funcResult = gBattleMoves[AI_THINKING_STRUCT->moveConsidered].type;
         break;
