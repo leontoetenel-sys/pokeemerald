@@ -3396,6 +3396,9 @@ static void Cmd_getexp(void)
                         i = STRINGID_EMPTYSTRING4;
                     }
 
+                    // Family ROM: apply the global XP bonus after all vanilla modifiers.
+                    gBattleMoveDamage = (gBattleMoveDamage * 125) / 100;
+
                     // get exp getter battler
                     if (gBattleTypeFlags & BATTLE_TYPE_DOUBLE)
                     {
