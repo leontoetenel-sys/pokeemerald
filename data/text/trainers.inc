@@ -2186,172 +2186,181 @@ Route115_Text_MarlenePostBattle:
 	.string "rustig...$"
 
 Route116_Text_ClarkIntro:
-	.string "If the tunnel doesn't go through, then\n"
-	.string "I'll just go over the top.$"
+	.string "Als de tunnel niet afkomt,\n"
+	.string "klim ik gewoon over de berg!$"
 
 Route116_Text_ClarkDefeat:
-	.string "Gasp… Gasp…\n"
-	.string "Losing made me tired…$"
+	.string "Hijg, hijg...\n"
+	.string "Van verliezen word ik moe...$"
 
 Route116_Text_ClarkPostBattle:
-	.string "It's no big deal if there's no tunnel.\n"
-	.string "To a HIKER, mountains are roads!$"
+	.string "Geen tunnel? Geen probleem!\n"
+	.string "Voor een WANDELAAR zijn\l"
+	.string "bergen gewoon wegen!$"
 
 Route116_Text_JoeyIntro:
-	.string "My POKéMON rule!\n"
-	.string "Check them out!$"
+	.string "Mijn Pokémon zijn de beste!\n"
+	.string "Kijk maar eens!$"
 
 Route116_Text_JoeyDefeat:
-	.string "Ouch! A scrape!\n"
-	.string "I have to put on a bandage!$"
+	.string "Au! Een schaafwond!\n"
+	.string "Ik moet een pleister hebben!$"
 
 Route116_Text_JoeyPostBattle:
-	.string "Bandages are signs of toughness!\n"
-	.string "I've got another one!$"
+	.string "Pleisters laten zien hoe stoer\n"
+	.string "je bent! Ik heb er weer eentje!$"
 
 Route116_Text_JoseIntro:
-	.string "My BUG POKéMON are tough!\n"
-	.string "Let's battle!$"
+	.string "Mijn BUG-type Pokémon zijn sterk!\n"
+	.string "Kom, laten we vechten!$"
 
 Route116_Text_JoseDefeat:
-	.string "I lost!\n"
-	.string "I thought I had you!$"
+	.string "Ik heb verloren!\n"
+	.string "Ik dacht dat ik je had!$"
 
 Route116_Text_JosePostBattle:
-	.string "BUG POKéMON evolve quickly.\n"
-	.string "So they get strong quickly, too.$"
+	.string "BUG-type Pokémon evolueren snel.\n"
+	.string "Zo worden ze ook snel sterker.$"
 
 Route116_Text_JaniceIntro:
-	.string "Let me teach you how strong my\n"
-	.string "adorable POKéMON is!$"
+	.string "Ik zal je laten zien hoe sterk\n"
+	.string "mijn schattige Pokémon is!$"
 
 Route116_Text_JaniceDefeat:
-	.string "You're a notch above me…$"
+	.string "Jij bent net iets beter dan ik...$"
 
 Route116_Text_JanicePostBattle:
-	.string "POKéMON that possess cuteness and\n"
-	.string "power, that's ideal, I think.$"
+	.string "Een Pokémon die schattig én\n"
+	.string "sterk is, dat lijkt me ideaal!$"
 
 Route116_Text_JerryIntro:
-	.string "We learn all sorts of things at the\n"
-	.string "TRAINER'S SCHOOL.\p"
-	.string "I want to test things out for real!$"
+	.string "Op de TRAINERSSCHOOL leren\n"
+	.string "we allerlei dingen.\p"
+	.string "Ik wil ze in het echt uitproberen!$"
 
 Route116_Text_JerryDefeat:
-	.string "I slacked off in school…\n"
-	.string "That's why I lost.$"
+	.string "Ik heb niet goed opgelet\n"
+	.string "op school... Daarom verloor ik.$"
 
 Route116_Text_JerryPostBattle:
-	.string "I'll have to redo some courses at\n"
-	.string "the TRAINER'S SCHOOL.\l"
-	.string "If I don't, ROXANNE will be steamed.$"
+	.string "Ik moet wat lessen overdoen\n"
+	.string "op de TRAINERSSCHOOL.\p"
+	.string "Anders wordt ROXANNE boos.$"
 
 Route116_Text_JerryRegister1:
-	.string "I learned at the TRAINER'S SCHOOL\n"
-	.string "that a POKéNAV can register TRAINERS.\p"
-	.string "I don't really get what that means,\n"
-	.string "so can I just try it?$"
+	.string "Op school leerde ik dat je\n"
+	.string "trainers kunt registreren\l"
+	.string "in je PokéNav.\p"
+	.string "Ik snap het nog niet helemaal.\n"
+	.string "Mag ik het eens proberen?$"
 
 Route116_Text_JerryRegister2:
-	.string "I learned at the TRAINER'S SCHOOL\n"
-	.string "that a POKéNAV can register TRAINERS.\p"
-	.string "I don't really get what that means,\n"
-	.string "so can I just try it?$"
+	.string "Op school leerde ik dat je\n"
+	.string "trainers kunt registreren\l"
+	.string "in je PokéNav.\p"
+	.string "Ik snap het nog niet helemaal.\n"
+	.string "Mag ik het eens proberen?$"
 
 Route116_Text_JerryRematchIntro:
-	.string "I've been studying seriously at the\n"
-	.string "TRAINER'S SCHOOL.\l"
-	.string "I won't lose like I did last time.$"
+	.string "Ik heb hard geleerd op de\n"
+	.string "TRAINERSSCHOOL.\p"
+	.string "Ik verlies niet zoals vorige keer!$"
 
 Route116_Text_JerryRematchDefeat:
-	.string "Hunh?\n"
-	.string "I studied diligently.$"
+	.string "Hè?\n"
+	.string "Ik had zo goed geleerd!$"
 
 Route116_Text_JerryPostRematch:
-	.string "I'll have to redo some courses at\n"
-	.string "the TRAINER'S SCHOOL.\l"
-	.string "If I don't, ROXANNE will be steamed.$"
+	.string "Ik moet wat lessen overdoen\n"
+	.string "op de TRAINERSSCHOOL.\p"
+	.string "Anders wordt ROXANNE boos.$"
 
 Route116_Text_KarenIntro:
-	.string "I study at school, and I study on\n"
-	.string "the way home, too!$"
+	.string "Ik leer op school en zelfs\n"
+	.string "onderweg naar huis!$"
 
 Route116_Text_KarenDefeat:
-	.string "I'm in shock--I lost?$"
+	.string "Ik kan het niet geloven.\n"
+	.string "Heb ik verloren?$"
 
 Route116_Text_KarenPostBattle:
-	.string "Awww, I'll never become an elegant\n"
-	.string "TRAINER like ROXANNE this way!$"
+	.string "Ach, zo word ik nooit een\n"
+	.string "elegante trainer als ROXANNE!$"
 
 Route116_Text_KarenRegister1:
-	.string "Oh, wow! Isn't that a POKéNAV?\n"
-	.string "I have one, too! Please register me!$"
+	.string "Wauw! Is dat een PokéNav?\n"
+	.string "Ik heb er ook een!\p"
+	.string "Registreer mij alsjeblieft!$"
 
 Route116_Text_KarenRegister2:
-	.string "Oh, wow! Isn't that a POKéNAV?\n"
-	.string "I have one, too! Please register me!$"
+	.string "Wauw! Is dat een PokéNav?\n"
+	.string "Ik heb er ook een!\p"
+	.string "Registreer mij alsjeblieft!$"
 
 Route116_Text_KarenRematchIntro:
-	.string "I studied a whole lot since I saw you.\n"
-	.string "You must see my achievements!$"
+	.string "Ik heb heel veel geleerd sinds\n"
+	.string "ik je voor het laatst zag.\p"
+	.string "Kijk eens wat ik nu kan!$"
 
 Route116_Text_KarenRematchDefeat:
-	.string "I'm in shock.\n"
-	.string "I lost again?$"
+	.string "Ik kan het niet geloven.\n"
+	.string "Alweer verloren?$"
 
 Route116_Text_KarenPostRematch:
-	.string "You've beaten ROXANNE?\n"
-	.string "I can't beat you, then. Not yet.$"
+	.string "Heb jij ROXANNE verslagen?\n"
+	.string "Dan kan ik je nog niet verslaan.$"
 
 Route116_Text_SarahIntro:
-	.string "Just so you know, I've never once been\n"
-	.string "bested by anyone at anything.$"
+	.string "Even voor de duidelijkheid:\n"
+	.string "ik heb nog nooit ergens\l"
+	.string "van iemand verloren.$"
 
 Route116_Text_SarahDefeat:
-	.string "Oh, my goodness.\n"
-	.string "This is a new experience for me.$"
+	.string "O, mijn hemel.\n"
+	.string "Dit heb ik nog nooit meegemaakt.$"
 
 Route116_Text_SarahPostBattle:
-	.string "My life of luxury affords me all that\n"
-	.string "I could possibly desire.\p"
-	.string "However, when it comes to POKéMON,\n"
-	.string "my wealth has no meaning.$"
+	.string "Met al mijn geld kan ik alles\n"
+	.string "kopen wat ik maar wil.\p"
+	.string "Maar bij Pokémon heb ik\n"
+	.string "helemaal niets aan mijn rijkdom.$"
 
 Route116_Text_DawsonIntro:
-	.string "When you lay your eyes on my POKéMON's\n"
-	.string "gorgeous fur, their beauty will render\l"
-	.string "you helpless!$"
+	.string "Als je de prachtige vacht van\n"
+	.string "mijn Pokémon ziet, ben je\l"
+	.string "helemaal betoverd!$"
 
 Route116_Text_DawsonDefeat:
-	.string "Oh, baby, say it isn't so!$"
+	.string "O nee, zeg dat het niet waar is!$"
 
 Route116_Text_DawsonPostBattle:
-	.string "Oh, no, no, no!\n"
-	.string "You've mussed up my POKéMON's fur!\l"
-	.string "You've ruined my hairdo, too!\l"
-	.string "I'll have to call my stylist now!$"
+	.string "O nee, nee, nee!\n"
+	.string "De vacht van mijn Pokémon\l"
+	.string "zit helemaal door de war!\p"
+	.string "Mijn kapsel ook!\n"
+	.string "Ik moet mijn kapper bellen!$"
 
 Route116_Text_DevanIntro:
-	.string "We'll rock you hard!$"
+	.string "Wij laten je flink schudden!$"
 
 Route116_Text_DevanDefeat:
-	.string "Aiyiyi!\n"
-	.string "No contest at all!$"
+	.string "Ai, ai, ai!\n"
+	.string "Ik maakte geen schijn van kans!$"
 
 Route116_Text_DevanPostBattle:
-	.string "I should try different POKéMON\n"
-	.string "types, that's what I ought to do.$"
+	.string "Ik moet eens andere types\n"
+	.string "Pokémon proberen.$"
 
 Route116_Text_JohnsonIntro:
-	.string "It's a dead end up here.\n"
-	.string "I'm bored, so can we battle?$"
+	.string "Hier loopt het pad dood.\n"
+	.string "Ik verveel me. Zullen we vechten?$"
 
 Route116_Text_JohnsonDefeat:
-	.string "That was fun even though I lost.$"
+	.string "Dat was leuk, ook al verloor ik.$"
 
 Route116_Text_JohnsonPostBattle:
-	.string "Want to stay here and keep\n"
-	.string "me company?$"
+	.string "Wil je hier blijven en me\n"
+	.string "gezelschap houden?$"
 
 Route117_Text_IsaacIntro:
 	.string "Wil je vechten tegen de\n"
