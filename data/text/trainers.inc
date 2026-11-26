@@ -1231,281 +1231,280 @@ Route110_Text_KalebPostBattle:
 	.string "Jullie hebben je best gedaan.$"
 
 Route111_Text_DrewIntro:
-	.string "Oh, hey! Those GO-GOGGLES suit you.\n"
-	.string "But I think they look better on me.\p"
-	.string "Let's decide who they look better on\n"
-	.string "with a battle!$"
+	.string "Hé! Die GO-GOGGLES staan je goed.\n"
+	.string "Maar mij staan ze nog beter.\p"
+	.string "Een duel bepaalt wie ze het\n"
+	.string "beste staan!$"
 
 Route111_Text_DrewDefeat:
-	.string "I couldn't see what was happening at\n"
-	.string "my sides because of the GO-GOGGLES.$"
+	.string "Met mijn GO-GOGGLES zag ik\n"
+	.string "niet wat er naast me gebeurde.$"
 
 Route111_Text_DrewPostBattle:
-	.string "The GO-GOGGLES make it possible to\n"
-	.string "get through sandstorms.\l"
-	.string "That makes me happy!$"
+	.string "Met GO-GOGGLES kun je door\n"
+	.string "zandstormen heen lopen.\p"
+	.string "Daar ben ik blij mee!$"
 
 Route111_Text_HeidiIntro:
-	.string "I'm having a picnic in the desert.\p"
-	.string "You can always find a TRAINER,\n"
-	.string "so I can enjoy a battle here, too!$"
+	.string "Ik picknick in de woestijn.\p"
+	.string "Er komt altijd wel een trainer\n"
+	.string "langs voor een leuk duel!$"
 
 Route111_Text_HeidiDefeat:
-	.string "Ohhh! You're mean!$"
+	.string "Ooooh! Jij bent gemeen!$"
 
 Route111_Text_HeidiPostBattle:
-	.string "When you're battling in a sandstorm,\n"
-	.string "watch out for your POKéMON's HP.\p"
-	.string "It can faint if you don't keep\n"
-	.string "an eye on it!$"
+	.string "Let in een zandstorm goed\n"
+	.string "op de HP van je Pokémon.\p"
+	.string "Anders kan hij zomaar\n"
+	.string "flauwvallen!$"
 
 Route111_Text_BeauIntro:
-	.string "Wearing these GO-GOGGLES makes me\n"
-	.string "feel like a superhero.\l"
-	.string "Right now, nobody can beat me!$"
+	.string "Met deze GO-GOGGLES voel ik\n"
+	.string "me een superheld!\p"
+	.string "Niemand kan me nu verslaan!$"
 
 Route111_Text_BeauDefeat:
-	.string "I can't win on spirit alone…$"
+	.string "Met alleen moed kom ik er niet...$"
 
 Route111_Text_BeauPostBattle:
-	.string "I'm going to be a real hero one day.\n"
-	.string "I'm going to work harder to make me\l"
-	.string "and my POKéMON stronger.$"
+	.string "Ooit word ik een echte held.\p"
+	.string "Ik ga harder trainen zodat\n"
+	.string "mijn Pokémon en ik sterker worden.$"
 
 Route111_Text_BeckyIntro:
-	.string "I heard there are fossils to be found\n"
-	.string "in the desert. Where could they be?$"
+	.string "Ik hoorde dat er fossielen\n"
+	.string "in de woestijn liggen.\p"
+	.string "Waar zouden ze zijn?$"
 
 Route111_Text_BeckyDefeat:
-	.string "I came up short…$"
+	.string "Ik kwam net tekort...$"
 
 Route111_Text_BeckyPostBattle:
-	.string "If they can find fossils in the desert,\n"
-	.string "it must have been a sea before.$"
+	.string "Als hier fossielen liggen,\n"
+	.string "was dit vroeger vast een zee.$"
 
 Route111_Text_DustyIntro:
-	.string "For thirty years I have searched for\n"
-	.string "ancient ruins!\l"
-	.string "I am to be challenged?$"
+	.string "Al dertig jaar zoek ik naar\n"
+	.string "oude ruïnes!\p"
+	.string "Daag jij mij uit?$"
 
 Route111_Text_DustyDefeat:
-	.string "While I have searched for ruins,\n"
-	.string "I've not searched for strong POKéMON.$"
+	.string "Ik zocht naar ruïnes, maar\n"
+	.string "niet naar sterke Pokémon.$"
 
 Route111_Text_DustyPostBattle:
-	.string "For thirty years I have searched for\n"
-	.string "ancient ruins!\p"
-	.string "No, wait, was that forty years?\n"
-	.string "Which was it now?$"
+	.string "Al dertig jaar zoek ik naar\n"
+	.string "oude ruïnes!\p"
+	.string "Of wacht, was het veertig jaar?\n"
+	.string "Hoe zat het ook alweer?$"
 
 Route111_Text_DustyRegister:
-	.string "I haven't been searching for any\n"
-	.string "tough POKéMON.\p"
-	.string "But, for some reason, I sure do like\n"
-	.string "POKéNAVS.$"
+	.string "Ik zoek niet naar sterke Pokémon.\p"
+	.string "Maar op de een of andere manier\n"
+	.string "vind ik PokéNavs geweldig!$"
 
 Route111_Text_DustyRematchIntro:
-	.string "For thirty years I have searched for\n"
-	.string "ancient ruins!\p"
-	.string "No, wait, was that forty years?\n"
-	.string "Anyway, am I to be challenged?$"
+	.string "Al dertig jaar zoek ik naar\n"
+	.string "oude ruïnes!\p"
+	.string "Of was het veertig jaar?\n"
+	.string "Hoe dan ook, daag je me uit?$"
 
 Route111_Text_DustyRematchDefeat:
-	.string "I've found no ruins, nor have I found\n"
-	.string "any strong POKéMON…$"
+	.string "Geen ruïnes gevonden, en ook\n"
+	.string "geen sterke Pokémon...$"
 
 Route111_Text_DustyPostRematch:
-	.string "For thirty years I have searched for\n"
-	.string "ancient ruins!\p"
-	.string "No, wait, was that forty years\n"
-	.string "I've searched?\p"
-	.string "Hmm… It could even be fifty…\n"
-	.string "How long have I been at this?$"
+	.string "Al dertig jaar zoek ik naar\n"
+	.string "oude ruïnes!\p"
+	.string "Of was het veertig jaar?\p"
+	.string "Hmm... Misschien wel vijftig!\n"
+	.string "Hoe lang ben ik al bezig?$"
 
 Route111_Text_TravisIntro:
-	.string "I'm full of pep!\n"
-	.string "And my POKéMON is peppy, too!$"
+	.string "Ik zit vol energie!\n"
+	.string "Mijn Pokémon ook!$"
 
 Route111_Text_TravisDefeat:
-	.string "My POKéMON lost its pep…$"
+	.string "Mijn Pokémon is zijn energie\n"
+	.string "kwijt...$"
 
 Route111_Text_TravisPostBattle:
-	.string "When I see a TRAINER with a lot of pep,\n"
-	.string "I can't help looking.$"
+	.string "Als ik een energieke trainer zie,\n"
+	.string "moet ik gewoon even kijken.$"
 
 Route111_Text_IreneIntro:
-	.string "I don't know where you're going,\n"
-	.string "but would you like to battle?$"
+	.string "Ik weet niet waar je heen gaat,\n"
+	.string "maar wil je even vechten?$"
 
 Route111_Text_IreneDefeat:
-	.string "Oh, you're disgustingly good!$"
+	.string "Bah, wat ben jij goed!$"
 
 Route111_Text_IrenePostBattle:
-	.string "I'm thinking that I should go to\n"
-	.string "MT. CHIMNEY, but the view around\l"
-	.string "here is very nice, too.$"
+	.string "Ik wil eigenlijk naar MT. CHIMNEY.\p"
+	.string "Maar het uitzicht hier is\n"
+	.string "ook erg mooi.$"
 
 Route111_Text_DaisukeIntro:
-	.string "To train myself, I challenge all\n"
-	.string "whom I meet!$"
+	.string "Om sterker te worden daag ik\n"
+	.string "iedereen uit die ik tegenkom!$"
 
 Route111_Text_DaisukeDefeat:
-	.string "Uncle! I give up!$"
+	.string "Genade! Ik geef me over!$"
 
 Route111_Text_DaisukePostBattle:
-	.string "All I can do is keep training until\n"
-	.string "I can defeat strong TRAINERS such\l"
-	.string "as yourself.$"
+	.string "Ik blijf trainen tot ik sterke\n"
+	.string "trainers zoals jij kan verslaan.$"
 
 Route111_Text_WiltonIntro:
-	.string "Show me how much you've toughened\n"
-	.string "your POKéMON.$"
+	.string "Laat zien hoe sterk je jouw\n"
+	.string "Pokémon hebt gemaakt.$"
 
 Route111_Text_WiltonDefeat:
-	.string "I see, you've toughened them\n"
-	.string "considerably.$"
+	.string "Ik zie het. Je hebt ze\n"
+	.string "behoorlijk sterk gemaakt.$"
 
 Route111_Text_WiltonPostBattle:
-	.string "POKéMON and TRAINERS learn much\n"
-	.string "through battling.\p"
-	.string "What's important is to never give up\n"
-	.string "even if you lose.$"
+	.string "Pokémon en trainers leren\n"
+	.string "veel van gevechten.\p"
+	.string "Geef nooit op, ook niet als\n"
+	.string "je verliest.$"
 
 Route111_Text_WiltonRegister:
-	.string "There is much to be learned from\n"
-	.string "your training style.\p"
-	.string "I request a rematch if it\n"
-	.string "behooves you.$"
+	.string "Ik kan veel leren van jouw\n"
+	.string "manier van trainen.\p"
+	.string "Zullen we nog eens vechten?$"
 
 Route111_Text_WiltonRematchIntro:
-	.string "We're training here to elevate our\n"
-	.string "game to the next level.\l"
-	.string "Stay and train with us!$"
+	.string "We trainen om nog beter\n"
+	.string "te worden.\p"
+	.string "Blijf en train met ons mee!$"
 
 Route111_Text_WiltonRematchDefeat:
-	.string "Ooh, you're decent!$"
+	.string "O, jij bent behoorlijk goed!$"
 
 Route111_Text_WiltonPostRematch:
-	.string "Since you're that strong, you should\n"
-	.string "aim for the POKéMON LEAGUE.$"
+	.string "Als je zo sterk bent, moet je\n"
+	.string "naar de Pokémon LEAGUE streven.$"
 
 Route111_Text_BrookeIntro:
-	.string "Oh, your POKéMON look like serious\n"
-	.string "actors.\l"
-	.string "I have to ask you for an engagement.$"
+	.string "Jouw Pokémon lijken echte\n"
+	.string "sterren!\p"
+	.string "Ik moet je wel uitdagen.$"
 
 Route111_Text_BrookeDefeat:
-	.string "They didn't just look strong,\n"
-	.string "they are strong!$"
+	.string "Ze zien er niet alleen sterk uit,\n"
+	.string "ze zijn het ook!$"
 
 Route111_Text_BrookePostBattle:
-	.string "I thought I was raising my POKéMON\n"
-	.string "diligently, but, oh no, there is still\l"
-	.string "much to be done.$"
+	.string "Ik dacht dat ik mijn Pokémon\n"
+	.string "goed trainde.\p"
+	.string "Maar ik heb nog veel te leren.$"
 
 Route111_Text_BrookeRegister:
-	.string "I wish I could become friends with\n"
-	.string "more strong people like you!$"
+	.string "Ik zou graag meer sterke\n"
+	.string "vrienden zoals jij hebben!$"
 
 Route111_Text_BrookeRematchIntro:
-	.string "You can make POKéMON stronger or\n"
-	.string "weaker depending on the moves you\l"
-	.string "teach them.\p"
-	.string "What kinds of moves do your POKéMON\n"
-	.string "know?$"
+	.string "De aanvallen die je leert maken\n"
+	.string "je Pokémon sterker of zwakker.\p"
+	.string "Welke aanvallen kennen die\n"
+	.string "van jou?$"
 
 Route111_Text_BrookeRematchDefeat:
-	.string "You've taught them good moves!$"
+	.string "Je hebt ze goede aanvallen\n"
+	.string "geleerd!$"
 
 Route111_Text_BrookePostRematch:
-	.string "Maybe I should have stopped my\n"
-	.string "POKéMON from evolving until they\l"
-	.string "learned better moves…$"
+	.string "Misschien had ik de evolutie\n"
+	.string "moeten uitstellen tot mijn\l"
+	.string "Pokémon betere aanvallen kenden.$"
 
 Route111_Text_CeliaIntro:
-	.string "I shouldn't have come to a place like\n"
-	.string "this for a picnic!$"
+	.string "Ik had hier nooit moeten\n"
+	.string "gaan picknicken!$"
 
 Route111_Text_CeliaDefeat:
-	.string "Aww!\n"
-	.string "I really shouldn't have come!$"
+	.string "Aah!\n"
+	.string "Ik had hier echt niet moeten zijn!$"
 
 Route111_Text_CeliaPostBattle:
-	.string "In a sandstorm like this, I can't set\n"
-	.string "the places for a picnic even with my\l"
-	.string "GO-GOGGLES on…$"
+	.string "Zelfs met mijn GO-GOGGLES kan\n"
+	.string "ik in deze zandstorm geen\l"
+	.string "picknick klaarzetten...$"
 
 Route111_Text_BryanIntro:
-	.string "How tough are you?\n"
-	.string "We shall expose that secret!$"
+	.string "Hoe sterk ben jij?\n"
+	.string "Wij zullen dat geheim onthullen!$"
 
 Route111_Text_BryanDefeat:
-	.string "Oh! Your strength!\n"
-	.string "It is shrouded in mystery!$"
+	.string "O! Jouw kracht!\n"
+	.string "Die blijft een groot mysterie!$"
 
 Route111_Text_BryanPostBattle:
-	.string "This desert hoards mysteries in\n"
-	.string "its shifting sands!$"
+	.string "Deze woestijn verbergt geheimen\n"
+	.string "onder het bewegende zand!$"
 
 Route111_Text_BrandenIntro:
-	.string "I'll give you some of my sandwich\n"
-	.string "if you'll lose.$"
+	.string "Je krijgt een stukje van mijn\n"
+	.string "boterham als je verliest.$"
 
 Route111_Text_BrandenDefeat:
-	.string "Tch! I thought a sandwich would be\n"
-	.string "enough of a bribe…$"
+	.string "Tss! Ik dacht dat ik je met\n"
+	.string "een boterham kon omkopen...$"
 
 Route111_Text_BrandenPostBattle:
-	.string "My SANDSHREW loves eating\n"
-	.string "my sandwiches.$"
+	.string "Mijn SANDSHREW is dol op\n"
+	.string "mijn boterhammen.$"
 
 Route111_Text_TyronIntro:
-	.string "This is my favorite kind of POKéMON!$"
+	.string "Dit is mijn favoriete soort\n"
+	.string "Pokémon!$"
 
 Route111_Text_TyronDefeat:
-	.string "Wait!\n"
-	.string "Did you get a good look at my POKéMON?$"
+	.string "Wacht! Heb je mijn Pokémon\n"
+	.string "wel goed bekeken?$"
 
 Route111_Text_TyronPostBattle:
-	.string "When having a battle, I get a kick out\n"
-	.string "of showing off my POKéMON.\p"
-	.string "I bet everyone feels that way when\n"
-	.string "they enter a battle!$"
+	.string "Ik vind het heerlijk om tijdens\n"
+	.string "een duel mijn Pokémon te showen.\p"
+	.string "Volgens mij vindt iedereen\n"
+	.string "dat leuk!$"
 
 Route111_Text_CelinaIntro:
-	.string "Show me how to put a little excitement\n"
-	.string "into my life.$"
+	.string "Laat eens zien hoe je mijn\n"
+	.string "leven wat spannender maakt.$"
 
 Route111_Text_CelinaDefeat:
-	.string "Oh… My…\n"
-	.string "That was too much excitement.$"
+	.string "O... Jeetje...\n"
+	.string "Dat was iets te spannend.$"
 
 Route111_Text_CelinaPostBattle:
-	.string "My pulse is still racing.\n"
-	.string "You're one fabulous TRAINER.$"
+	.string "Mijn hart klopt nog heel snel.\n"
+	.string "Jij bent een geweldige trainer.$"
 
 Route111_Text_HaydenIntro:
-	.string "When you're as famished as I am,\n"
-	.string "there is no room for pity!$"
+	.string "Met zoveel honger als ik heb,\n"
+	.string "ken je geen genade!$"
 
 Route111_Text_HaydenDefeat:
-	.string "Groan…$"
+	.string "Kreun...$"
 
 Route111_Text_HaydenPostBattle:
-	.string "My stomach is grumbling!\n"
-	.string "Maybe I can grill some BERRIES…$"
+	.string "Mijn maag rommelt!\n"
+	.string "Misschien kan ik BERRIES roosteren.$"
 
 Route111_Text_BiancaIntro:
-	.string "Did you come from MAUVILLE?\n"
-	.string "Then you should be full of energy!$"
+	.string "Kom je uit MAUVILLE?\n"
+	.string "Dan zit je vast vol energie!$"
 
 Route111_Text_BiancaDefeat:
-	.string "Ooh lala!\n"
-	.string "That's a lot to take!$"
+	.string "O la la!\n"
+	.string "Dat was nogal wat!$"
 
 Route111_Text_BiancaPostBattle:
-	.string "This road here…\n"
-	.string "You have quite a ways to travel.$"
+	.string "Deze weg hier...\n"
+	.string "Je hebt nog een lange reis voor je.$"
 
 Route112_Text_BriceIntro:
 	.string "Hahahaha!\n"
