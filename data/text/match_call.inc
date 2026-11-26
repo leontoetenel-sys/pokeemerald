@@ -81,7 +81,7 @@ MatchCall_WildBattleText10::
 	.string "Ik had net bijna een\n"
 	.string "{STR_VAR_2} gevangen...\p"
 	.string "Maar hij ontsnapte toch.\p"
-	.string "Ik moet beter oefenen.\n"
+	.string "Ik moet beter mijn best doen.\n"
 	.string "Tot later.$"
 
 MatchCall_WildBattleText11::
@@ -396,7 +396,7 @@ MatchCall_SameRouteBattleRequestText5::
 	.string "Waar ben je? {STR_VAR_2}?\p"
 	.string "Zullen we meteen een\n"
 	.string "revanche houden?\p"
-	.string "Ik kijk naar je uit!\n"
+	.string "Ik let op of je eraan komt!\n"
 	.string "Tot zo!$"
 
 MatchCall_SameRouteBattleRequestText6::
@@ -475,7 +475,7 @@ MatchCall_SameRouteBattleRequestText14::
 	.string "Waar? {STR_VAR_2}?\n"
 	.string "Dat is heel dichtbij.\p"
 	.string "Zullen we een duel houden?\p"
-	.string "Ik kijk naar je uit!\n"
+	.string "Ik let op of je eraan komt!\n"
 	.string "Doei!$"
 
 MatchCall_DifferentRouteBattleRequestText1::
@@ -518,7 +518,7 @@ MatchCall_DifferentRouteBattleRequestText5::
 	.string "Mijn Pokémon worden steeds\n"
 	.string "sterker.\p"
 	.string "Ik wil graag weer met je vechten.\p"
-	.string "Ik kijk naar je uit bij\n"
+	.string "Ik wacht op je bij\n"
 	.string "{STR_VAR_2}. Tot zo!$"
 
 MatchCall_DifferentRouteBattleRequestText6::
