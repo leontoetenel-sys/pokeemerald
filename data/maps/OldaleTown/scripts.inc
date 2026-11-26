@@ -329,58 +329,58 @@ OldaleTown_Movement_ReturnToOriginalPosition:
 	step_end
 
 OldaleTown_Text_SavingMyProgress:
-	.string "I want to take a rest, so I'm saving my\n"
-	.string "progress.$"
+	.string "Ik wil even uitrusten, dus ik\n"
+	.string "sla mijn voortgang op.$"
 
 OldaleTown_Text_IWorkAtPokemonMart:
-	.string "Hi!\n"
-	.string "I work at a POKéMON MART.\p"
-	.string "Can I get you to come with me?$"
+	.string "Hoi! Ik werk bij de Pokémon Mart.\p"
+	.string "Wil je even met me meekomen?$"
 
 OldaleTown_Text_ThisIsAPokemonMart:
-	.string "This is a POKéMON MART.\n"
-	.string "Just look for our blue roof.\p"
-	.string "We sell a variety of goods including\n"
-	.string "POKé BALLS for catching POKéMON.\p"
-	.string "Here, I'd like you to have this as\n"
-	.string "a promotional item.$"
+	.string "Dit is een Pokémon Mart.\n"
+	.string "Herkenbaar aan het blauwe dak.\p"
+	.string "We verkopen allerlei spullen,\n"
+	.string "zoals POKé BALLS om Pokémon\l"
+	.string "te vangen.\p"
+	.string "Hier, je krijgt een gratis\n"
+	.string "cadeautje van de winkel!$"
 
 OldaleTown_Text_PotionExplanation:
-	.string "A POTION can be used anytime, so it's\n"
-	.string "even more useful than a POKéMON CENTER\l"
-	.string "in certain situations.$"
+	.string "Een POTION kun je altijd gebruiken.\p"
+	.string "Soms is dat zelfs handiger\n"
+	.string "dan een Pokémon Center!$"
 
 OldaleTown_Text_WaitDontComeInHere:
-	.string "Aaaaah! Wait!\n"
-	.string "Please don't come in here.\p"
-	.string "I just discovered the footprints of\n"
-	.string "a rare POKéMON!\p"
-	.string "Wait until I finish sketching\n"
-	.string "them, okay?$"
+	.string "Aaaaah! Wacht!\n"
+	.string "Kom hier alsjeblieft niet langs.\p"
+	.string "Ik heb net voetsporen van een\n"
+	.string "zeldzame Pokémon ontdekt!\p"
+	.string "Wacht even tot ik klaar ben\n"
+	.string "met tekenen, goed?$"
 
 OldaleTown_Text_DiscoveredFootprints:
-	.string "I just discovered the footprints of\n"
-	.string "a rare POKéMON!\p"
-	.string "Wait until I finish sketching\n"
-	.string "them, okay?$"
+	.string "Ik heb voetsporen van een\n"
+	.string "zeldzame Pokémon ontdekt!\p"
+	.string "Wacht even tot ik klaar ben\n"
+	.string "met tekenen, goed?$"
 
 OldaleTown_Text_FinishedSketchingFootprints:
-	.string "I finished sketching the footprints of\n"
-	.string "a rare POKéMON.\p"
-	.string "But it turns out they were only my\n"
-	.string "own footprints…$"
+	.string "Ik ben klaar met het tekenen\n"
+	.string "van de zeldzame voetsporen.\p"
+	.string "Maar het waren gewoon\n"
+	.string "mijn eigen voetsporen...$"
 
 OldaleTown_Text_MayLetsGoBack:
-	.string "MAY: {PLAYER}{KUN}!\n"
-	.string "Over here!\l"
-	.string "Let's hurry home!$"
+	.string "MAY: {PLAYER}!\n"
+	.string "Hierzo!\l"
+	.string "Laten we snel naar huis gaan!$"
 
 OldaleTown_Text_BrendanLetsGoBack:
-	.string "BRENDAN: I'm heading back to my dad's\n"
-	.string "LAB now.\l"
-	.string "{PLAYER}, you should hustle back, too.$"
+	.string "BRENDAN: Ik ga terug naar\n"
+	.string "het lab van mijn vader.\p"
+	.string "{PLAYER}, kom ook snel terug!$"
 
 OldaleTown_Text_TownSign:
 	.string "OLDALE TOWN\n"
-	.string "“Where things start off scarce.”$"
+	.string "Waar alles klein begint.$"
 
