@@ -79,66 +79,62 @@ RustboroCity_DevonCorp_1F_EventScript_ProductsDisplay::
 	end
 
 RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp:
-	.string "Hello and welcome to the DEVON\n"
-	.string "CORPORATION.\p"
-	.string "We're proud producers of items and\n"
-	.string "medicine that enhance your life.$"
+	.string "Hallo en welkom bij DEVON\n"
+	.string "CORPORATION!\p"
+	.string "Wij maken handige items en\n"
+	.string "medicijnen die je leven verbeteren.$"
 
 RustboroCity_DevonCorp_1F_Text_StaffGotRobbed:
-	.string "One of our research staff stupidly\n"
-	.string "got robbed of an important parcel.$"
+	.string "Een van onze onderzoekers is\n"
+	.string "beroofd van een belangrijk pakket.$"
 
 RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct:
-	.string "Hey, those RUNNING SHOES!\n"
-	.string "They're one of our products!\p"
-	.string "It makes me happy when I see someone\n"
-	.string "using something we made.$"
+	.string "He, die RUNNING SHOES!\n"
+	.string "Die hebben wij gemaakt!\p"
+	.string "Ik word blij als iemand iets\n"
+	.string "gebruikt dat wij hebben gemaakt.$"
 
 RustboroCity_DevonCorp_1F_Text_RobberWasntVeryBright:
-	.string "That stolen parcel…\p"
-	.string "Well, sure it's important, but it's not\n"
-	.string "anything that anyone can use.\p"
-	.string "In my estimation, that robber must not\n"
-	.string "have been very bright.$"
+	.string "Dat gestolen pakket...\p"
+	.string "Het is belangrijk, maar niet\n"
+	.string "iedereen kan er iets mee.\p"
+	.string "Die dief was volgens mij\n"
+	.string "niet zo slim.$"
 
 RustboroCity_DevonCorp_1F_Text_SoundsLikeStolenGoodsRecovered:
-	.string "It sounds like they've recovered\n"
-	.string "the ripped-off DEVON GOODS.$"
+	.string "Ik hoor dat de gestolen\n"
+	.string "DEVON GOODS weer terecht zijn.$"
 
 RustboroCity_DevonCorp_1F_Text_OnlyAuthorizedPeopleEnter:
-	.string "I'm sorry, only authorized people\n"
-	.string "are allowed to enter here.$"
+	.string "Sorry, je mag hier alleen naar\n"
+	.string "binnen met toestemming.$"
 
 RustboroCity_DevonCorp_1F_Text_HowCouldWeGetRobbed:
-	.string "It's beyond stupid.\n"
-	.string "How could we get robbed?$"
+	.string "Hoe konden we ons nou laten\n"
+	.string "beroven? Wat stom!$"
 
 RustboroCity_DevonCorp_1F_Text_YoureAlwaysWelcomeHere:
-	.string "Hi, there!\n"
-	.string "You're always welcome here!$"
+	.string "Hallo!\n"
+	.string "Jij bent hier altijd welkom!$"
 
 RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay:
-	.string "Samples of rocks and metal are\n"
-	.string "displayed in the glass case.\p"
-	.string "There's a panel with some writing\n"
-	.string "on it…\p"
-	.string "“DEVON CORPORATION got its start as\n"
-	.string "a producer of stones from quarries.\p"
-	.string "“The company also produced iron from\n"
-	.string "filings in the sand.\p"
-	.string "“From that humble start as a producer\n"
-	.string "of raw materials, DEVON developed.\p"
-	.string "“DEVON is now a manufacturer of a wide\n"
-	.string "range of industrial products.”$"
+	.string "In de glazen kast liggen\n"
+	.string "stenen en stukjes metaal.\p"
+	.string "Op een bordje staat: DEVON begon\n"
+	.string "met het winnen van stenen.\p"
+	.string "Het bedrijf haalde ook ijzer\n"
+	.string "uit zand.\p"
+	.string "Zo groeide DEVON van een klein\n"
+	.string "bedrijf tot een grote fabrikant.\p"
+	.string "Nu maakt DEVON allerlei\n"
+	.string "producten voor de industrie.$"
 
 RustboroCity_DevonCorp_1F_Text_ProductDisplay:
-	.string "Prototypes and test products fill\n"
-	.string "the glass display case.\p"
-	.string "There's a panel with a description…\p"
-	.string "“In addition to industrial products,\n"
-	.string "DEVON now markets sundries and\l"
-	.string "pharmaceuticals for better lifestyles.\p"
-	.string "“Recently, DEVON has begun marketing\n"
-	.string "tools for POKéMON TRAINERS, including\l"
-	.string "POKé BALLS and POKéNAV systems.”$"
+	.string "In de glazen kast staan\n"
+	.string "nieuwe uitvindingen.\p"
+	.string "Op een bordje staat: DEVON maakt\n"
+	.string "ook handige spullen en medicijnen.\p"
+	.string "Sinds kort maakt DEVON ook\n"
+	.string "spullen voor Pokémon-trainers.\p"
+	.string "Zoals POKé BALLS en de POKéNAV.$"
 
