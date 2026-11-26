@@ -254,37 +254,35 @@ Route101_Text_HelpMe:
 	.string "H-help me!$"
 
 Route101_Text_PleaseHelp:
-	.string "Hello! You over there!\n"
-	.string "Please! Help!\p"
-	.string "In my BAG!\n"
-	.string "There's a POKé BALL!$"
+	.string "Hallo! Jij daar!\n"
+	.string "Help me, alsjeblieft!\p"
+	.string "In mijn TAS zit een POKé BALL!$"
 
 Route101_Text_DontLeaveMe:
-	.string "Wh-Where are you going?!\n"
-	.string "Don't leave me like this!$"
+	.string "W-waar ga je heen?!\n"
+	.string "Laat me niet alleen!$"
 
 Route101_Text_YouSavedMe:
-	.string "PROF. BIRCH: Whew…\p"
-	.string "I was in the tall grass studying wild\n"
-	.string "POKéMON when I was jumped.\p"
-	.string "You saved me.\n"
-	.string "Thanks a lot!\p"
-	.string "Oh?\p"
-	.string "Hi, you're {PLAYER}{KUN}!\p"
-	.string "This is not the place to chat, so come\n"
-	.string "by my POKéMON LAB later, okay?$"
+	.string "PROF. BIRCH: Pfoe...\p"
+	.string "Ik onderzocht wilde Pokémon\n"
+	.string "in het hoge gras.\p"
+	.string "Opeens werd ik aangevallen!\n"
+	.string "Je hebt me gered. Bedankt!\p"
+	.string "Hé, jij bent {PLAYER}!\p"
+	.string "Dit is geen plek om te praten.\n"
+	.string "Kom straks naar mijn lab, goed?$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
-	.string "If POKéMON get tired, take them to\n"
-	.string "a POKéMON CENTER.\p"
-	.string "There's a POKéMON CENTER in OLDALE\n"
-	.string "TOWN right close by.$"
+	.string "Als je Pokémon moe zijn, breng\n"
+	.string "ze dan naar een Pokémon Center.\p"
+	.string "In OLDALE TOWN is er eentje\n"
+	.string "vlakbij.$"
 
 Route101_Text_WildPokemonInTallGrass:
-	.string "Wild POKéMON will jump out at you in\n"
-	.string "tall grass.\p"
-	.string "If you want to catch POKéMON, you have\n"
-	.string "to go into the tall grass and search.$"
+	.string "Wilde Pokémon springen tevoorschijn\n"
+	.string "in het hoge gras.\p"
+	.string "Wil je Pokémon vangen?\n"
+	.string "Ga dan in het gras op zoek!$"
 
 Route101_Text_RouteSign:
 	.string "ROUTE 101\n"

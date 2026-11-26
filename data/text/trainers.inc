@@ -1,73 +1,77 @@
 Route102_Text_CalvinIntro:
-	.string "If you have POKéMON with you, then\n"
-	.string "you're an official POKéMON TRAINER!\l"
-	.string "You can't say no to my challenge!$"
+	.string "Als je Pokémon bij je hebt,\n"
+	.string "ben je een echte Pokémon-trainer!\p"
+	.string "Je kunt mijn uitdaging niet\n"
+	.string "weigeren!$"
 
 Route102_Text_CalvinDefeated:
-	.string "Arrgh, I lost…\n"
-	.string "I should have trained mine more…$"
+	.string "Argh, ik heb verloren...\n"
+	.string "Ik had meer moeten trainen.$"
 
 Route102_Text_CalvinPostBattle:
-	.string "Listen, you. If you're strong,\n"
-	.string "you should have told me before!$"
+	.string "Hé, als je zo sterk bent,\n"
+	.string "had je dat wel mogen zeggen!$"
 
 Route102_Text_CalvinRegister:
-	.string "I've been working hard at this since\n"
-	.string "I saw you before.\p"
-	.string "I'd like to battle you again, so can\n"
-	.string "you register me in your POKéNAV?$"
+	.string "Sinds ons vorige duel heb ik\n"
+	.string "heel hard getraind.\p"
+	.string "Ik wil nog eens tegen je vechten.\n"
+	.string "Zet je me in je POKéNAV?$"
 
 Route102_Text_CalvinRegisterShort:
-	.string "I'd like to battle you again, so can\n"
-	.string "you register me in your POKéNAV?$"
+	.string "Ik wil nog eens tegen je vechten.\n"
+	.string "Zet je me in je POKéNAV?$"
 
 Route102_Text_CalvinRematchIntro:
-	.string "Ever since I lost to you, I desperately\n"
-	.string "trained my POKéMON.\l"
-	.string "You can't say no to my challenge!$"
+	.string "Sinds ik van je verloor, heb ik\n"
+	.string "heel hard getraind!\p"
+	.string "Je kunt mijn uitdaging niet\n"
+	.string "weigeren!$"
 
 Route102_Text_CalvinRematchDefeated:
-	.string "Arrgh, I lost…\n"
-	.string "Is my training method not right?$"
+	.string "Argh, alweer verloren...\n"
+	.string "Train ik soms verkeerd?$"
 
 Route102_Text_CalvinRematchPostBattle:
-	.string "If you're going to get stronger,\n"
-	.string "I'll get stronger, too.$"
+	.string "Als jij sterker wordt,\n"
+	.string "word ik ook sterker!$"
 
 Route102_Text_AllenIntro:
-	.string "Did you just become a TRAINER?\n"
-	.string "We're both beginners!$"
+	.string "Ben je net trainer geworden?\n"
+	.string "Dan zijn we allebei beginners!$"
 
 Route102_Text_AllenDefeated:
-	.string "I called you because I thought\n"
-	.string "I could beat you…$"
+	.string "Ik daagde je uit omdat ik dacht\n"
+	.string "dat ik van je kon winnen...$"
 
 Route102_Text_AllenPostBattle:
-	.string "I haven't won once yet…\n"
-	.string "I wish I would win soon…$"
+	.string "Ik heb nog geen duel gewonnen...\n"
+	.string "Hopelijk lukt het snel!$"
 
 Route102_Text_RickIntro:
-	.string "Hahah! Our eyes met!\n"
-	.string "I'll take you on with my BUG POKéMON!$"
+	.string "Haha! Onze blikken kruisten!\p"
+	.string "Mijn BUG-type Pokémon nemen\n"
+	.string "het tegen je op!$"
 
 Route102_Text_RickDefeated:
-	.string "Ow! Down and out!$"
+	.string "Au! Helemaal verslagen!$"
 
 Route102_Text_RickPostBattle:
-	.string "If you lock eyes with a TRAINER,\n"
-	.string "you have to challenge! It's a rule!$"
+	.string "Als twee trainers elkaar aankijken,\n"
+	.string "moeten ze vechten. Dat is de regel!$"
 
 Route102_Text_TianaIntro:
-	.string "I'm going to keep winning and aim\n"
-	.string "to be the best TRAINER.\p"
-	.string "Help me further my career!$"
+	.string "Ik blijf winnen tot ik de beste\n"
+	.string "trainer ben!\p"
+	.string "Help jij me op weg naar de top?$"
 
 Route102_Text_TianaDefeated:
-	.string "I ended up furthering your career…$"
+	.string "Nu heb ik jou juist geholpen\n"
+	.string "om beter te worden...$"
 
 Route102_Text_TianaPostBattle:
-	.string "To keep winning my way up, I see that\n"
-	.string "I have to catch more POKéMON.$"
+	.string "Om te blijven winnen moet ik\n"
+	.string "meer Pokémon vangen.$"
 
 Route103_Text_DaisyIntro:
 	.string "Voelde je ook hoe rustig je\n"
