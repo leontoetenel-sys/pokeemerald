@@ -63,41 +63,42 @@ VerdanturfTown_FriendshipRatersHouse_EventScript_Pikachu::
 	end
 
 VerdanturfTown_FriendshipRatersHouse_Text_SeeHowMuchPokemonLikesYou:
-	.string "Let me see your POKéMON.\n"
-	.string "I'll check to see how much it likes you.\p"
-	.string "Oh.\n"
-	.string "Your POKéMON…$"
+	.string "Laat je Pokémon eens zien.\n"
+	.string "Ik kijk hoe lief hij je vindt.\p"
+	.string "O...\n"
+	.string "Jouw Pokémon...$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_AdoresYou:
-	.string "It adores you.\n"
-	.string "It can't possibly love you any more.\l"
-	.string "I even feel happy seeing it.$"
+	.string "Hij is dol op je!\n"
+	.string "Hij kan onmogelijk nog meer\l"
+	.string "van je houden.\p"
+	.string "Ik word er zelf ook blij van!$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_VeryHappy:
-	.string "It seems to be very happy.\n"
-	.string "It obviously likes you a whole lot.$"
+	.string "Hij lijkt heel gelukkig.\n"
+	.string "Hij is duidelijk heel dol op je!$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_LikesYouQuiteALot:
-	.string "It likes you quite a lot.\n"
-	.string "It seems to want to be babied a little.$"
+	.string "Hij vindt je erg lief.\n"
+	.string "Hij wil graag wat extra aandacht.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_GettingUsedToYou:
-	.string "It's getting used to you.\n"
-	.string "It seems to believe in you.$"
+	.string "Hij begint aan je te wennen.\n"
+	.string "Hij lijkt je te vertrouwen.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_NotUsedToYou:
-	.string "It's not very used to you yet.\n"
-	.string "It neither loves nor hates you.$"
+	.string "Hij is nog niet echt aan je gewend.\n"
+	.string "Hij vindt je niet lief of vervelend.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_VeryWary:
-	.string "It's very wary.\n"
-	.string "It has scary viciousness in its eyes.\l"
-	.string "It doesn't like you much at all.$"
+	.string "Hij vertrouwt je nog niet.\n"
+	.string "Hij kijkt zelfs een beetje boos.\p"
+	.string "Hij vindt je nog niet zo lief.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_DetestsYou:
-	.string "This is a little hard for me to say…\p"
-	.string "Your POKéMON simply detests you.\n"
-	.string "Doesn't that make you uncomfortable?$"
+	.string "Dit vind ik moeilijk om te zeggen...\p"
+	.string "Je Pokémon heeft echt een hekel\n"
+	.string "aan je. Vind je dat niet naar?$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_Pikachu:
 	.string "PIKACHU: Pika pika!$"
