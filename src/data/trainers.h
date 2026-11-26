@@ -4014,11 +4014,11 @@ const struct Trainer gTrainers[] = {
         .trainerClass = TRAINER_CLASS_YOUNGSTER,
         .encounterMusic_gender = TRAINER_ENCOUNTER_MUSIC_MALE,
         .trainerPic = TRAINER_PIC_YOUNGSTER,
-        .trainerName = _("TIMMY"),
+        .trainerName = _("LEON"),
         .items = {},
         .doubleBattle = FALSE,
         .aiFlags = AI_SCRIPT_CHECK_BAD_MOVE,
-        .party = NO_ITEM_DEFAULT_MOVES(sParty_Timmy),
+        .party = ITEM_DEFAULT_MOVES(sParty_Timmy),
     },
 
     [TRAINER_WALLACE] =

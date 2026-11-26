@@ -4398,16 +4398,18 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Allen[] = {
     }
 };
 
-static const struct TrainerMonNoItemDefaultMoves sParty_Timmy[] = {
+static const struct TrainerMonItemDefaultMoves sParty_Timmy[] = {
     {
-    .iv = 0,
-    .lvl = 15,
-    .species = SPECIES_ARON,
+        .iv = 0,
+        .lvl = 16,
+        .species = SPECIES_RALTS,
+        .heldItem = ITEM_NONE
     },
     {
-    .iv = 0,
-    .lvl = 13,
-    .species = SPECIES_ELECTRIKE,
+        .iv = 0,
+        .lvl = 18,
+        .species = SPECIES_LARVITAR,
+        .heldItem = ITEM_ORAN_BERRY
     }
 };
 
