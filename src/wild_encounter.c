@@ -526,8 +526,8 @@ static bool8 TryGenerateWildMon(const struct WildPokemonInfo *wildMonInfo, u8 ar
     return TRUE;
 }
 
-static const struct WildPokemon sRoute115SuperRodDratini = {15, 20, SPECIES_DRATINI};
-static const struct WildPokemon sRoute115SuperRodLapras = {20, 25, SPECIES_LAPRAS};
+static const struct WildPokemon sSuperRodDratini = {15, 20, SPECIES_DRATINI};
+static const struct WildPokemon sSuperRodLapras = {20, 25, SPECIES_LAPRAS};
 
 static u16 GenerateFishingWildMon(const struct WildPokemonInfo *wildMonInfo, u8 rod)
 {
@@ -551,18 +551,45 @@ static u16 GenerateFishingWildMon(const struct WildPokemonInfo *wildMonInfo, u8 
         }
     }
 
+    if (headerId == 28 || headerId == 29 || headerId == 30)
+    {
+        roll = Random() % 100;
+        if (rod == OLD_ROD || rod == GOOD_ROD)
+        {
+            if (roll < 10)
+                species = SPECIES_KRABBY;
+            else if (roll < 20)
+                species = SPECIES_SEEL;
+            else if (roll < 30)
+                species = SPECIES_MANTINE;
+        }
+        else if (rod == SUPER_ROD)
+        {
+            if (roll < 2)
+            {
+                species = sSuperRodDratini.species;
+                level = ChooseWildMonLevel(&sSuperRodDratini);
+            }
+            else if (roll < 4)
+            {
+                species = sSuperRodLapras.species;
+                level = ChooseWildMonLevel(&sSuperRodLapras);
+            }
+        }
+    }
+
     if (headerId == 31 && rod == SUPER_ROD)
     {
         roll = Random() % 100;
         if (roll < 10)
         {
-            species = sRoute115SuperRodDratini.species;
-            level = ChooseWildMonLevel(&sRoute115SuperRodDratini);
+            species = sSuperRodDratini.species;
+            level = ChooseWildMonLevel(&sSuperRodDratini);
         }
         else if (roll < 20)
         {
-            species = sRoute115SuperRodLapras.species;
-            level = ChooseWildMonLevel(&sRoute115SuperRodLapras);
+            species = sSuperRodLapras.species;
+            level = ChooseWildMonLevel(&sSuperRodLapras);
         }
     }
 
