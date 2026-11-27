@@ -28,44 +28,44 @@ Route110_TrickHousePuzzle8_EventScript_Leroy::
 	end
 
 Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER I love.”\n"
-	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "{PLAYER} schreef de geheime\n"
+	.string "code op de deur.\p"
+	.string "“Ik hou van TRICK MASTER.”\n"
+	.string "... ... ... ... ... ...\p"
+	.string "Het slot klikte open!$"
 
 Route110_TrickHousePuzzle8_Text_VincentIntro:
-	.string "Not many TRAINERS have made it\n"
-	.string "this far.$"
+	.string "Er zijn niet veel TRAINERS\n"
+	.string "die zo ver zijn gekomen.$"
 
 Route110_TrickHousePuzzle8_Text_VincentDefeat:
-	.string "That must mean you're tough, too…$"
+	.string "Dan ben jij vast ook sterk...$"
 
 Route110_TrickHousePuzzle8_Text_VincentPostBattle:
-	.string "You've beaten the POKéMON LEAGUE\n"
-	.string "CHAMPION? That's too much!$"
+	.string "Heb jij de CHAMPION van de\n"
+	.string "POKéMON LEAGUE verslagen? Wauw!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraIntro:
-	.string "Consider yourself lucky to be\n"
-	.string "battling me!$"
+	.string "Je mag blij zijn dat je\n"
+	.string "tegen mij mag vechten!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraDefeat:
-	.string "This isn't right!\n"
-	.string "I can't lose!$"
+	.string "Dat kan niet!\n"
+	.string "Ik kan niet verliezen!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraPostBattle:
-	.string "It's a miracle that you beat me.\n"
-	.string "You can brag about it.$"
+	.string "Het is een wonder dat je won.\n"
+	.string "Daar mag je over opscheppen.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyIntro:
-	.string "You've been slugging through the TRICK\n"
-	.string "HOUSE challenge, too.$"
+	.string "Jij werkt je ook door het\n"
+	.string "TRICK HOUSE heen.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyDefeat:
-	.string "I see…\n"
-	.string "You possess an extraordinary style.$"
+	.string "Ik zie het...\n"
+	.string "Jij hebt een bijzondere stijl.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyPostBattle:
-	.string "Seeing someone like you should please\n"
-	.string "the TRICK MASTER.$"
+	.string "De TRICK MASTER zal blij zijn\n"
+	.string "met iemand zoals jij.$"
 
