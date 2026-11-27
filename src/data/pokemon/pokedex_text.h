@@ -1055,304 +1055,304 @@ const u8 gTogepiPokedexText[] = _(
     "gevoelens in zijn schaal en deelt ze uit.");
 
 const u8 gTogeticPokedexText[] = _(
-    "It is said to be a POKéMON that brings good\n"
-    "fortune. When it spots someone who is pure\n"
-    "of heart, a TOGETIC appears and shares its\n"
-    "happiness with that person.");
+    "TOGETIC zou geluk brengen.\n"
+    "Ziet hij iemand met een goed\n"
+    "hart, dan verschijnt hij om\n"
+    "zijn blijdschap te delen.");
 
 const u8 gNatuPokedexText[] = _(
-    "It runs up short trees that grow on the\n"
-    "savanna to peck at new shoots.\n"
-    "A NATU's eyes look as if they are\n"
-    "always observing something.");
+    "Op de savanne rent NATU tegen\n"
+    "lage bomen op. Hij pikt er\n"
+    "jonge scheuten uit. Zijn ogen\n"
+    "lijken altijd iets te volgen.");
 
 const u8 gXatuPokedexText[] = _(
-    "It has the enigmatic power of foreseeing\n"
-    "the future. Some people in different lands\n"
-    "have long believed that XATU are\n"
-    "emissaries from another world.");
+    "XATU kan de toekomst zien.\n"
+    "In sommige landen gelooft men\n"
+    "al lang dat hij een boodschapper\n"
+    "uit een andere wereld is.");
 
 const u8 gMareepPokedexText[] = _(
-    "Its fluffy wool rubs together and builds\n"
-    "a static charge. The more energy is\n"
-    "charged, the more brightly the lightbulb\n"
-    "at the tip of its tail glows.");
+    "Als de wol van MAREEP langs\n"
+    "elkaar wrijft, bouwt die stroom\n"
+    "op. Hoe meer stroom, hoe feller\n"
+    "het lampje aan zijn staart schijnt.");
 
 const u8 gFlaaffyPokedexText[] = _(
-    "Its fleece quality changes to generate\n"
-    "strong static electricity with a small\n"
-    "amount of wool. The bare, slick parts of its\n"
-    "hide are shielded against electricity.");
+    "De wol van FLAAFFY wekt met\n"
+    "een klein plukje al veel\n"
+    "statische stroom op. Zijn kale,\n"
+    "gladde huid is ertegen beschermd.");
 
 const u8 gAmpharosPokedexText[] = _(
-    "It gives off so much light that it can be\n"
-    "seen even from space. People in the old\n"
-    "days used its light to send signals back\n"
-    "and forth with others far away.");
+    "AMPHAROS geeft zoveel licht\n"
+    "dat je het zelfs vanuit de ruimte\n"
+    "kunt zien. Vroeger stuurden mensen\n"
+    "er signalen mee over grote afstand.");
 
 const u8 gBellossomPokedexText[] = _(
-    "Its flower petals deepen in color through\n"
-    "exposure to sunlight. When cloudy weather\n"
-    "persists, it does a dance that is thought\n"
-    "to be a ritual for summoning the sun.");
+    "In de zon krijgen de bloemen van\n"
+    "BELLOSSOM een diepere kleur. Blijft\n"
+    "het bewolkt, dan danst hij. Men\n"
+    "denkt dat hij zo de zon oproept.");
 
 const u8 gMarillPokedexText[] = _(
-    "Its body is covered with water-repellent\n"
-    "fur. Because of the fur, it can swim\n"
-    "through water at high speed without being\n"
-    "slowed by the water's resistance.");
+    "De vacht van MARILL stoot water\n"
+    "af. Daardoor remt het water hem\n"
+    "bijna niet af en kan hij heel\n"
+    "snel zwemmen.");
 
 const u8 gAzumarillPokedexText[] = _(
-    "It lives in water virtually all day long.\n"
-    "Its body color and pattern act as\n"
-    "camouflage that makes it tough for\n"
-    "enemies to spot in water.");
+    "AZUMARILL zit bijna de hele dag\n"
+    "in het water. Door zijn kleur en\n"
+    "patroon valt hij daar bijna niet\n"
+    "op bij zijn vijanden.");
 
 const u8 gSudowoodoPokedexText[] = _(
-    "It mimics a tree to avoid being attacked\n"
-    "by enemies. But since its forelegs\n"
-    "remain green throughout the year, it is\n"
-    "easily identified as a fake in the winter.");
+    "SUDOWOODO doet alsof hij een boom\n"
+    "is, zodat vijanden hem met rust\n"
+    "laten. In de winter valt hij op\n"
+    "omdat zijn voorpoten groen blijven.");
 
 const u8 gPolitoedPokedexText[] = _(
-    "The curled hair on its head proves its\n"
-    "status as a king. It is said that the\n"
-    "longer and curlier the hair, the more\n"
-    "respect it earns from its peers.");
+    "De krul op het hoofd van POLITOED\n"
+    "laat zien dat hij koning is.\n"
+    "Hoe langer en krulleriger zijn haar,\n"
+    "hoe meer respect hij zou krijgen.");
 
 const u8 gHoppipPokedexText[] = _(
-    "This POKéMON drifts and floats with the\n"
-    "wind. If it senses the approach of strong\n"
-    "winds, a HOPPIP links leaves with others\n"
-    "to prepare against being blown away.");
+    "HOPPIP zweeft mee met de wind.\n"
+    "Voelt hij harde wind aankomen,\n"
+    "dan haakt hij zijn bladeren in\n"
+    "die van andere HOPPIP.");
 
 const u8 gSkiploomPokedexText[] = _(
-    "It blossoms when the temperature rises\n"
-    "above 64 degrees F. Because its flower's\n"
-    "blooming changes with the temperature,\n"
-    "it is sometimes used as a thermometer.");
+    "De bloem van SKIPLOOM gaat open\n"
+    "als het warmer wordt dan 18 graden.\n"
+    "Omdat de bloem op warmte reageert,\n"
+    "dient hij soms als thermometer.");
 
 const u8 gJumpluffPokedexText[] = _(
-    "JUMPLUFF ride warm southern winds to\n"
-    "cross the sea and fly to foreign lands.\n"
-    "This POKéMON lands when it encounters\n"
-    "cold air while it is floating.");
+    "JUMPLUFF drijft op warme wind\n"
+    "uit het zuiden. Zo steekt hij de\n"
+    "zee over naar verre landen. Komt\n"
+    "hij in koude lucht, dan landt hij.");
 
 const u8 gAipomPokedexText[] = _(
-    "Its tail ends with a dexterous, handlike\n"
-    "appendage. However, because it uses the\n"
-    "tail so much, AIPOM's real hands have\n"
-    "become rather clumsy.");
+    "Zijn staart eindigt in een soort\n"
+    "hand. AIPOM kan daar veel mee.\n"
+    "gebruikt die zo vaak dat zijn\n"
+    "echte handen onhandig zijn geworden.");
 
 const u8 gSunkernPokedexText[] = _(
-    "SUNKERN try to minimize movement to\n"
-    "conserve the nutrients they have stored\n"
-    "in their bodies for evolution. They will\n"
-    "not eat, subsisting only on morning dew.");
+    "SUNKERN beweegt zo min mogelijk.\n"
+    "Zo spaart hij zijn voeding voor\n"
+    "de evolutie. Hij eet niets en\n"
+    "leeft alleen van ochtenddauw.");
 
 const u8 gSunfloraPokedexText[] = _(
-    "SUNFLORA convert solar energy into\n"
-    "nutrition. They are highly active in the\n"
-    "warm daytime but suddenly stop moving as\n"
-    "soon as the sun sets.");
+    "SUNFLORA haalt voeding uit\n"
+    "zonlicht. Op warme dagen is\n"
+    "hij erg actief. Zodra de zon\n"
+    "ondergaat, staat hij stil.");
 
 const u8 gYanmaPokedexText[] = _(
-    "It can see 360 degrees without moving\n"
-    "its eyes. It is a great flier capable of\n"
-    "making sudden stops and turning midair to\n"
-    "quickly chase down targeted prey.");
+    "YANMA ziet alles om zich heen\n"
+    "zonder zijn ogen te bewegen.\n"
+    "In de lucht kan hij abrupt stoppen\n"
+    "of draaien om prooien te vangen.");
 
 const u8 gWooperPokedexText[] = _(
-    "WOOPER usually live in water but come\n"
-    "out onto land seeking food occasionally.\n"
-    "On land, they coat their bodies with a\n"
-    "gooey, toxic film.");
+    "WOOPER leeft meestal in het water.\n"
+    "Soms gaat hij aan land om eten\n"
+    "te zoeken. Daar bedekt hij zijn\n"
+    "lijf met een laag giftig slijm.");
 
 const u8 gQuagsirePokedexText[] = _(
-    "A QUAGSIRE hunts by leaving its mouth wide\n"
-    "open in water and waiting for its prey to\n"
-    "blunder in. Because it doesn't move, it\n"
-    "does not get very hungry.");
+    "QUAGSIRE ligt in het water met\n"
+    "zijn bek wijd open tot er een\n"
+    "prooi in zwemt. Hij beweegt zo\n"
+    "weinig dat hij amper honger krijgt.");
 
 const u8 gEspeonPokedexText[] = _(
-    "An ESPEON is extremely loyal to any\n"
-    "TRAINER it considers to be worthy. It is\n"
-    "said to have developed precognitive\n"
-    "powers to protect its TRAINER from harm.");
+    "ESPEON blijft trouw aan een\n"
+    "TRAINER die hij waardig vindt.\n"
+    "Hij zou de toekomst leren zien\n"
+    "om zijn TRAINER te beschermen.");
 
 const u8 gUmbreonPokedexText[] = _(
-    "UMBREON evolved from exposure to the\n"
-    "moon's energy pulses. It lurks in darkness\n"
-    "and waits for its foes to move. The rings\n"
-    "on its body glow when it leaps to attack.");
+    "UMBREON evolueerde door energie\n"
+    "van de maan. In het donker wacht\n"
+    "hij tot zijn vijand beweegt. Zijn\n"
+    "ringen gloeien als hij toespringt.");
 
 const u8 gMurkrowPokedexText[] = _(
-    "MURKROW were feared as the alleged\n"
-    "bearers of ill fortune. It shows strong\n"
-    "interest in anything that sparkles. It will\n"
-    "even try to steal rings from women.");
+    "Men vreesde dat MURKROW ongeluk\n"
+    "bracht. Alles wat glimt trekt hem\n"
+    "aan. Hij probeert zelfs ringen\n"
+    "van vrouwen te stelen.");
 
 const u8 gSlowkingPokedexText[] = _(
-    "It undertakes research every day to\n"
-    "solve the mysteries of the world.\n"
-    "However, it apparently forgets everything\n"
-    "if the SHELLDER on its head comes off.");
+    "SLOWKING doet elke dag onderzoek\n"
+    "naar de raadsels van de wereld.\n"
+    "Valt de SHELLDER van zijn kop,\n"
+    "dan zou hij alles weer vergeten.");
 
 const u8 gMisdreavusPokedexText[] = _(
-    "A MISDREAVUS frightens people with a\n"
-    "creepy, sobbing cry. It apparently uses\n"
-    "its red spheres to absorb the fear of foes\n"
-    "as its nutrition.");
+    "MISDREAVUS jaagt mensen schrik\n"
+    "aan met zijn enge gesnik. Met\n"
+    "zijn rode bollen zou hij angst\n"
+    "opzuigen om zich ermee te voeden.");
 
 const u8 gUnownPokedexText[] = _(
-    "This POKéMON is shaped like ancient text\n"
-    "characters. Although research is ongoing,\n"
-    "it is a mystery as to which came first,\n"
-    "the ancient writings or the various UNOWN.");
+    "UNOWN lijken op oude letters.\n"
+    "Onderzoekers weten nog altijd\n"
+    "niet wat er eerst was: UNOWN\n"
+    "of de oude tekens.");
 
 const u8 gWobbuffetPokedexText[] = _(
-    "Usually docile, a WOBBUFFET strikes back\n"
-    "ferociously if its black tail is attacked.\n"
-    "It makes its lair in caves where it waits\n"
-    "for nightfall.");
+    "WOBBUFFET is meestal rustig.\n"
+    "Raakt iemand zijn zwarte staart\n"
+    "met een aanval, dan slaat hij fel\n"
+    "terug. Hij wacht in een grot op de nacht.");
 
 const u8 gGirafarigPokedexText[] = _(
-    "A GIRAFARIG is an herbivore--it eats\n"
-    "grass and tree shoots. While it is eating,\n"
-    "its tail makes chewing and swallowing\n"
-    "motions as if it were also eating.");
+    "GIRAFARIG eet gras en jonge\n"
+    "scheuten. Terwijl hij eet, maakt\n"
+    "zijn staart kauw- en slikbewegingen\n"
+    "alsof die ook aan het eten is.");
 
 const u8 gPinecoPokedexText[] = _(
-    "A PINECO hangs from a tree branch and\n"
-    "waits for prey. While eating, if it is\n"
-    "disturbed by someone shaking its tree, it\n"
-    "falls on the ground and suddenly explodes.");
+    "PINECO hangt aan een tak en wacht\n"
+    "op prooi. Schudt iemand aan de\n"
+    "boom terwijl hij eet, dan valt\n"
+    "hij op de grond en ontploft.");
 
 const u8 gForretressPokedexText[] = _(
-    "It keeps itself inside its steel shell.\n"
-    "The shell is opened when it is catching\n"
-    "prey, but it is so quick that the shell's\n"
-    "inside cannot be seen.");
+    "FORRETRESS zit in een stalen\n"
+    "pantser. Om prooi te vangen doet\n"
+    "hij het even open. Dat gaat zo\n"
+    "snel dat je de binnenkant nooit ziet.");
 
 const u8 gDunsparcePokedexText[] = _(
-    "Its drill-tipped tail is used to burrow into\n"
-    "the ground backwards. This POKéMON is\n"
-    "known to make its nest in complex shapes\n"
-    "deep under the ground.");
+    "DUNSPARCE graaft achteruit met\n"
+    "de boor aan zijn staart. Diep\n"
+    "onder de grond maakt hij zijn\n"
+    "nest in een doolhof van gangen.");
 
 const u8 gGligarPokedexText[] = _(
-    "It glides without making a single sound.\n"
-    "It grasps the face of its foe using its\n"
-    "hind and large front claws, then stabs\n"
-    "with its poison barb.");
+    "GLIGAR zweeft zonder geluid.\n"
+    "Met zijn achterpoten en grote\n"
+    "klauwen grijpt hij de kop van zijn\n"
+    "vijand. Dan steekt hij met gif.");
 
 const u8 gSteelixPokedexText[] = _(
-    "STEELIX live even further underground\n"
-    "than ONIX. This POKéMON is known to dig\n"
-    "toward the earth's core, reaching a depth\n"
-    "of over six-tenths of a mile underground.");
+    "STEELIX leeft dieper onder de\n"
+    "grond dan ONIX. Hij graaft in\n"
+    "de richting van het middelpunt\n"
+    "van de aarde, ruim een kilometer diep.");
 
 const u8 gSnubbullPokedexText[] = _(
-    "By baring its fangs and making a scary\n"
-    "face, it sends smaller POKéMON scurrying\n"
-    "in terror. The SNUBBULL does seem a\n"
-    "little sad at making its foes flee.");
+    "SNUBBULL trekt een eng gezicht\n"
+    "en laat zijn tanden zien. Kleine\n"
+    "POKéMON vluchten dan bang weg.\n"
+    "Daar lijkt hij zelf verdrietig om.");
 
 const u8 gGranbullPokedexText[] = _(
-    "It has a particularly well-developed lower\n"
-    "jaw. The huge fangs are heavy, causing\n"
-    "it to tilt its head. Unless it is startled, it\n"
-    "will not try to bite.");
+    "GRANBULL heeft een sterke\n"
+    "onderkaak. Zijn grote tanden\n"
+    "zijn zo zwaar dat zijn kop scheef\n"
+    "hangt. Hij bijt alleen als hij schrikt.");
 
 const u8 gQwilfishPokedexText[] = _(
-    "A QWILFISH uses the pressure of water\n"
-    "it swallows to shoot toxic quills all at\n"
-    "once from all over its body. It finds\n"
-    "swimming to be somewhat challenging.");
+    "QWILFISH slikt water in. Met\n"
+    "de waterdruk schiet hij overal\n"
+    "tegelijk gifstekels uit zijn lijf.\n"
+    "Zwemmen gaat hem wat lastig af.");
 
 const u8 gScizorPokedexText[] = _(
-    "A SCIZOR has a body with the hardness of\n"
-    "steel. It is not easily fazed by ordinary\n"
-    "sorts of attacks. It flaps its wings to\n"
-    "regulate its body temperature.");
+    "SCIZOR heeft een lijf zo hard\n"
+    "als staal. Gewone aanvallen\n"
+    "doen hem weinig. Met zijn vleugels\n"
+    "houdt hij zijn lijf op temperatuur.");
 
 const u8 gShucklePokedexText[] = _(
-    "A SHUCKLE hides under rocks, keeping its\n"
-    "body concealed inside its shell while\n"
-    "eating stored berries. The berries mix with\n"
-    "its body fluids to become a juice.");
+    "SHUCKLE schuilt onder stenen.\n"
+    "In zijn schild eet hij bessen\n"
+    "die hij heeft bewaard. De bessen\n"
+    "worden met zijn lichaamsvocht sap.");
 
 const u8 gHeracrossPokedexText[] = _(
-    "They gather in forests seeking the sweet\n"
-    "sap of trees. It is completely clad in a\n"
-    "steel-hard shell. It is proud of its horn,\n"
-    "which it uses to fling foes.");
+    "HERACROSS zoekt in bossen naar\n"
+    "zoet boomsap. Zijn hele lijf zit\n"
+    "in een pantser zo hard als staal.\n"
+    "Met zijn hoorn slingert hij vijanden weg.");
 
 const u8 gSneaselPokedexText[] = _(
-    "A SNEASEL scales trees by punching its\n"
-    "hooked claws into the bark. It seeks out\n"
-    "unguarded nests and steals eggs for food\n"
-    "while the parents are away.");
+    "SNEASEL klimt in bomen door\n"
+    "zijn klauwen in de schors te\n"
+    "slaan. Als de ouders weg zijn,\n"
+    "steelt hij eieren uit hun nesten.");
 
 const u8 gTeddiursaPokedexText[] = _(
-    "It licks its palms that are sweetened by\n"
-    "being soaked in honey. A TEDDIURSA makes\n"
-    "its own honey by blending fruits and pollen\n"
-    "collected by BEEDRILL.");
+    "TEDDIURSA likt de zoete honing\n"
+    "van zijn poten. Hij maakt die\n"
+    "zelf van fruit en stuifmeel\n"
+    "dat BEEDRILL heeft verzameld.");
 
 const u8 gUrsaringPokedexText[] = _(
-    "In forests, it is said that there are many\n"
-    "streams and towering trees where an\n"
-    "URSARING gathers food. It walks through\n"
-    "its forest collecting food every day.");
+    "In bossen met hoge bomen en\n"
+    "veel beekjes zou URSARING zijn\n"
+    "voedsel vinden. Hij trekt er\n"
+    "elke dag op uit om eten te zoeken.");
 
 const u8 gSlugmaPokedexText[] = _(
-    "It is a species of POKéMON that lives in\n"
-    "volcanic areas. If its body cools, its skin\n"
-    "hardens and immobilizes it. To avoid that,\n"
-    "it sleeps near magma.");
+    "SLUGMA leeft bij vulkanen en\n"
+    "slaapt dicht bij magma. Koelt\n"
+    "zijn lijf af, dan wordt zijn huid\n"
+    "hard en kan hij zich niet bewegen.");
 
 const u8 gMagcargoPokedexText[] = _(
-    "The shell on its back is made of hardened\n"
-    "magma. Tens of thousands of years spent\n"
-    "living in volcanic craters have turned\n"
-    "MAGCARGO's bodies into magma.");
+    "Het schild van MAGCARGO bestaat\n"
+    "uit gestold magma. Na duizenden\n"
+    "jaren in vulkaankraters is ook\n"
+    "zijn lijf in magma veranderd.");
 
 const u8 gSwinubPokedexText[] = _(
-    "It roots for food by rubbing its snout\n"
-    "against the ground. Its favorite food is a\n"
-    "mushroom that grows under dried grass.\n"
-    "It occasionally roots out hot springs.");
+    "SWINUB snuffelt over de grond\n"
+    "naar eten. Hij is dol op een soort\n"
+    "paddenstoel onder droog gras.\n"
+    "Soms ontdekt hij zo een warme bron.");
 
 const u8 gPiloswinePokedexText[] = _(
-    "A PILOSWINE is covered by a thick coat\n"
-    "of long hair for enduring freezing cold.\n"
-    "It uses its tusks to dig up food that has\n"
-    "been buried under ice.");
+    "Met zijn dikke, lange vacht kan\n"
+    "PILOSWINE tegen strenge kou.\n"
+    "Met zijn slagtanden graaft hij\n"
+    "voedsel op dat onder ijs ligt.");
 
 const u8 gCorsolaPokedexText[] = _(
-    "CORSOLA live in warm southern seas.\n"
-    "If the sea becomes polluted, the beautiful\n"
-    "coral stalks become discolored and crumble\n"
-    "away in tatters.");
+    "CORSOLA leeft in warme zeeën\n"
+    "in het zuiden. Raakt het water\n"
+    "vervuild, dan verkleuren zijn\n"
+    "mooie koraaltakken en brokkelen af.");
 
 const u8 gRemoraidPokedexText[] = _(
-    "A REMORAID uses its abdominal muscles\n"
-    "to forcefully expel swallowed water, then\n"
-    "shoot down flying prey. When evolution\n"
-    "approaches, it travels down rivers.");
+    "Met zijn buikspieren spuit\n"
+    "REMORAID water uit zijn bek om\n"
+    "vliegende prooien te raken. Als\n"
+    "hij bijna evolueert, volgt hij de rivier.");
 
 const u8 gOctilleryPokedexText[] = _(
-    "It ensnares its foe with its suction-\n"
-    "cupped tentacles before delivering the\n"
-    "finishing blow. If the foe turns out to be\n"
-    "too strong, it spews ink to escape.");
+    "OCTILLERY grijpt zijn vijand met\n"
+    "de zuignappen aan zijn tentakels\n"
+    "en deelt de genadeklap uit. Is\n"
+    "die te sterk, dan vlucht hij met inkt.");
 
 const u8 gDelibirdPokedexText[] = _(
-    "It carries food bundled up in its tail.\n"
-    "There was a famous explorer who\n"
-    "managed to scale Mt. Everest thanks\n"
-    "to a DELIBIRD sharing its food.");
+    "DELIBIRD draagt eten in zijn\n"
+    "staart. Een beroemde reiziger\n"
+    "haalde ooit de top van de Everest\n"
+    "dankzij het eten van een DELIBIRD.");
 
 const u8 gMantinePokedexText[] = _(
     "On sunny days, schools of MANTINE can be\n"
