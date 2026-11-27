@@ -420,12 +420,12 @@ MtPyre_Summit_Text_Grunt1PostBattle:
 	.string "But there're a lot of us!$"
 
 MtPyre_Summit_Text_Grunt2Intro:
-	.string "Hah!\n"
-	.string "Too bad for you!\p"
-	.string "If you came earlier, you only would've\n"
-	.string "had to battle the wimpy TEAM MAGMA.\p"
-	.string "But since you arrived now, you have\n"
-	.string "to take on us toughies!$"
+	.string "Ha! Pech voor jou!\p"
+	.string "Als je eerder was gekomen,\n"
+	.string "had je alleen tegen dat slappe\l"
+	.string "TEAM MAGMA hoeven vechten.\p"
+	.string "We hebben wat verrassingen\n"
+	.string "gevonden in de berg!$"
 
 MtPyre_Summit_Text_Grunt2Defeat:
 	.string "Urgh… I should've let you take on\n"
@@ -436,10 +436,10 @@ MtPyre_Summit_Text_Grunt2PostBattle:
 	.string "So why are you messing with us?$"
 
 MtPyre_Summit_Text_Grunt3Intro:
-	.string "You…\n"
-	.string "We saw you at MT. CHIMNEY.\p"
-	.string "You don't belong to either TEAM,\n"
-	.string "so why would you be here?$"
+	.string "Jij...\p"
+	.string "Ik heb dan wel geen spoken\n"
+	.string "gevangen, maar ik ben nog\l"
+	.string "een echte Aqua!$"
 
 MtPyre_Summit_Text_Grunt3Defeat:
 	.string "If you're going to mess with anyone,\n"
@@ -452,11 +452,9 @@ MtPyre_Summit_Text_Grunt3PostBattle:
 	.string "he was after!$"
 
 MtPyre_Summit_Text_Grunt4Intro:
-	.string "Oh, I know!\n"
-	.string "You tried to join TEAM MAGMA,\l"
-	.string "but they wouldn't have you!\p"
-	.string "Well, don't think that we'll let you\n"
-	.string "join our TEAM AQUA!$"
+	.string "Ik heb hier iets gevangen\n"
+	.string "wat zorgt dat je hoopte dat\l"
+	.string "je bij TEAM MAGMA mocht!$"
 
 MtPyre_Summit_Text_Grunt4Defeat:
 	.string "If you want to join TEAM AQUA that\n"
