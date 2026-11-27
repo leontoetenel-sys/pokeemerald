@@ -526,6 +526,9 @@ static bool8 TryGenerateWildMon(const struct WildPokemonInfo *wildMonInfo, u8 ar
     return TRUE;
 }
 
+static const struct WildPokemon sRoute115SuperRodDratini = {15, 20, SPECIES_DRATINI};
+static const struct WildPokemon sRoute115SuperRodLapras = {20, 25, SPECIES_LAPRAS};
+
 static u16 GenerateFishingWildMon(const struct WildPokemonInfo *wildMonInfo, u8 rod)
 {
     u8 wildMonIndex = ChooseWildMonIndex_Fishing(rod);
@@ -545,6 +548,21 @@ static u16 GenerateFishingWildMon(const struct WildPokemonInfo *wildMonInfo, u8 
         {
             species = roll < 5 ? SPECIES_MUDKIP : SPECIES_SQUIRTLE;
             level = rod == OLD_ROD ? 5 : (rod == GOOD_ROD ? 10 : 15);
+        }
+    }
+
+    if (headerId == 31 && rod == SUPER_ROD)
+    {
+        roll = Random() % 100;
+        if (roll < 10)
+        {
+            species = sRoute115SuperRodDratini.species;
+            level = ChooseWildMonLevel(&sRoute115SuperRodDratini);
+        }
+        else if (roll < 20)
+        {
+            species = sRoute115SuperRodLapras.species;
+            level = ChooseWildMonLevel(&sRoute115SuperRodLapras);
         }
     }
 
