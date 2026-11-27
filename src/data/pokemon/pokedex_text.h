@@ -305,154 +305,154 @@ const u8 gDiglettPokedexText[] = _(
     "kunnen heerlijke gewassen groeien.");
 
 const u8 gDugtrioPokedexText[] = _(
-    "Because the triplets originally split from\n"
-    "one body, they think exactly alike.\n"
-    "They work cooperatively to burrow\n"
-    "endlessly through the ground.");
+    "De drie kwamen uit één lichaam\n"
+    "en denken precies hetzelfde.\n"
+    "Ze werken samen en graven\n"
+    "eindeloos gangen onder de grond.");
 
 const u8 gMeowthPokedexText[] = _(
-    "MEOWTH withdraw their sharp claws into\n"
-    "their paws to silently sneak about.\n"
-    "For some reason, this POKéMON loves\n"
-    "shiny coins that glitter with light.");
+    "MEOWTH trekt zijn scherpe klauwen\n"
+    "in om stil rond te sluipen.\n"
+    "Om de een of andere reden is hij\n"
+    "dol op glimmende munten.");
 
 const u8 gPersianPokedexText[] = _(
-    "A PERSIAN's six bold whiskers sense air\n"
-    "movements to determine what is in its\n"
-    "vicinity. It becomes docile if grabbed\n"
-    "by the whiskers.");
+    "Met zijn zes snorharen voelt\n"
+    "PERSIAN lucht bewegen. Zo merkt\n"
+    "hij wat er om hem heen gebeurt.\n"
+    "Pak je ze vast, dan wordt hij mak.");
 
 const u8 gPsyduckPokedexText[] = _(
-    "When its headache intensifies, it starts\n"
-    "using strange powers. However, it has no\n"
-    "recollection of its powers, so it always\n"
-    "looks befuddled and bewildered.");
+    "Bij erge hoofdpijn gebruikt hij\n"
+    "vreemde krachten. Achteraf weet\n"
+    "hij daar niets meer van. Daarom\n"
+    "kijkt hij altijd zo verward.");
 
 const u8 gGolduckPokedexText[] = _(
-    "A GOLDUCK is an adept swimmer.\n"
-    "It sometimes joins competitive swimmers\n"
-    "in training. It uses psychic powers when\n"
-    "its forehead shimmers with light.");
+    "GOLDUCK zwemt zo goed dat hij\n"
+    "soms met wedstrijdzwemmers traint.\n"
+    "Als zijn voorhoofd oplicht, gebruikt\n"
+    "hij zijn psychische krachten.");
 
 const u8 gMankeyPokedexText[] = _(
-    "When it starts shaking and its nasal\n"
-    "breathing turns rough, it's a sure sign\n"
-    "of anger. However, since this happens\n"
-    "instantly, there is no time to flee.");
+    "Trilt hij en snuift hij hard?\n"
+    "Dan is hij boos. Dat gebeurt\n"
+    "zo plotseling dat je geen tijd\n"
+    "hebt om weg te rennen.");
 
 const u8 gPrimeapePokedexText[] = _(
-    "When it becomes furious, its blood\n"
-    "circulation becomes more robust, and\n"
-    "its muscles are made stronger. But it\n"
-    "also becomes much less intelligent.");
+    "Als hij woedend wordt, stroomt\n"
+    "zijn bloed sneller en worden\n"
+    "zijn spieren sterker. Hij kan\n"
+    "dan wel minder goed nadenken.");
 
 const u8 gGrowlithePokedexText[] = _(
-    "Its superb sense of smell ensures that\n"
-    "this POKéMON won't forget any scent,\n"
-    "no matter what. It uses its sense of smell\n"
-    "to detect the emotions of others.");
+    "GROWLITHE vergeet nooit een geur.\n"
+    "Hij heeft zo'n goede neus dat\n"
+    "hij zelfs kan ruiken hoe anderen\n"
+    "zich voelen.");
 
 const u8 gArcaninePokedexText[] = _(
-    "This fleet-footed POKéMON is said to run\n"
-    "over 6,200 miles in a single day and night.\n"
-    "The fire that blazes wildly within its body\n"
-    "is its source of power.");
+    "Men zegt dat ARCANINE in één\n"
+    "dag en nacht ruim 10.000 kilometer\n"
+    "kan rennen. Zijn kracht komt\n"
+    "van het vuur dat in hem brandt.");
 
 const u8 gPoliwagPokedexText[] = _(
-    "It is possible to see this POKéMON's spiral\n"
-    "innards right through its thin skin.\n"
-    "However, the skin is also very flexible.\n"
-    "Even sharp fangs bounce right off it.");
+    "Door zijn dunne huid kun je de\n"
+    "spiraal van zijn darmen zien.\n"
+    "Zijn huid is zo soepel dat zelfs\n"
+    "scherpe tanden erop afketsen.");
 
 const u8 gPoliwhirlPokedexText[] = _(
-    "Its body surface is always wet and slick\n"
-    "with an oily fluid. Because of this greasy\n"
-    "covering, it can easily slip and slide out\n"
-    "of the clutches of any enemy in battle.");
+    "Zijn lijf is altijd nat en glad\n"
+    "door een laagje olie. Daardoor\n"
+    "glipt hij in een gevecht zo\n"
+    "uit de greep van zijn vijand.");
 
 const u8 gPoliwrathPokedexText[] = _(
-    "Its highly developed muscles never grow\n"
-    "fatigued, however much it exercises.\n"
-    "This POKéMON can swim back and forth\n"
-    "across the Pacific Ocean without effort.");
+    "Zijn sterke spieren worden nooit\n"
+    "moe, hoe lang hij ook traint.\n"
+    "Hij zwemt zonder moeite heen en\n"
+    "terug over de Stille Oceaan.");
 
 const u8 gAbraPokedexText[] = _(
-    "A POKéMON that sleeps 18 hours a day.\n"
-    "Observation revealed that it uses\n"
-    "TELEPORT to change its location once\n"
-    "every hour.");
+    "ABRA slaapt 18 uur per dag.\n"
+    "Toen onderzoekers hem volgden,\n"
+    "zagen ze dat hij elk uur met\n"
+    "TELEPORT van plek verandert.");
 
 const u8 gKadabraPokedexText[] = _(
-    "It is rumored that a boy with psychic\n"
-    "abilities suddenly transformed into\n"
-    "KADABRA while he was assisting research\n"
-    "into extrasensory powers.");
+    "Volgens een gerucht veranderde\n"
+    "een jongen met psychische krachten\n"
+    "plotseling in KADABRA toen hij\n"
+    "hielp die krachten te onderzoeken.");
 
 const u8 gAlakazamPokedexText[] = _(
-    "While it has strong psychic abilities and\n"
-    "high intelligence, an ALAKAZAM's muscles\n"
-    "are very weak. It uses psychic power to\n"
-    "move its body.");
+    "ALAKAZAM is slim en heeft sterke\n"
+    "psychische krachten. Zijn spieren\n"
+    "zijn erg zwak, dus hij gebruikt\n"
+    "die krachten om te bewegen.");
 
 const u8 gMachopPokedexText[] = _(
-    "It continually undertakes strenuous\n"
-    "training to master all forms of martial\n"
-    "arts. Its strength lets it easily hoist\n"
-    "a sumo wrestler onto its shoulders.");
+    "MACHOP traint hard om allerlei\n"
+    "vechtkunsten te leren. Hij is\n"
+    "zo sterk dat hij een sumoworstelaar\n"
+    "moeiteloos op zijn schouders tilt.");
 
 const u8 gMachokePokedexText[] = _(
-    "A belt is worn by a MACHOKE to keep its\n"
-    "overwhelming power under control.\n"
-    "Because it is so dangerous, no one has\n"
-    "ever removed the belt.");
+    "MACHOKE draagt een riem om zijn\n"
+    "enorme kracht in toom te houden.\n"
+    "Het is zo gevaarlijk om de riem\n"
+    "af te doen dat niemand dat doet.");
 
 const u8 gMachampPokedexText[] = _(
-    "It is impossible to defend against punches\n"
-    "and chops doled out by its four arms.\n"
-    "Its fighting spirit flares up when it faces\n"
-    "a tough opponent.");
+    "De slagen van zijn vier armen\n"
+    "zijn onmogelijk af te weren.\n"
+    "Tegen een sterke tegenstander\n"
+    "krijgt hij extra veel vechtlust.");
 
 const u8 gBellsproutPokedexText[] = _(
-    "A BELLSPROUT's thin and flexible body lets\n"
-    "it bend and sway to avoid any attack,\n"
-    "however strong it may be. From its mouth,\n"
-    "it leaks a fluid that melts even iron.");
+    "Met zijn dunne, soepele lijf\n"
+    "ontwijkt hij zelfs de sterkste\n"
+    "aanvallen. Uit zijn mond drupt\n"
+    "een vloeistof die ijzer doet smelten.");
 
 const u8 gWeepinbellPokedexText[] = _(
-    "At night, a WEEPINBELL hangs on to a tree\n"
-    "branch with its hooked rear and sleeps.\n"
-    "If it moves around in its sleep, it may\n"
-    "wake up to find itself on the ground.");
+    "WEEPINBELL slaapt aan een tak,\n"
+    "waaraan hij zich met zijn haak\n"
+    "vasthoudt. Woelt hij in zijn slaap,\n"
+    "dan wordt hij soms wakker op de grond.");
 
 const u8 gVictreebelPokedexText[] = _(
-    "The long vine extending from its head is\n"
-    "waved about as if it were a living thing to\n"
-    "attract prey. When an unsuspecting victim\n"
-    "approaches, it is swallowed whole.");
+    "Hij zwaait met de lange rank op\n"
+    "zijn kop alsof die leeft. Zo lokt\n"
+    "hij zijn prooi. Komt die dichtbij,\n"
+    "dan slikt hij hem in één keer door.");
 
 const u8 gTentacoolPokedexText[] = _(
-    "Its body is almost entirely composed of\n"
-    "water. It ensnares its foe with its two\n"
-    "long tentacles, then stabs with the poison\n"
-    "stingers at their tips.");
+    "Zijn lijf bestaat bijna helemaal\n"
+    "uit water. Hij grijpt zijn vijand\n"
+    "met twee lange tentakels en steekt\n"
+    "dan met de giftige punten.");
 
 const u8 gTentacruelPokedexText[] = _(
-    "It lives in complex rock formations on\n"
-    "the ocean floor and traps prey using its\n"
-    "80 tentacles. Its red orbs glow when it\n"
-    "grows excited or agitated.");
+    "Hij leeft tussen rotsen op de\n"
+    "zeebodem en vangt prooien met\n"
+    "zijn 80 tentakels. Zijn rode bollen\n"
+    "lichten op als hij opgewonden raakt.");
 
 const u8 gGeodudePokedexText[] = _(
-    "It climbs mountain paths using only the\n"
-    "power of its arms. Because they look just\n"
-    "like boulders lining paths, hikers may step\n"
-    "on them without noticing.");
+    "GEODUDE klimt over bergpaden\n"
+    "met alleen zijn armen. Hij lijkt\n"
+    "zo op een rotsblok dat wandelaars\n"
+    "soms ongemerkt op hem stappen.");
 
 const u8 gGravelerPokedexText[] = _(
-    "They descend from mountains by tumbling\n"
-    "down steep slopes. They are so brutal,\n"
-    "they smash aside obstructing trees and\n"
-    "massive boulders with thunderous tackles.");
+    "GRAVELER rolt steile hellingen af.\n"
+    "Staan er bomen of grote rotsblokken\n"
+    "in de weg, dan beukt hij die\n"
+    "met veel kabaal opzij.");
 
 const u8 gGolemPokedexText[] = _(
     "It is said to live in volcanic craters\n"
