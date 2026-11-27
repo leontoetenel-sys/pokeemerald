@@ -755,10 +755,10 @@ static const u8 sStatsLeftColumnLayout[] = _("{DYNAMIC 0}/{DYNAMIC 1}\n{DYNAMIC 
 static const u8 sStatsRightColumnLayout[] = _("{DYNAMIC 0}\n{DYNAMIC 1}\n{DYNAMIC 2}");
 static const u8 sMovesPPLayout[] = _("{PP}{DYNAMIC 0}/{DYNAMIC 1}");
 static const u8 sText_MoveCategoriesTitle[] = _("AANVALTYPES");
-static const u8 sText_MoveCategoryPhysical[] = _("FYS");
+static const u8 sText_MoveCategoryPhysical[] = _("PHYS");
 static const u8 sText_MoveCategorySpecial[] = _("SPEC");
-static const u8 sText_MoveCategoryStatus[] = _("STATUS");
-static const u8 sText_MoveCategoryLegend[] = _("FYS: AANVAL\nSPEC: SP. AANVAL\nSTATUS: GEEN SCHADE");
+static const u8 sText_MoveCategoryStatus[] = _("STATS");
+static const u8 sText_MoveCategoryLegend[] = _("PHYS: AANVAL\nSPEC: SP. AANVAL\nSTATS: GEEN SCHADE");
 
 #define TAG_MOVE_SELECTOR 30000
 #define TAG_MON_STATUS 30001
