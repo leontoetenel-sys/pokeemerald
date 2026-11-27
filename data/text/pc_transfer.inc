@@ -1,26 +1,24 @@
 gText_PkmnTransferredSomeonesPC::
 	.string "{STR_VAR_2} ging naar\n"
 	.string "de PC van IEMAND.\p"
-	.string "In BOX \n"
-	.string "“{STR_VAR_1}.”$"
+	.string "In BOX “{STR_VAR_1}.”$"
 
 gText_PkmnTransferredLanettesPC::
 	.string "{STR_VAR_2} ging naar\n"
 	.string "de PC van LANETTE.\p"
-	.string "In BOX \n"
-	.string "“{STR_VAR_1}.”$"
+	.string "In BOX “{STR_VAR_1}.”$"
 
 gText_PkmnTransferredSomeonesPCBoxFull::
 	.string "BOX “{STR_VAR_3}” op\n"
 	.string "de PC van IEMAND zat vol.\p"
 	.string "{STR_VAR_2} ging naar\n"
-	.string "“{STR_VAR_1}.”$"
+	.string "BOX “{STR_VAR_1}.”$"
 
 gText_PkmnTransferredLanettesPCBoxFull::
 	.string "BOX “{STR_VAR_3}” op\n"
 	.string "LANETTE's PC zat vol.\p"
 	.string "{STR_VAR_2} ging naar\n"
-	.string "“{STR_VAR_1}.”$"
+	.string "BOX “{STR_VAR_1}.”$"
 
 gText_NoMoreRoomForPokemon::
 	.string "Er is geen plek meer voor POKéMON!\p"
