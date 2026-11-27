@@ -277,11 +277,11 @@ Route110_TrickHouseEnd_Text_AllNightToInstallDoors:
 	.string "Je bent bijna zo goed als ik!$"
 
 Route110_TrickHouseEnd_Text_AllNightSettingUpArrows:
-	.string "Ik plaatste de hele nacht pijlen...\p"
+	.string "Ik plaatste de hele nacht pijlen.\p"
 	.string "Je bent net zo goed als ik!$"
 
 Route110_TrickHouseEnd_Text_AllNightPolishingFloors:
-	.string "Ik poetste de hele nacht vloeren...\p"
+	.string "Ik poetste de hele nacht vloeren.\p"
 	.string "Je bent beter dan ik!\n"
 	.string "Misschien...$"
 
