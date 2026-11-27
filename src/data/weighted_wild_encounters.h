@@ -207,14 +207,16 @@ static const struct WeightedWildPokemon sWeighted_ROUTE109_water_mons[] = {
     {{25, 30, SPECIES_DRATINI}, 1},
 };
 static const struct WeightedWildPokemon sWeighted_MT_PYRE_2F_land_mons[] = {
-    {{22, 29, SPECIES_SHUPPET}, 95},
+    {{22, 29, SPECIES_SHUPPET}, 85},
     {{19, 24, SPECIES_GASTLY}, 3},
     {{25, 30, SPECIES_HAUNTER}, 2},
+    {{22, 29, SPECIES_SABLEYE}, 10},
 };
 static const struct WeightedWildPokemon sWeighted_MT_PYRE_3F_land_mons[] = {
-    {{22, 29, SPECIES_SHUPPET}, 95},
+    {{22, 29, SPECIES_SHUPPET}, 85},
     {{19, 24, SPECIES_GASTLY}, 3},
     {{25, 30, SPECIES_HAUNTER}, 2},
+    {{22, 29, SPECIES_SABLEYE}, 10},
 };
 static const struct WeightedWildPokemon sWeighted_MT_PYRE_4F_land_mons[] = {
     {{22, 29, SPECIES_SHUPPET}, 85},
@@ -235,10 +237,11 @@ static const struct WeightedWildPokemon sWeighted_MT_PYRE_6F_land_mons[] = {
     {{25, 30, SPECIES_HAUNTER}, 2},
 };
 static const struct WeightedWildPokemon sWeighted_MT_PYRE_EXTERIOR_land_mons[] = {
-    {{27, 29, SPECIES_SHUPPET}, 58},
+    {{27, 29, SPECIES_SHUPPET}, 48},
     {{25, 29, SPECIES_VULPIX}, 30},
     {{12, 15, SPECIES_TORCHIC}, 10},
     {{12, 15, SPECIES_CHARMANDER}, 2},
+    {{27, 31, SPECIES_SABLEYE}, 10},
 };
 static const struct WeightedWildPokemon sWeighted_ROUTE103_water_mons[] = {
     {{5, 35, SPECIES_TENTACOOL}, 60},
@@ -403,7 +406,22 @@ static const struct WeightedWildPokemon sWeighted_ROUTE119_land_mons[] = {
     {{23, 29, SPECIES_SCYTHER}, 5},
     {{23, 29, SPECIES_PINSIR}, 5},
 };
+static const struct WeightedWildPokemon sWeighted_MT_PYRE_SUMMIT_land_mons[] = {
+    {{28, 28, SPECIES_SHUPPET}, 10},
+    {{29, 29, SPECIES_SHUPPET}, 20},
+    {{27, 27, SPECIES_SHUPPET}, 10},
+    {{26, 26, SPECIES_SHUPPET}, 10},
+    {{30, 30, SPECIES_SHUPPET}, 10},
+    {{25, 25, SPECIES_SHUPPET}, 10},
+    {{24, 24, SPECIES_SHUPPET}, 5},
+    {{28, 28, SPECIES_DUSKULL}, 5},
+    {{26, 26, SPECIES_DUSKULL}, 4},
+    {{30, 30, SPECIES_DUSKULL}, 4},
+    {{28, 28, SPECIES_CHIMECHO}, 2},
+    {{28, 35, SPECIES_SABLEYE}, 10},
+};
 static const struct WeightedWildTable sWeightedWildTables[] = {
+    {44, WILD_AREA_LAND, ARRAY_COUNT(sWeighted_MT_PYRE_SUMMIT_land_mons), sWeighted_MT_PYRE_SUMMIT_land_mons},
     {8, WILD_AREA_LAND, ARRAY_COUNT(sWeighted_ROUTE113_land_mons), sWeighted_ROUTE113_land_mons},
     {9, WILD_AREA_WATER, ARRAY_COUNT(sWeighted_ROUTE114_water_mons), sWeighted_ROUTE114_water_mons},
     {32, WILD_AREA_LAND, ARRAY_COUNT(sWeighted_NEW_MAUVILLE_INSIDE_land_mons), sWeighted_NEW_MAUVILLE_INSIDE_land_mons},
