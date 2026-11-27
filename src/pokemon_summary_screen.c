@@ -52,6 +52,7 @@ enum {
     PSS_PAGE_SKILLS,
     PSS_PAGE_BATTLE_MOVES,
     PSS_PAGE_CONTEST_MOVES,
+    PSS_PAGE_MOVE_CATEGORIES,
     PSS_PAGE_COUNT,
 };
 
@@ -282,6 +283,9 @@ static void PrintMoveNameAndPP(u8);
 static void PrintContestMoves(void);
 static void Task_PrintContestMoves(u8);
 static void PrintContestMoveDescription(u8);
+static void PrintMoveCategories(void);
+static void Task_PrintMoveCategories(u8);
+static void PrintMoveNameAndCategory(u8);
 static void PrintMoveDetails(u16);
 static void PrintNewMoveDetailsOrCancelText(void);
 static void AddAndFillMoveNamesWindow(void);
@@ -732,7 +736,8 @@ static void (*const sTextPrinterFunctions[])(void) =
     [PSS_PAGE_INFO] = PrintInfoPageText,
     [PSS_PAGE_SKILLS] = PrintSkillsPageText,
     [PSS_PAGE_BATTLE_MOVES] = PrintBattleMoves,
-    [PSS_PAGE_CONTEST_MOVES] = PrintContestMoves
+    [PSS_PAGE_CONTEST_MOVES] = PrintContestMoves,
+    [PSS_PAGE_MOVE_CATEGORIES] = PrintMoveCategories
 };
 
 static const TaskFunc sTextPrinterTasks[] =
@@ -740,7 +745,8 @@ static const TaskFunc sTextPrinterTasks[] =
     [PSS_PAGE_INFO] = Task_PrintInfoPage,
     [PSS_PAGE_SKILLS] = Task_PrintSkillsPage,
     [PSS_PAGE_BATTLE_MOVES] = Task_PrintBattleMoves,
-    [PSS_PAGE_CONTEST_MOVES] = Task_PrintContestMoves
+    [PSS_PAGE_CONTEST_MOVES] = Task_PrintContestMoves,
+    [PSS_PAGE_MOVE_CATEGORIES] = Task_PrintMoveCategories
 };
 
 static const u8 sMemoNatureTextColor[] = _("{COLOR LIGHT_RED}{SHADOW GREEN}");
@@ -748,6 +754,11 @@ static const u8 sMemoMiscTextColor[] = _("{COLOR WHITE}{SHADOW DARK_GRAY}"); // 
 static const u8 sStatsLeftColumnLayout[] = _("{DYNAMIC 0}/{DYNAMIC 1}\n{DYNAMIC 2}\n{DYNAMIC 3}");
 static const u8 sStatsRightColumnLayout[] = _("{DYNAMIC 0}\n{DYNAMIC 1}\n{DYNAMIC 2}");
 static const u8 sMovesPPLayout[] = _("{PP}{DYNAMIC 0}/{DYNAMIC 1}");
+static const u8 sText_MoveCategoriesTitle[] = _("AANVALTYPES");
+static const u8 sText_MoveCategoryPhysical[] = _("FYS");
+static const u8 sText_MoveCategorySpecial[] = _("SPEC");
+static const u8 sText_MoveCategoryStatus[] = _("STATUS");
+static const u8 sText_MoveCategoryLegend[] = _("FYS: AANVAL\nSPEC: SP. AANVAL\nSTATUS: GEEN SCHADE");
 
 #define TAG_MOVE_SELECTOR 30000
 #define TAG_MON_STATUS 30001
@@ -1125,7 +1136,7 @@ void ShowPokemonSummaryScreen(u8 mode, void *mons, u8 monIndex, u8 maxMonIndex, 
         break;
     case SUMMARY_MODE_SELECT_MOVE:
         sMonSummaryScreen->minPageIndex = PSS_PAGE_BATTLE_MOVES;
-        sMonSummaryScreen->maxPageIndex = PSS_PAGE_COUNT - 1;
+        sMonSummaryScreen->maxPageIndex = PSS_PAGE_CONTEST_MOVES;
         sMonSummaryScreen->lockMonFlag = TRUE;
         break;
     }
@@ -1351,31 +1362,36 @@ static bool8 DecompressGraphics(void)
         sMonSummaryScreen->switchCounter++;
         break;
     case 6:
+        CpuCopy16(sMonSummaryScreen->bgTilemapBuffers[PSS_PAGE_BATTLE_MOVES][0], sMonSummaryScreen->bgTilemapBuffers[PSS_PAGE_MOVE_CATEGORIES][0], sizeof(sMonSummaryScreen->bgTilemapBuffers[PSS_PAGE_MOVE_CATEGORIES][0]));
+        CpuCopy16(sMonSummaryScreen->bgTilemapBuffers[PSS_PAGE_BATTLE_MOVES][1], sMonSummaryScreen->bgTilemapBuffers[PSS_PAGE_MOVE_CATEGORIES][1], sizeof(sMonSummaryScreen->bgTilemapBuffers[PSS_PAGE_MOVE_CATEGORIES][1]));
+        sMonSummaryScreen->switchCounter++;
+        break;
+    case 7:
         LoadCompressedPalette(gSummaryScreen_Pal, BG_PLTT_ID(0), 8 * PLTT_SIZE_4BPP);
         LoadPalette(&gPPTextPalette, BG_PLTT_ID(8) + 1, PLTT_SIZEOF(16 - 1));
         sMonSummaryScreen->switchCounter++;
         break;
-    case 7:
+    case 8:
         LoadCompressedSpriteSheet(&sSpriteSheet_MoveTypes);
         sMonSummaryScreen->switchCounter++;
         break;
-    case 8:
+    case 9:
         LoadCompressedSpriteSheet(&sMoveSelectorSpriteSheet);
         sMonSummaryScreen->switchCounter++;
         break;
-    case 9:
+    case 10:
         LoadCompressedSpriteSheet(&sStatusIconsSpriteSheet);
         sMonSummaryScreen->switchCounter++;
         break;
-    case 10:
+    case 11:
         LoadCompressedSpritePalette(&sStatusIconsSpritePalette);
         sMonSummaryScreen->switchCounter++;
         break;
-    case 11:
+    case 12:
         LoadCompressedSpritePalette(&sMoveSelectorSpritePal);
         sMonSummaryScreen->switchCounter++;
         break;
-    case 12:
+    case 13:
         LoadCompressedPalette(gMoveTypes_Pal, OBJ_PLTT_ID(13), 3 * PLTT_SIZE_4BPP);
         sMonSummaryScreen->switchCounter = 0;
         return TRUE;
@@ -1473,7 +1489,7 @@ static bool8 ExtractMonDataToSummaryStruct(struct Pokemon *mon)
 
 static void SetDefaultTilemaps(void)
 {
-    if (sMonSummaryScreen->currPageIndex != PSS_PAGE_BATTLE_MOVES && sMonSummaryScreen->currPageIndex != PSS_PAGE_CONTEST_MOVES)
+    if (sMonSummaryScreen->currPageIndex != PSS_PAGE_BATTLE_MOVES && sMonSummaryScreen->currPageIndex != PSS_PAGE_CONTEST_MOVES && sMonSummaryScreen->currPageIndex != PSS_PAGE_MOVE_CATEGORIES)
     {
         PositionPowerAccSlidingWindow(0, 0xFF);
         PositionAppealJamSlidingWindow(0, 0xFF, 0);
@@ -1492,7 +1508,7 @@ static void SetDefaultTilemaps(void)
 
     if (sMonSummaryScreen->summary.ailment == AILMENT_NONE)
         PositionStatusSlidingWindow(0, 0xFF);
-    else if (sMonSummaryScreen->currPageIndex != PSS_PAGE_BATTLE_MOVES && sMonSummaryScreen->currPageIndex != PSS_PAGE_CONTEST_MOVES)
+    else if (sMonSummaryScreen->currPageIndex != PSS_PAGE_BATTLE_MOVES && sMonSummaryScreen->currPageIndex != PSS_PAGE_CONTEST_MOVES && sMonSummaryScreen->currPageIndex != PSS_PAGE_MOVE_CATEGORIES)
         PutWindowTilemap(PSS_LABEL_WINDOW_POKEMON_SKILLS_STATUS);
 
     LimitEggSummaryPageDisplay();
@@ -1551,7 +1567,7 @@ static void Task_HandleInput(u8 taskId)
         }
         else if (JOY_NEW(A_BUTTON))
         {
-            if (sMonSummaryScreen->currPageIndex != PSS_PAGE_SKILLS)
+            if (sMonSummaryScreen->currPageIndex != PSS_PAGE_SKILLS && sMonSummaryScreen->currPageIndex != PSS_PAGE_MOVE_CATEGORIES)
             {
                 if (sMonSummaryScreen->currPageIndex == PSS_PAGE_INFO)
                 {
@@ -2909,6 +2925,8 @@ static void PutPageWindowTilemaps(u8 page)
         PutWindowTilemap(PSS_LABEL_WINDOW_POKEMON_SKILLS_EXP);
         break;
     case PSS_PAGE_BATTLE_MOVES:
+        FillWindowPixelBuffer(PSS_LABEL_WINDOW_BATTLE_MOVES_TITLE, PIXEL_FILL(0));
+        PrintTextOnWindow(PSS_LABEL_WINDOW_BATTLE_MOVES_TITLE, gText_BattleMoves, 2, 1, 0, 1);
         PutWindowTilemap(PSS_LABEL_WINDOW_BATTLE_MOVES_TITLE);
         if (sMonSummaryScreen->mode == SUMMARY_MODE_SELECT_MOVE)
         {
@@ -2931,6 +2949,11 @@ static void PutPageWindowTilemaps(u8 page)
         {
             PutWindowTilemap(PSS_LABEL_WINDOW_PROMPT_INFO);
         }
+        break;
+    case PSS_PAGE_MOVE_CATEGORIES:
+        FillWindowPixelBuffer(PSS_LABEL_WINDOW_BATTLE_MOVES_TITLE, PIXEL_FILL(0));
+        PrintTextOnWindow(PSS_LABEL_WINDOW_BATTLE_MOVES_TITLE, sText_MoveCategoriesTitle, 2, 1, 0, 1);
+        PutWindowTilemap(PSS_LABEL_WINDOW_BATTLE_MOVES_TITLE);
         break;
     }
 
@@ -3592,6 +3615,75 @@ static void PrintMovePowerAndAccuracy(u16 moveIndex)
     }
 }
 
+static void PrintMoveCategories(void)
+{
+    u8 windowId;
+
+    PrintMoveNameAndCategory(0);
+    PrintMoveNameAndCategory(1);
+    PrintMoveNameAndCategory(2);
+    PrintMoveNameAndCategory(3);
+
+    windowId = AddWindowFromTemplateList(sPageMovesTemplate, PSS_DATA_WINDOW_MOVE_DESCRIPTION);
+    PrintTextOnWindow(windowId, sText_MoveCategoryLegend, 6, 1, 0, 0);
+}
+
+static void Task_PrintMoveCategories(u8 taskId)
+{
+    s16 *data = gTasks[taskId].data;
+
+    switch (data[0])
+    {
+    case 1:
+        PrintMoveNameAndCategory(0);
+        break;
+    case 2:
+        PrintMoveNameAndCategory(1);
+        break;
+    case 3:
+        PrintMoveNameAndCategory(2);
+        break;
+    case 4:
+        PrintMoveNameAndCategory(3);
+        break;
+    case 5:
+        PrintTextOnWindow(AddWindowFromTemplateList(sPageMovesTemplate, PSS_DATA_WINDOW_MOVE_DESCRIPTION), sText_MoveCategoryLegend, 6, 1, 0, 0);
+        break;
+    case 6:
+        DestroyTask(taskId);
+        return;
+    }
+    data[0]++;
+}
+
+static void PrintMoveNameAndCategory(u8 moveIndex)
+{
+    const u8 *categoryText;
+    u8 moveNameWindowId = AddWindowFromTemplateList(sPageMovesTemplate, PSS_DATA_WINDOW_MOVE_NAMES);
+    u8 categoryWindowId = AddWindowFromTemplateList(sPageMovesTemplate, PSS_DATA_WINDOW_MOVE_PP);
+    u16 move = sMonSummaryScreen->summary.moves[moveIndex];
+    int x;
+
+    if (move == MOVE_NONE)
+    {
+        PrintTextOnWindow(moveNameWindowId, gText_OneDash, 0, moveIndex * 16 + 1, 0, 1);
+        categoryText = gText_ThreeDashes;
+    }
+    else
+    {
+        PrintTextOnWindow(moveNameWindowId, gMoveNames[move], 0, moveIndex * 16 + 1, 0, 1);
+        if (IS_MOVE_PHYSICAL(move))
+            categoryText = sText_MoveCategoryPhysical;
+        else if (IS_MOVE_SPECIAL(move))
+            categoryText = sText_MoveCategorySpecial;
+        else
+            categoryText = sText_MoveCategoryStatus;
+    }
+
+    x = GetStringCenterAlignXOffset(FONT_NORMAL, categoryText, 48);
+    PrintTextOnWindow(categoryWindowId, categoryText, x, moveIndex * 16 + 1, 0, 1);
+}
+
 static void PrintContestMoves(void)
 {
     PrintMoveNameAndPP(0);
@@ -3787,6 +3879,9 @@ static void SetTypeIcons(void)
     case PSS_PAGE_CONTEST_MOVES:
         SetContestMoveTypeIcons();
         SetNewMoveTypeIcon();
+        break;
+    case PSS_PAGE_MOVE_CATEGORIES:
+        SetMoveTypeIcons();
         break;
     }
 }
