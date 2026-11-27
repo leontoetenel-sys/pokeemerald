@@ -149,18 +149,18 @@ FortreeCity_Gym_Text_GymGuidePostVictory:
 	.string "You've achieved liftoff!$"
 
 FortreeCity_Gym_Text_JaredIntro:
-	.string "Behold the elegant battle style of\n"
-	.string "BIRD POKéMON!$"
+	.string "Ik ben Femke!\p"
+	.string "Mijn POKéMON en ik zijn klaar\n"
+	.string "voor een gevecht!$"
 
 FortreeCity_Gym_Text_JaredDefeat:
-	.string "You…\n"
-	.string "You're strong…$"
+	.string "Wauw...\n"
+	.string "Jij bent sterk!$"
 
 FortreeCity_Gym_Text_JaredPostBattle:
-	.string "A TRAINER has to be smart to keep\n"
-	.string "up with unexpected turns of events.\p"
-	.string "Do you have the smarts to get to\n"
-	.string "our LEADER?$"
+	.string "Een TRAINER moet slim zijn\n"
+	.string "als er iets onverwachts gebeurt.\p"
+	.string "Kun jij de GYM LEADER bereiken?$"
 
 FortreeCity_Gym_Text_EdwardoIntro:
 	.string "The lovers of BIRD POKéMON aspire\n"
