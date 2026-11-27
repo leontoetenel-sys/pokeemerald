@@ -249,6 +249,11 @@ static const struct TrainerMonNoItemDefaultMoves sParty_GruntMtPyre1[] = {
     .iv = 0,
     .lvl = 32,
     .species = SPECIES_ZUBAT,
+    },
+    {
+    .iv = 0,
+    .lvl = 32,
+    .species = SPECIES_SHUPPET,
     }
 };
 
@@ -257,6 +262,11 @@ static const struct TrainerMonNoItemDefaultMoves sParty_GruntMtPyre2[] = {
     .iv = 0,
     .lvl = 32,
     .species = SPECIES_CARVANHA,
+    },
+    {
+    .iv = 0,
+    .lvl = 32,
+    .species = SPECIES_SABLEYE,
     }
 };
 
@@ -7630,7 +7640,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_GruntMtPyre4[] = {
     {
     .iv = 0,
     .lvl = 30,
-    .species = SPECIES_ZUBAT,
+    .species = SPECIES_HAUNTER,
     }
 };
 
