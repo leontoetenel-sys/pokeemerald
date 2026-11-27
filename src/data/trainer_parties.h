@@ -274,7 +274,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_GruntMtPyre3[] = {
     {
     .iv = 0,
     .lvl = 30,
-    .species = SPECIES_POOCHYENA,
+    .species = SPECIES_MIGHTYENA,
     },
     {
     .iv = 0,
