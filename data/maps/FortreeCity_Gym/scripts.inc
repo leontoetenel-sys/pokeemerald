@@ -150,12 +150,13 @@ FortreeCity_Gym_Text_GymGuidePostVictory:
 
 FortreeCity_Gym_Text_JaredIntro:
 	.string "Ik ben Femke!\p"
-	.string "Mijn POKéMON en ik zijn klaar\n"
-	.string "voor een gevecht!$"
+	.string "Ik had ooit een voorliefde\n"
+	.string "voor groene dinosaurussen,\l"
+	.string "maar nu vlieg ik door de wereld!$"
 
 FortreeCity_Gym_Text_JaredDefeat:
 	.string "Wauw...\n"
-	.string "Jij bent sterk!$"
+	.string "Ik mis mijn Meganium!$"
 
 FortreeCity_Gym_Text_JaredPostBattle:
 	.string "Een TRAINER moet slim zijn\n"
