@@ -133,7 +133,7 @@ Route110_TrickHousePuzzle2_Text_GeorgiaIntro:
 	.string "Dus leer ik hoe je vallen maakt.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaDefeat:
-	.string "Ik oefende niet genoeg met vechten!$"
+	.string "Ik oefende te weinig met vechten!$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaPostBattle:
 	.string "Jij bent sterk! Misschien kun\n"
