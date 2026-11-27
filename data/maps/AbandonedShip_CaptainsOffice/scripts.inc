@@ -37,5 +37,5 @@ AbandonedShip_CaptainsOffice_Text_OhCanYouDeliverScanner:
 
 AbandonedShip_CaptainsOffice_Text_ThisIsSSCactus:
 	.string "Dit schip heet de S.S. CACTUS.\n"
-	.string "Het lijkt uit een andere tijd te komen.$"
+	.string "Het komt vast uit een andere tijd.$"
 
