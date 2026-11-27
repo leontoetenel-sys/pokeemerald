@@ -164,7 +164,7 @@ static const struct WeightedWildPokemon sWeighted_GRANITE_CAVE_B2F_land_mons[] =
     {{10, 10, SPECIES_DUNSPARCE}, 5},
 };
 static const struct WeightedWildPokemon sWeighted_FIERY_PATH_land_mons[] = {
-    {{15, 16, SPECIES_NUMEL}, 26},
+    {{15, 16, SPECIES_NUMEL}, 25},
     {{15, 16, SPECIES_KOFFING}, 25},
     {{15, 16, SPECIES_MACHOP}, 15},
     {{14, 16, SPECIES_TORKOAL}, 18},
@@ -173,6 +173,7 @@ static const struct WeightedWildPokemon sWeighted_FIERY_PATH_land_mons[] = {
     {{15, 15, SPECIES_GROWLITHE}, 1},
     {{5, 15, SPECIES_CHARMANDER}, 2},
     {{15, 15, SPECIES_HOUNDOUR}, 1},
+    {{15, 15, SPECIES_TORCHIC}, 1},
 };
 static const struct WeightedWildPokemon sWeighted_ROUTE106_water_mons[] = {
     {{5, 35, SPECIES_TENTACOOL}, 50},
@@ -207,36 +208,37 @@ static const struct WeightedWildPokemon sWeighted_ROUTE109_water_mons[] = {
 };
 static const struct WeightedWildPokemon sWeighted_MT_PYRE_2F_land_mons[] = {
     {{22, 29, SPECIES_SHUPPET}, 95},
-    {{13, 13, SPECIES_GROWLITHE}, 3},
-    {{11, 15, SPECIES_CHARMANDER}, 2},
+    {{19, 24, SPECIES_GASTLY}, 3},
+    {{25, 30, SPECIES_HAUNTER}, 2},
 };
 static const struct WeightedWildPokemon sWeighted_MT_PYRE_3F_land_mons[] = {
     {{22, 29, SPECIES_SHUPPET}, 95},
-    {{13, 13, SPECIES_GROWLITHE}, 3},
-    {{11, 15, SPECIES_CHARMANDER}, 2},
+    {{19, 24, SPECIES_GASTLY}, 3},
+    {{25, 30, SPECIES_HAUNTER}, 2},
 };
 static const struct WeightedWildPokemon sWeighted_MT_PYRE_4F_land_mons[] = {
     {{22, 29, SPECIES_SHUPPET}, 85},
     {{25, 29, SPECIES_DUSKULL}, 10},
-    {{13, 13, SPECIES_GROWLITHE}, 3},
-    {{11, 15, SPECIES_CHARMANDER}, 2},
+    {{19, 24, SPECIES_GASTLY}, 3},
+    {{25, 30, SPECIES_HAUNTER}, 2},
 };
 static const struct WeightedWildPokemon sWeighted_MT_PYRE_5F_land_mons[] = {
     {{22, 29, SPECIES_SHUPPET}, 85},
     {{25, 29, SPECIES_DUSKULL}, 10},
-    {{13, 13, SPECIES_GROWLITHE}, 3},
-    {{11, 15, SPECIES_CHARMANDER}, 2},
+    {{19, 24, SPECIES_GASTLY}, 3},
+    {{25, 30, SPECIES_HAUNTER}, 2},
 };
 static const struct WeightedWildPokemon sWeighted_MT_PYRE_6F_land_mons[] = {
     {{22, 29, SPECIES_SHUPPET}, 85},
     {{25, 29, SPECIES_DUSKULL}, 10},
-    {{13, 13, SPECIES_GROWLITHE}, 3},
-    {{11, 15, SPECIES_CHARMANDER}, 2},
+    {{19, 24, SPECIES_GASTLY}, 3},
+    {{25, 30, SPECIES_HAUNTER}, 2},
 };
 static const struct WeightedWildPokemon sWeighted_MT_PYRE_EXTERIOR_land_mons[] = {
-    {{27, 29, SPECIES_SHUPPET}, 60},
+    {{27, 29, SPECIES_SHUPPET}, 58},
     {{25, 29, SPECIES_VULPIX}, 30},
     {{12, 15, SPECIES_TORCHIC}, 10},
+    {{12, 15, SPECIES_CHARMANDER}, 2},
 };
 static const struct WeightedWildPokemon sWeighted_ROUTE103_water_mons[] = {
     {{5, 35, SPECIES_TENTACOOL}, 60},
