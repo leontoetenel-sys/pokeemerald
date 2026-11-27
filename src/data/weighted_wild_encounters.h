@@ -250,12 +250,31 @@ static const struct WeightedWildPokemon sWeighted_ROUTE105_water_mons[] = {
     {{10, 30, SPECIES_MANTINE}, 35},
     {{25, 30, SPECIES_PELIPPER}, 5},
 };
+static const struct WeightedWildPokemon sWeighted_ROUTE113_land_mons[] = {
+    {{15, 15, SPECIES_SPINDA}, 35},
+    {{14, 14, SPECIES_SPINDA}, 20},
+    {{16, 16, SPECIES_SPINDA}, 10},
+    {{15, 15, SPECIES_SLUGMA}, 10},
+    {{14, 14, SPECIES_SLUGMA}, 10},
+    {{16, 16, SPECIES_SLUGMA}, 5},
+    {{16, 16, SPECIES_SKARMORY}, 5},
+    {{14, 16, SPECIES_GROWLITHE}, 3},
+    {{14, 16, SPECIES_PONYTA}, 2},
+};
+static const struct WeightedWildPokemon sWeighted_ROUTE114_water_mons[] = {
+    {{20, 30, SPECIES_MARILL}, 60},
+    {{10, 20, SPECIES_MARILL}, 30},
+    {{30, 35, SPECIES_MARILL}, 5},
+    {{5, 10, SPECIES_MARILL}, 3},
+    {{20, 30, SPECIES_GOLDEEN}, 1},
+    {{20, 25, SPECIES_LAPRAS}, 1},
+};
 static const struct WeightedWildPokemon sWeighted_ROUTE115_water_mons[] = {
-    {{5, 35, SPECIES_TENTACOOL}, 55},
+    {{5, 35, SPECIES_TENTACOOL}, 54},
     {{10, 30, SPECIES_MANTINE}, 35},
     {{25, 30, SPECIES_PELIPPER}, 5},
     {{15, 20, SPECIES_DRATINI}, 3},
-    {{20, 25, SPECIES_LAPRAS}, 2},
+    {{20, 25, SPECIES_LAPRAS}, 3},
 };
 static const struct WeightedWildPokemon sWeighted_ROUTE119_water_mons[] = {
     {{5, 35, SPECIES_TENTACOOL}, 60},
@@ -381,6 +400,8 @@ static const struct WeightedWildPokemon sWeighted_ROUTE119_land_mons[] = {
     {{23, 29, SPECIES_PINSIR}, 5},
 };
 static const struct WeightedWildTable sWeightedWildTables[] = {
+    {8, WILD_AREA_LAND, ARRAY_COUNT(sWeighted_ROUTE113_land_mons), sWeighted_ROUTE113_land_mons},
+    {9, WILD_AREA_WATER, ARRAY_COUNT(sWeighted_ROUTE114_water_mons), sWeighted_ROUTE114_water_mons},
     {32, WILD_AREA_LAND, ARRAY_COUNT(sWeighted_NEW_MAUVILLE_INSIDE_land_mons), sWeighted_NEW_MAUVILLE_INSIDE_land_mons},
     {33, WILD_AREA_LAND, ARRAY_COUNT(sWeighted_ROUTE119_land_mons), sWeighted_ROUTE119_land_mons},
     {0, WILD_AREA_LAND, ARRAY_COUNT(sWeighted_ROUTE101_land_mons), sWeighted_ROUTE101_land_mons},
