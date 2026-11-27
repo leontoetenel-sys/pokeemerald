@@ -83,10 +83,12 @@ static const struct WeightedWildPokemon sWeighted_ROUTE118_water_mons[] = {
     {{15, 15, SPECIES_MUDKIP}, 5},
 };
 static const struct WeightedWildPokemon sWeighted_ROUTE111_rock_smash_mons[] = {
-    {{5, 20, SPECIES_ONIX}, 100},
+    {{5, 20, SPECIES_ONIX}, 70},
+    {{10, 20, SPECIES_NOSEPASS}, 30},
 };
 static const struct WeightedWildPokemon sWeighted_ROUTE114_rock_smash_mons[] = {
-    {{5, 20, SPECIES_ONIX}, 100},
+    {{5, 20, SPECIES_ONIX}, 70},
+    {{10, 20, SPECIES_NOSEPASS}, 30},
 };
 static const struct WeightedWildPokemon sWeighted_ROUTE112_land_mons[] = {
     {{14, 16, SPECIES_NUMEL}, 75},
