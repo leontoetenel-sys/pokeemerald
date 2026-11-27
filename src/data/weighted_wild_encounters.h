@@ -44,15 +44,15 @@ static const struct WeightedWildPokemon sWeighted_ROUTE104_land_mons[] = {
     {{4, 5, SPECIES_WOOPER}, 10},
 };
 static const struct WeightedWildPokemon sWeighted_ROUTE110_land_mons[] = {
-    {{12, 12, SPECIES_POOCHYENA}, 19},
+    {{12, 12, SPECIES_POOCHYENA}, 17},
     {{12, 13, SPECIES_ELECTRIKE}, 29},
     {{12, 13, SPECIES_GULPIN}, 15},
     {{13, 13, SPECIES_MINUN}, 15},
     {{13, 13, SPECIES_ODDISH}, 10},
     {{12, 12, SPECIES_SPEAROW}, 8},
     {{12, 13, SPECIES_PLUSLE}, 2},
-    {{6, 6, SPECIES_EEVEE}, 1},
-    {{6, 6, SPECIES_PICHU}, 1},
+    {{6, 6, SPECIES_EEVEE}, 2},
+    {{6, 6, SPECIES_PICHU}, 2},
 };
 static const struct WeightedWildPokemon sWeighted_ROUTE111_land_mons[] = {
     {{19, 21, SPECIES_SANDSHREW}, 34},
