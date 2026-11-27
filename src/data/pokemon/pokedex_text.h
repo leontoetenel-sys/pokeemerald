@@ -5,154 +5,154 @@ const u8 gDummyPokedexText[] = _(
     "at this time.");
 
 const u8 gBulbasaurPokedexText[] = _(
-    "BULBASAUR can be seen napping in bright\n"
-    "sunlight. There is a seed on its back.\n"
-    "By soaking up the sun's rays, the seed\n"
-    "grows progressively larger.");
+    "BULBASAUR dut graag in de zon.\n"
+    "Op zijn rug groeit een zaadje.\n"
+    "Door het zonlicht wordt dat\n"
+    "zaadje steeds groter.");
 
 const u8 gIvysaurPokedexText[] = _(
-    "To support its bulb, IVYSAUR's legs\n"
-    "grow sturdy. If it spends more time lying in\n"
-    "the sunlight, the bud will soon bloom into\n"
-    "a large flower.");
+    "Zijn poten worden sterk genoeg\n"
+    "om de knop op zijn rug te dragen.\n"
+    "Ligt hij veel in de zon, dan bloeit\n"
+    "de knop snel tot een grote bloem.");
 
 const u8 gVenusaurPokedexText[] = _(
-    "VENUSAUR's flower is said to take on vivid\n"
-    "colors if it gets plenty of nutrition and\n"
-    "sunlight. The flower's aroma soothes the\n"
-    "emotions of people.");
+    "Met genoeg voeding en zonlicht\n"
+    "krijgt zijn bloem heldere kleuren.\n"
+    "De geur van de bloem brengt\n"
+    "mensen tot rust.");
 
 const u8 gCharmanderPokedexText[] = _(
-    "The flame that burns at the tip of its\n"
-    "tail is an indication of its emotions.\n"
-    "The flame wavers when CHARMANDER is\n"
-    "happy, and blazes when it is enraged.");
+    "De vlam op zijn staart laat zien\n"
+    "hoe hij zich voelt. Is hij blij,\n"
+    "danst de vlam. Als hij boos is,\n"
+    "brandt de vlam fel.");
 
 const u8 gCharmeleonPokedexText[] = _(
-    "Without pity, its sharp claws destroy foes.\n"
-    "If it encounters a strong enemy, it\n"
-    "becomes agitated, and the flame on its\n"
-    "tail flares with a bluish white color.");
+    "Met zijn scherpe klauwen verslaat\n"
+    "hij zijn vijanden zonder pardon.\n"
+    "Bij een sterke tegenstander wordt\n"
+    "zijn staartvlam blauwachtig wit.");
 
 const u8 gCharizardPokedexText[] = _(
-    "A CHARIZARD flies about in search of\n"
-    "strong opponents. It breathes intense\n"
-    "flames that can melt any material. However,\n"
-    "it will never torch a weaker foe.");
+    "CHARIZARD vliegt rond op zoek naar\n"
+    "sterke vijanden. Zijn hete vuur\n"
+    "kan alles smelten. Zwakke vijanden\n"
+    "verbrandt hij nooit.");
 
 const u8 gSquirtlePokedexText[] = _(
-    "Its shell is not just for protection.\n"
-    "Its rounded shape and the grooves on its\n"
-    "surface minimize resistance in water,\n"
-    "enabling SQUIRTLE to swim at high speeds.");
+    "Zijn schild doet meer dan beschermen.\n"
+    "Door de ronde vorm en de groeven\n"
+    "glijdt hij makkelijk door water.\n"
+    "Zo kan SQUIRTLE heel snel zwemmen.");
 
 const u8 gWartortlePokedexText[] = _(
-    "Its large tail is covered with rich, thick\n"
-    "fur that deepens in color with age.\n"
-    "The scratches on its shell are evidence\n"
-    "of this POKéMON's toughness in battle.");
+    "Zijn grote staart heeft een dikke\n"
+    "vacht die met de tijd donkerder wordt.\n"
+    "Krassen op zijn schild laten zien\n"
+    "hoe sterk hij is in gevechten.");
 
 const u8 gBlastoisePokedexText[] = _(
-    "The waterspouts that protrude from its\n"
-    "shell are highly accurate. Their bullets of\n"
-    "water can precisely nail tin cans from\n"
-    "a distance of over 160 feet.");
+    "De waterkanonnen op zijn schild\n"
+    "zijn heel precies. Hij kan blikjes\n"
+    "raken die meer dan 48 meter\n"
+    "verderop staan.");
 
 const u8 gCaterpiePokedexText[] = _(
-    "Its voracious appetite compels it to\n"
-    "devour leaves bigger than itself without\n"
-    "hesitation. It releases a terribly strong\n"
-    "odor from its antennae.");
+    "Hij heeft honger en eet zelfs\n"
+    "bladeren groter dan hijzelf.\n"
+    "Uit zijn voelsprieten komt een\n"
+    "heel sterke geur.");
 
 const u8 gMetapodPokedexText[] = _(
-    "Its shell is as hard as an iron slab.\n"
-    "A METAPOD does not move very much\n"
-    "because it is preparing its soft innards\n"
-    "for evolution inside the shell.");
+    "Zijn schild is zo hard als ijzer.\n"
+    "METAPOD beweegt bijna niet. Binnen\n"
+    "in zijn schild bereidt zijn zachte\n"
+    "lichaam zich voor op evolutie.");
 
 const u8 gButterfreePokedexText[] = _(
-    "It has a superior ability to search for\n"
-    "delicious honey from flowers. It can seek,\n"
-    "extract, and carry honey from flowers\n"
-    "blooming over six miles away.");
+    "Hij is erg goed in het vinden van\n"
+    "lekkere bloemenhoning. Zelfs van\n"
+    "bloemen op bijna tien kilometer\n"
+    "afstand brengt hij honing mee.");
 
 const u8 gWeedlePokedexText[] = _(
-    "A WEEDLE has an extremely acute sense\n"
-    "of smell. It distinguishes its favorite\n"
-    "kinds of leaves from those it dislikes by\n"
-    "sniffing with its big red proboscis (nose).");
+    "WEEDLE kan heel goed ruiken. Met\n"
+    "zijn grote rode neus ontdekt hij\n"
+    "welke bladeren hij lekker vindt\n"
+    "en welke hij niet lust.");
 
 const u8 gKakunaPokedexText[] = _(
-    "It remains virtually immobile while it\n"
-    "clings to a tree. However, on the inside,\n"
-    "it busily prepares for evolution. This is\n"
-    "evident from how hot its shell becomes.");
+    "Hij hangt bijna roerloos aan een\n"
+    "boom. Binnen in zijn schild bereidt\n"
+    "hij zich druk voor op evolutie.\n"
+    "Daardoor wordt zijn schild heet.");
 
 const u8 gBeedrillPokedexText[] = _(
-    "A BEEDRILL is extremely territorial.\n"
-    "For safety reasons, no one should \n"
-    "ever approach its nest. If angered,\n"
-    "they will attack in a swarm.");
+    "BEEDRILL verdedigt zijn gebied fel.\n"
+    "Blijf voor je veiligheid uit de buurt\n"
+    "van zijn nest. Boze BEEDRILL vallen\n"
+    "namelijk samen in een zwerm aan.");
 
 const u8 gPidgeyPokedexText[] = _(
-    "It has an extremely sharp sense of\n"
-    "direction. It can unerringly return home to\n"
-    "its nest, however far it may be removed\n"
-    "from its familiar surroundings.");
+    "Hij heeft een uitstekend richtings-\n"
+    "gevoel. Hoe ver hij ook wegvliegt,\n"
+    "hij vindt altijd de weg terug\n"
+    "naar zijn eigen nest.");
 
 const u8 gPidgeottoPokedexText[] = _(
-    "This POKéMON flies around, patrolling its\n"
-    "large territory. If its living space is\n"
-    "violated, it shows no mercy in thoroughly\n"
-    "punishing the foe with its sharp claws.");
+    "Deze POKéMON bewaakt vliegend zijn\n"
+    "grote leefgebied. Komt een vijand\n"
+    "te dichtbij, dan valt hij zonder\n"
+    "genade aan met scherpe klauwen.");
 
 const u8 gPidgeotPokedexText[] = _(
-    "This POKéMON has gorgeous, glossy\n"
-    "feathers. Many TRAINERS are so captivated\n"
-    "by the beautiful feathers on its head that\n"
-    "they choose PIDGEOT as their POKéMON.");
+    "Deze POKéMON heeft prachtige,\n"
+    "glanzende veren. Veel TRAINERS\n"
+    "kiezen hem om de mooie veren\n"
+    "op zijn kop zo bewonderen.");
 
 const u8 gRattataPokedexText[] = _(
-    "A RATTATA is cautious in the extreme.\n"
-    "Even while it is asleep, it constantly\n"
-    "moves its ears and listens for danger.\n"
-    "It will make its nest anywhere.");
+    "RATTATA is heel voorzichtig. Zelfs\n"
+    "als hij slaapt, bewegen zijn oren\n"
+    "steeds om naar gevaar te luisteren.\n"
+    "Hij bouwt overal wel een nest.");
 
 const u8 gRaticatePokedexText[] = _(
-    "A RATICATE's sturdy fangs grow steadily.\n"
-    "To keep them ground down, it gnaws on\n"
-    "rocks and logs. It may even chew on the\n"
-    "walls of houses.");
+    "De sterke tanden van RATICATE\n"
+    "blijven groeien. Om ze kort te\n"
+    "houden knaagt hij aan stenen, hout\n"
+    "en soms zelfs aan muren van huizen.");
 
 const u8 gSpearowPokedexText[] = _(
-    "Its loud cry can be heard over half a mile\n"
-    "away. If its high, keening cry is heard\n"
-    "echoing all around, it is a sign that they\n"
-    "are warning each other of danger.");
+    "Zijn luide roep is op bijna een\n"
+    "kilometer afstand te horen. Met die\n"
+    "hoge roep waarschuwen SPEAROW\n"
+    "elkaar voor gevaar.");
 
 const u8 gFearowPokedexText[] = _(
-    "Its long neck and elongated beak are\n"
-    "ideal for catching prey in soil or water.\n"
-    "It deftly moves this extended and skinny\n"
-    "beak to pluck prey.");
+    "Zijn lange nek en snavel zijn goed\n"
+    "om prooien uit grond of water\n"
+    "te halen. Hij gebruikt zijn dunne\n"
+    "snavel heel behendig.");
 
 const u8 gEkansPokedexText[] = _(
-    "An EKANS curls itself up in a spiral while\n"
-    "it rests. This position allows it to quickly\n"
-    "respond to an enemy from any direction\n"
-    "with a threat from its upraised head.");
+    "Tijdens het rusten rolt EKANS zich\n"
+    "op als een spiraal. Zo kan hij snel\n"
+    "naar alle kanten reageren en met\n"
+    "zijn opgeheven kop dreigen.");
 
 const u8 gArbokPokedexText[] = _(
-    "This POKéMON has a terrifically strong\n"
-    "constricting power. It can even flatten\n"
-    "steel oil drums. Once it wraps its body\n"
-    "around its foe, escaping is impossible.");
+    "Deze POKéMON kan ongelooflijk hard\n"
+    "knijpen. Hij drukt zelfs stalen\n"
+    "vaten plat. Houdt hij je eenmaal\n"
+    "vast, dan kun je niet ontsnappen.");
 
 const u8 gPikachuPokedexText[] = _(
-    "It stores electricity in the electric sacs\n"
-    "on its cheeks. When it releases pent-up\n"
-    "energy in a burst, the electric power is\n"
-    "equal to a lightning bolt.");
+    "In zijn wangen bewaart hij stroom.\n"
+    "Als hij alle opgeslagen energie in\n"
+    "één keer loslaat, is die ontlading\n"
+    "zo krachtig als de bliksem.");
 
 const u8 gRaichuPokedexText[] = _(
     "If it stores too much electricity, its\n"
