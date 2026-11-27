@@ -155,154 +155,154 @@ const u8 gPikachuPokedexText[] = _(
     "zo krachtig als de bliksem.");
 
 const u8 gRaichuPokedexText[] = _(
-    "If it stores too much electricity, its\n"
-    "behavior turns aggressive. To avoid this,\n"
-    "it occasionally discharges excess energy\n"
-    "and calms itself down.");
+    "Slaat RAICHU te veel stroom op,\n"
+    "dan wordt hij agressief. Daarom\n"
+    "laat hij soms stroom ontsnappen.\n"
+    "Daar wordt hij weer rustig van.");
 
 const u8 gSandshrewPokedexText[] = _(
-    "When it curls up in a ball, it can make any\n"
-    "attack bounce off harmlessly. Its hide has\n"
-    "turned tough and solid as a result of\n"
-    "living in the desert.");
+    "Hij rolt zich op tot een bal.\n"
+    "Aanvallen ketsen dan op hem af.\n"
+    "Door zijn leven in de woestijn\n"
+    "heeft hij een harde huid gekregen.");
 
 const u8 gSandslashPokedexText[] = _(
-    "It curls up in a ball to protect itself from\n"
-    "enemy attacks. It also curls up to prevent\n"
-    "heatstroke during the daytime when\n"
-    "temperatures rise sharply.");
+    "Hij rolt zich op tegen aanvallen.\n"
+    "Als het overdag ineens heet wordt,\n"
+    "rolt hij zich ook op. Zo voorkomt\n"
+    "hij een zonnesteek.");
 
 const u8 gNidoranFPokedexText[] = _(
-    "Its highly toxic barbs are thought to have\n"
-    "developed as protection for this small-\n"
-    "bodied POKéMON. When enraged, it releases\n"
-    "a horrible toxin from its horn.");
+    "Haar giftige stekels beschermen\n"
+    "deze kleine POKéMON. Als ze\n"
+    "woedend wordt, komt er sterk\n"
+    "gif uit haar hoorn.");
 
 const u8 gNidorinaPokedexText[] = _(
-    "When it is with its friends or\n"
-    "family, its barbs are tucked away to\n"
-    "prevent injury. It appears to become\n"
-    "nervous if separated from the others.");
+    "Bij familie en vrienden houdt ze\n"
+    "haar stekels ingetrokken. Zo doet\n"
+    "ze niemand pijn. Raakt ze hen\n"
+    "kwijt, dan wordt ze rusteloos.");
 
 const u8 gNidoqueenPokedexText[] = _(
-    "It is adept at sending foes flying with\n"
-    "harsh tackles using its tough, scaly body.\n"
-    "This POKéMON is at its strongest when\n"
-    "it is defending its young.");
+    "Met haar harde, geschubde lijf\n"
+    "beukt ze vijanden zo de lucht in.\n"
+    "Ze is op haar sterkst als ze\n"
+    "haar jongen beschermt.");
 
 const u8 gNidoranMPokedexText[] = _(
-    "The male NIDORAN has developed muscles\n"
-    "that freely move its ears in any direction.\n"
-    "Even the slightest sound does not escape\n"
-    "this POKéMON's notice.");
+    "Het mannetje van NIDORAN kan\n"
+    "zijn oren alle kanten op draaien.\n"
+    "Zelfs het zachtste geluid\n"
+    "ontgaat hem niet.");
 
 const u8 gNidorinoPokedexText[] = _(
-    "Its horn is harder than a diamond.\n"
-    "If it senses a hostile presence, all the\n"
-    "barbs on its back bristle up at once, and it\n"
-    "challenges the foe with all its might.");
+    "Zijn hoorn is harder dan diamant.\n"
+    "Bespeurt hij een vijand, dan gaan\n"
+    "zijn rugstekels overeind staan.\n"
+    "Hij valt dan uit alle macht aan.");
 
 const u8 gNidokingPokedexText[] = _(
-    "A NIDOKING's thick tail packs enormously\n"
-    "destructive power capable of toppling\n"
-    "a metal transmission tower. Once it goes\n"
-    "on a rampage, there is no stopping it.");
+    "Met zijn dikke staart kan NIDOKING\n"
+    "zelfs een stalen zendmast omgooien.\n"
+    "Als hij eenmaal tekeergaat,\n"
+    "kan niemand hem tegenhouden.");
 
 const u8 gClefairyPokedexText[] = _(
-    "On every night of a full moon, they come\n"
-    "out to play. When dawn arrives, the tired\n"
-    "CLEFAIRY go to sleep nestled up against\n"
-    "each other in deep and quiet mountains.");
+    "Bij volle maan komen ze spelen.\n"
+    "Bij zonsopgang kruipen de vermoeide\n"
+    "CLEFAIRY dicht tegen elkaar aan.\n"
+    "Ze slapen diep in de stille bergen.");
 
 const u8 gClefablePokedexText[] = _(
-    "A CLEFABLE uses its wings to skip lightly \n"
-    "as if it were flying. Its bouncy step\n"
-    "lets it even walk on water. On quiet,\n"
-    "moonlit nights, it strolls on lakes.");
+    "Met zijn vleugels huppelt hij zo\n"
+    "licht dat hij lijkt te vliegen.\n"
+    "Hij kan zelfs op water lopen.\n"
+    "Op stille nachten loopt hij op meren.");
 
 const u8 gVulpixPokedexText[] = _(
-    "It can freely control fire, making fiery\n"
-    "orbs fly like will-o'-the-wisps. Just\n"
-    "before evolution, its six tails grow hot \n"
-    "as if on fire.");
+    "VULPIX stuurt vuurbolletjes rond\n"
+    "die als dwaallichtjes zweven.\n"
+    "Vlak voor hij evolueert, worden\n"
+    "zijn zes staarten gloeiend heet.");
 
 const u8 gNinetalesPokedexText[] = _(
-    "It has long been said that each of the\n"
-    "nine tails embody an enchanted power.\n"
-    "A long-lived NINETALES will have fur that\n"
-    "shines like gold.");
+    "Volgens een oud verhaal heeft elk\n"
+    "van zijn negen staarten toverkracht.\n"
+    "De vacht van een oude NINETALES\n"
+    "glanst als goud.");
 
 const u8 gJigglypuffPokedexText[] = _(
-    "Nothing can avoid falling asleep hearing a\n"
-    "JIGGLYPUFF's song. The sound waves of its\n"
-    "singing voice match the brain waves of\n"
-    "someone in a deep sleep.");
+    "Wie JIGGLYPUFF hoort zingen, valt\n"
+    "onvermijdelijk in slaap. Zijn lied\n"
+    "heeft dezelfde golven als de hersenen\n"
+    "van iemand die diep slaapt.");
 
 const u8 gWigglytuffPokedexText[] = _(
-    "Its fur is the ultimate in luxuriousness.\n"
-    "Sleeping alongside a WIGGLYTUFF is simply\n"
-    "divine. Its body expands seemingly without\n"
-    "end when it inhales.");
+    "Zijn vacht is heerlijk zacht.\n"
+    "Naast WIGGLYTUFF slaap je zalig.\n"
+    "Als hij inademt, lijkt zijn lijf\n"
+    "eindeloos op te zwellen.");
 
 const u8 gZubatPokedexText[] = _(
-    "While living in pitch-black caverns, their\n"
-    "eyes gradually grew shut and deprived\n"
-    "them of vision. They use ultrasonic waves\n"
-    "to detect obstacles.");
+    "In pikdonkere grotten groeiden\n"
+    "zijn ogen langzaam dicht. Nu\n"
+    "merkt hij hindernissen op met\n"
+    "geluiden die wij niet horen.");
 
 const u8 gGolbatPokedexText[] = _(
-    "Its fangs easily puncture even thick\n"
-    "animal hide. It loves to feast on the blood\n"
-    "of people and POKéMON. It flits about in\n"
-    "darkness and strikes from behind.");
+    "Zijn tanden prikken door dik leer.\n"
+    "Hij drinkt graag bloed van mensen\n"
+    "en POKéMON. Hij vliegt in het donker\n"
+    "en valt van achteren aan.");
 
 const u8 gOddishPokedexText[] = _(
-    "This POKéMON grows by absorbing moonlight.\n"
-    "During the daytime, it buries itself in the\n"
-    "ground, leaving only its leaves exposed to\n"
-    "avoid detection by its enemies.");
+    "ODDISH groeit door maanlicht\n"
+    "op te nemen. Overdag graaft hij\n"
+    "zich in. Alleen zijn bladeren steken\n"
+    "uit, zodat vijanden hem niet zien.");
 
 const u8 gGloomPokedexText[] = _(
-    "A horribly noxious honey drools from its\n"
-    "mouth. One whiff of the honey can result\n"
-    "in memory loss. Some fans are said to\n"
-    "enjoy this overwhelming stink, however.");
+    "Uit zijn mond druipt stinkende\n"
+    "honing. Eén snuif en je kunt je\n"
+    "geheugen verliezen. Toch schijnen\n"
+    "sommige fans die stank fijn te vinden.");
 
 const u8 gVileplumePokedexText[] = _(
-    "In seasons when it produces more pollen,\n"
-    "the air around a VILEPLUME turns yellow\n"
-    "with the powder as it walks. The pollen is\n"
-    "highly toxic and causes paralysis.");
+    "Als hij veel stuifmeel maakt,\n"
+    "kleurt de lucht geel waar hij loopt.\n"
+    "Het stuifmeel is erg giftig en\n"
+    "kan je verlammen.");
 
 const u8 gParasPokedexText[] = _(
-    "A PARAS has parasitic tochukaso\n"
-    "mushrooms growing on its back. They grow\n"
-    "by drawing nutrients from the host. They\n"
-    "are valued as a medicine for long life.");
+    "Op zijn rug groeien paddenstoelen\n"
+    "die tochukaso heten. Ze halen hun\n"
+    "voeding uit PARAS. Als medicijn\n"
+    "zouden ze je langer laten leven.");
 
 const u8 gParasectPokedexText[] = _(
-    "PARASECT are known to infest the roots of\n"
-    "large trees en masse and drain nutrients.\n"
-    "When an infested tree dies, they move\n"
-    "onto another tree all at once.");
+    "PARASECT zitten in groepen bij de\n"
+    "wortels van grote bomen en zuigen\n"
+    "er voeding uit. Sterft zo'n boom,\n"
+    "dan verhuizen ze samen naar een andere.");
 
 const u8 gVenonatPokedexText[] = _(
-    "Its coat of thin, stiff hair that covers\n"
-    "its entire body is said to have evolved\n"
-    "for protection. Its large eyes never fail\n"
-    "to spot even miniscule prey.");
+    "Zijn hele lijf zit vol dunne,\n"
+    "stugge haren die hem beschermen.\n"
+    "Zijn grote ogen zien zelfs\n"
+    "de allerkleinste prooien.");
 
 const u8 gVenomothPokedexText[] = _(
-    "VENOMOTH are nocturnal--they only are\n"
-    "active at night. Their favorite prey are\n"
-    "insects that gather around streetlights,\n"
-    "attracted by the light in the darkness.");
+    "VENOMOTH is 's nachts actief.\n"
+    "Hij jaagt het liefst op insecten\n"
+    "die rond straatlantaarns zwermen.\n"
+    "Die komen op het licht af.");
 
 const u8 gDiglettPokedexText[] = _(
-    "DIGLETT are raised in most farms.\n"
-    "The reason is simple--wherever they\n"
-    "burrow, the soil is left perfectly tilled\n"
-    "for growing delicious crops.");
+    "Op de meeste boerderijen houden\n"
+    "ze DIGLETT. Waar hij graaft, maakt\n"
+    "hij de aarde lekker los. Daarop\n"
+    "kunnen heerlijke gewassen groeien.");
 
 const u8 gDugtrioPokedexText[] = _(
     "Because the triplets originally split from\n"
