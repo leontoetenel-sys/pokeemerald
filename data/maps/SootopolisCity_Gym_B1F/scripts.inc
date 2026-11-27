@@ -145,15 +145,17 @@ SootopolisCity_Gym_B1F_Text_TiffanyPostBattle:
 	.string "with how young or old you are.$"
 
 SootopolisCity_Gym_B1F_Text_BethanyIntro:
-	.string "When I'm with my POKéMON, the time\n"
-	.string "flies by before you can say, “Oops!”$"
+	.string "Ooit was ik een gemengde\n"
+	.string "trainer, maar nu zit ik\l"
+	.string "enkel in het water.$"
 
 SootopolisCity_Gym_B1F_Text_BethanyDefeat:
-	.string "Oops!$"
+	.string "Ooit deed ik ook iets met\n"
+	.string "vogels erbij, mooie tijden.$"
 
 SootopolisCity_Gym_B1F_Text_BethanyPostBattle:
-	.string "I wish I could forget about lost causes\n"
-	.string "before I can manage an “Oops!”$"
+	.string "Mijn POKéMON voelen zich\n"
+	.string "helemaal thuis in het water.$"
 
 SootopolisCity_Gym_B1F_Text_AnnikaIntro:
 	.string "I can battle with really rare POKéMON\n"
