@@ -3004,11 +3004,24 @@ static const struct TrainerMonNoItemCustomMoves sParty_Jaclyn[] = {
     }
 };
 
-static const struct TrainerMonNoItemDefaultMoves sParty_Hannah[] = {
+static const struct TrainerMonNoItemCustomMoves sParty_Hannah[] = {
     {
     .iv = 100,
     .lvl = 36,
-    .species = SPECIES_KIRLIA,
+    .species = SPECIES_SABLEYE,
+    .moves = {MOVE_FAKE_OUT, MOVE_DETECT, MOVE_FAINT_ATTACK, MOVE_KNOCK_OFF}
+    },
+    {
+    .iv = 100,
+    .lvl = 36,
+    .species = SPECIES_ALAKAZAM,
+    .moves = {MOVE_RECOVER, MOVE_FUTURE_SIGHT, MOVE_CALM_MIND, MOVE_PSYCHIC}
+    },
+    {
+    .iv = 100,
+    .lvl = 39,
+    .species = SPECIES_GENGAR,
+    .moves = {MOVE_SHADOW_BALL, MOVE_BRICK_BREAK, MOVE_GIGA_DRAIN, MOVE_HYPNOSIS}
     }
 };
 
