@@ -408,19 +408,19 @@ MossdeepCity_Gym_Text_BlakePostBattle:
 	.string "I didn't blow on it! Honestly!$"
 
 MossdeepCity_Gym_Text_HannahIntro:
-	.string "When you lose to me, don't be too hard\n"
-	.string "on yourself.\p"
-	.string "It's not that you're weak--I'm just\n"
-	.string "too strong!$"
+	.string "Ik snap nog steeds niet wat ik\n"
+	.string "in de PSYCHIC GYM doe,\l"
+	.string "ik ben dol op spoken!\p"
+	.string "Boo!!!$"
 
 MossdeepCity_Gym_Text_HannahDefeat:
-	.string "You're just too strong!$"
+	.string "Ik word echt ooit de beste\n"
+	.string "ter wereld. Misschien moet ik\l"
+	.string "mijn Graveler opgraven.$"
 
 MossdeepCity_Gym_Text_HannahPostBattle:
-	.string "I'm not going to get down on myself for\n"
-	.string "losing. I just need to train harder.\p"
-	.string "Positive thinking--that's my strong\n"
-	.string "point!$"
+	.string "Ik geef niet op! Ooit word ik\n"
+	.string "de beste ter wereld!$"
 
 MossdeepCity_Gym_Text_SamanthaIntro:
 	.string "I see it…\n"
