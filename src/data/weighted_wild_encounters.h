@@ -51,16 +51,16 @@ static const struct WeightedWildPokemon sWeighted_ROUTE110_land_mons[] = {
     {{13, 13, SPECIES_ODDISH}, 10},
     {{12, 12, SPECIES_SPEAROW}, 8},
     {{12, 13, SPECIES_PLUSLE}, 2},
-    {{6, 6, SPECIES_EEVEE}, 2},
-    {{6, 6, SPECIES_PICHU}, 2},
+    {{6, 15, SPECIES_EEVEE}, 2},
+    {{6, 15, SPECIES_PICHU}, 2},
 };
 static const struct WeightedWildPokemon sWeighted_ROUTE111_land_mons[] = {
     {{19, 21, SPECIES_SANDSHREW}, 29},
     {{19, 21, SPECIES_TRAPINCH}, 34},
     {{19, 21, SPECIES_BALTOY}, 24},
     {{20, 22, SPECIES_CACNEA}, 6},
-    {{8, 8, SPECIES_EEVEE}, 2},
-    {{8, 8, SPECIES_PICHU}, 2},
+    {{6, 15, SPECIES_EEVEE}, 2},
+    {{6, 15, SPECIES_PICHU}, 2},
     {{19, 21, SPECIES_LARVITAR}, 3},
 };
 static const struct WeightedWildPokemon sWeighted_ROUTE110_water_mons[] = {
@@ -114,12 +114,14 @@ static const struct WeightedWildPokemon sWeighted_ROUTE117_land_mons[] = {
     {{13, 14, SPECIES_HOUNDOUR}, 5},
 };
 static const struct WeightedWildPokemon sWeighted_ROUTE118_land_mons[] = {
-    {{24, 26, SPECIES_ZIGZAGOON}, 30},
-    {{24, 26, SPECIES_ELECTRIKE}, 30},
+    {{24, 26, SPECIES_ZIGZAGOON}, 28},
+    {{24, 26, SPECIES_ELECTRIKE}, 28},
     {{26, 26, SPECIES_LINOONE}, 10},
     {{26, 26, SPECIES_MANECTRIC}, 10},
     {{25, 27, SPECIES_HOUNDOUR}, 19},
     {{25, 25, SPECIES_KECLEON}, 1},
+    {{11, 18, SPECIES_EEVEE}, 2},
+    {{5, 18, SPECIES_PICHU}, 2},
 };
 static const struct WeightedWildPokemon sWeighted_PETALBURG_WOODS_land_mons[] = {
     {{5, 6, SPECIES_POOCHYENA}, 25},
