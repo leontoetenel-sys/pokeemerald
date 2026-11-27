@@ -26,22 +26,23 @@ MtPyre_1F_EventScript_Man::
 	end
 
 MtPyre_1F_Text_TakeThisForYourOwnGood:
-	.string "All sorts of beings wander the slopes\n"
-	.string "of MT. PYRE…\p"
-	.string "There is no telling what may happen.\n"
-	.string "Take this. It's for your own good.$"
+	.string "Op de hellingen van MT. PYRE\n"
+	.string "dwalen allerlei wezens rond...\p"
+	.string "Je weet nooit wat er gebeurt.\n"
+	.string "Neem dit, voor je eigen bestwil.$"
 
 MtPyre_1F_Text_ExplainCleanseTag:
-	.string "Have a POKéMON hold that\n"
-	.string "CLEANSE TAG.\p"
-	.string "It will help ward off wild POKéMON.$"
+	.string "Laat een POKéMON die\n"
+	.string "CLEANSE TAG vasthouden.\p"
+	.string "Die helpt wilde POKéMON\n"
+	.string "op afstand te houden.$"
 
 MtPyre_1F_Text_ComeToPayRespects:
-	.string "Did you come to pay your respect\n"
-	.string "to the spirits of departed POKéMON?\p"
-	.string "You must care for your POKéMON a lot.$"
+	.string "Kom je de geesten van overleden\n"
+	.string "POKéMON eer bewijzen?\p"
+	.string "Je geeft vast veel om je POKéMON.$"
 
 MtPyre_1F_Text_RestingPlaceOfZigzagoon:
-	.string "This is the final resting place of my\n"
-	.string "ZIGZAGOON. I cherished it…$"
+	.string "Hier rust mijn ZIGZAGOON.\n"
+	.string "Ik hield heel veel van hem...$"
 
