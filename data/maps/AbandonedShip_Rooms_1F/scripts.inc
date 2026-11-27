@@ -32,46 +32,46 @@ AbandonedShip_Rooms_1F_EventScript_ThaliaRematch::
 	end
 
 AbandonedShip_Rooms_1F_Text_TakingALookAround:
-	.string "Ships of this sort are rare, so I'm\n"
-	.string "taking a look around.\p"
-	.string "Hmhm…\n"
-	.string "There appear to be other cabins…$"
+	.string "Zo'n schip zie je niet vaak.\n"
+	.string "Ik kijk eens rustig rond.\p"
+	.string "Hmhm... Er lijken nog meer\n"
+	.string "kajuiten te zijn...$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaIntro:
-	.string "What on earth would compel you to\n"
-	.string "come here? You must be curious!$"
+	.string "Wat brengt jou hier?\n"
+	.string "Jij bent vast nieuwsgierig!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaDefeat:
-	.string "Not just curious, but also strong…$"
+	.string "Nieuwsgierig én sterk...$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaPostBattle:
-	.string "The man next door…\p"
-	.string "He says he's just sightseeing,\n"
-	.string "but I don't know about that.$"
+	.string "De man hiernaast...\p"
+	.string "Hij zegt dat hij rondkijkt,\n"
+	.string "maar ik vertrouw het niet.$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRegister:
-	.string "You're such a tough TRAINER!\n"
-	.string "Let me register you as a memento!$"
+	.string "Jij bent een sterke TRAINER!\n"
+	.string "Mag ik je registreren?$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRematchIntro:
-	.string "What on earth would compel you to\n"
-	.string "come back? You must really be curious!$"
+	.string "Wat brengt jou weer hier?\n"
+	.string "Jij bent wel erg nieuwsgierig!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRematchDefeat:
-	.string "Aren't you too strong?$"
+	.string "Ben jij niet een beetje té sterk?$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaPostRematch:
-	.string "I'm sure that man's up to something!\n"
-	.string "He just acts so suspiciously!$"
+	.string "Die man voert iets in zijn schild!\n"
+	.string "Hij doet zo verdacht!$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusIntro:
 	.string "Waaah!\n"
-	.string "I've been found! …Huh?$"
+	.string "Ik ben gevonden! ...Huh?$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusDefeat:
-	.string "Oh, you're not my mom.$"
+	.string "O, jij bent mijn moeder niet.$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusPostBattle:
-	.string "I'm in trouble with my mom, so I ran.\n"
-	.string "Keep it a secret where I am!$"
+	.string "Ik heb ruzie met mijn moeder en\n"
+	.string "ben weggelopen. Niet verklappen!$"
 
