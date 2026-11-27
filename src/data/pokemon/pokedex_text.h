@@ -2255,67 +2255,67 @@ const u8 gMetangPokedexText[] = _(
     "meer dan 95 kilometer per uur.");
 
 const u8 gMetagrossPokedexText[] = _(
-    "METAGROSS has four brains that are joined\n"
-    "by a complex neural network. As a result of\n"
-    "integration, this POKéMON is smarter than\n"
-    "a supercomputer.");
+    "METAGROSS heeft vier breinen.\n"
+    "Die zijn verbonden door een\n"
+    "ingewikkeld netwerk. Samen zijn\n"
+    "ze slimmer dan een supercomputer.");
 
 const u8 gRegirockPokedexText[] = _(
-    "A POKéMON that is made entirely of rocks\n"
-    "and boulders. If parts of its body chip off\n"
-    "in battle, REGIROCK repairs itself by\n"
-    "adding new rocks.");
+    "REGIROCK bestaat uit stenen\n"
+    "en rotsblokken. Breken er in\n"
+    "een gevecht stukken af, dan zet\n"
+    "hij er nieuwe stenen voor terug.");
 
 const u8 gRegicePokedexText[] = _(
-    "Its entire body is made of Antarctic ice.\n"
-    "After extensive studies, researchers\n"
-    "believe the ice was formed during an\n"
-    "ice age.");
+    "REGICE bestaat uit ijs van\n"
+    "Antarctica. Na veel onderzoek\n"
+    "denken wetenschappers dat dit\n"
+    "ijs tijdens een ijstijd ontstond.");
 
 const u8 gRegisteelPokedexText[] = _(
-    "Its body is harder than any other kind of\n"
-    "metal. The body metal is composed of a\n"
-    "mysterious substance. Not only is it hard,\n"
-    "it shrinks and stretches flexibly.");
+    "Zijn lijf is harder dan elk\n"
+    "ander metaal. Het bestaat uit\n"
+    "een mysterieuze stof die toch\n"
+    "makkelijk krimpt en uitrekt.");
 
 const u8 gLatiasPokedexText[] = _(
-    "They make a small herd of only several\n"
-    "members. They rarely make contact with\n"
-    "people or other POKéMON. They disappear\n"
-    "if they sense enemies.");
+    "LATIAS leven in kleine groepen.\n"
+    "Ze zoeken zelden contact met\n"
+    "mensen of andere POKéMON. Bij\n"
+    "gevaar verdwijnen ze.");
 
 const u8 gLatiosPokedexText[] = _(
-    "Even in hiding, it can detect the locations\n"
-    "of others and sense their emotions since\n"
-    "it has telepathy. Its intelligence allows\n"
-    "it to understand human languages.");
+    "Met telepathie merkt LATIOS waar\n"
+    "anderen zijn en wat ze voelen,\n"
+    "zelfs vanuit zijn schuilplaats.\n"
+    "Hij is slim en begrijpt mensentaal.");
 
 const u8 gKyogrePokedexText[] = _(
-    "KYOGRE has appeared in mythology as the\n"
-    "creator of the sea. After long years of\n"
-    "feuding with GROUDON, it took to sleep at\n"
-    "the bottom of the sea.");
+    "Volgens oude verhalen schiep\n"
+    "KYOGRE de zee. Na jaren strijd\n"
+    "met GROUDON viel hij op de\n"
+    "zeebodem in slaap.");
 
 const u8 gGroudonPokedexText[] = _(
-    "GROUDON has appeared in mythology as the\n"
-    "creator of the land. It sleeps in magma\n"
-    "underground and is said to make volcanoes\n"
-    "erupt on awakening.");
+    "Volgens oude verhalen maakte\n"
+    "GROUDON het land. Hij slaapt\n"
+    "in magma. Wordt hij wakker,\n"
+    "dan zouden vulkanen uitbarsten.");
 
 const u8 gRayquazaPokedexText[] = _(
-    "A POKéMON that flies endlessly in the\n"
-    "ozone layer. It is said it would descend\n"
-    "to the ground if KYOGRE and GROUDON\n"
-    "were to fight.");
+    "RAYQUAZA blijft maar vliegen\n"
+    "in de ozonlaag. Men zegt dat\n"
+    "hij naar de aarde afdaalt als\n"
+    "KYOGRE en GROUDON gaan vechten.");
 
 const u8 gJirachiPokedexText[] = _(
-    "JIRACHI is said to make wishes come true.\n"
-    "While it sleeps, a tough crystalline shell\n"
-    "envelops the body to protect it from\n"
-    "enemies.");
+    "JIRACHI zou wensen laten\n"
+    "uitkomen. Als hij slaapt,\n"
+    "beschermt een harde laag\n"
+    "kristal hem tegen zijn vijanden.");
 
 const u8 gDeoxysPokedexText[] = _(
-    "A POKéMON that mutated from an\n"
-    "extraterrestrial virus exposed to a laser\n"
-    "beam. Its body is configured for superior\n"
-    "agility and speed.");
+    "DEOXYS ontstond toen een laser\n"
+    "een virus uit de ruimte trof.\n"
+    "Door die verandering kreeg hij\n"
+    "een snel en wendbaar lichaam.");
