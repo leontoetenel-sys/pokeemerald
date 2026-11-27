@@ -112,7 +112,7 @@ AbandonedShip_Rooms2_1F_Text_KiraRematchIntro:
 	.string "verliezer stopt met zoeken?$"
 
 AbandonedShip_Rooms2_1F_Text_KiraRematchDefeat:
-	.string "KIRA: O, we hebben weer verloren...$"
+	.string "KIRA: O, weer verloren...$"
 
 AbandonedShip_Rooms2_1F_Text_KiraPostRematch:
 	.string "KIRA: We gaan pas weg als onze\n"
@@ -137,7 +137,7 @@ AbandonedShip_Rooms2_1F_Text_JaniPostBattle:
 
 AbandonedShip_Rooms2_1F_Text_GarrisonIntro:
 	.string "Kracht en medeleven...\n"
-	.string "Dat zijn de schatten van een TRAINER!$"
+	.string "Dat zijn echte TRAINER-schatten!$"
 
 AbandonedShip_Rooms2_1F_Text_GarrisonDefeat:
 	.string "Ah, er is iets aan jou\n"
